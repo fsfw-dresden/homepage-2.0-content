@@ -11,25 +11,74 @@ save_as: index.html
         <li>Verbesserung von freier Software und zugehöriger Dokumentation</li>
         <li>Steigerung der Zugänglichkeit von Wissen</li>
     </ul>
+    <div about="http://www2.htw-dresden.de/~s72785/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm">
+        <h3 id="vorstellungsvortrag-lightningtalk-datenspuren2016">Vorstellungsvortrag</h3>
+        <video style="max-width: 480;" preload="none" autobuffer controls poster="img/Die-FSFW-at-Lightningtalks-Datenspuren2016.jpg">
+        <source src="http://www2.htw-dresden.de/~s72785/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm" type="video/webm" style="max-width:480" />
+        <div>Schade – hier käme ein Video, wenn Ihr Browser HTML5 Unterstützung hätte, wie z.B. der <a href="https://www.mozilla.org/">aktuelle von Mozilla</a></div>
+        </video>
+        <div>
+                <a href="https://fsfw-dresden.de/" property="dct:title" rel="cc:attributionURL">Die FSFW stellt sich vor</a>,
+                mit <a href="https://wwwtcs.inf.tu-dresden.de/~borch/cv.html" property="cc:attributionName" rel="dct:creator" title="Vortragender" target="_blank">Daniel Borchmann</a>
+                und <a property="cc:attributionName" rel="dct:supporter" href="https://wiki.c3d2.de/Benutzer:Eri!" title="Organisation und Moderator der Lightningtalks" target="_blank">eri!</a>,
+                <a href="https://datenspuren.de/2016/fahrplan/events/7782.html" target="_blank" title="Beiträge bei den Datenspuren 2016 in den Technischen Sammlungen Dresden">Lightning Talks</a>,
+                lizensiert unter <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="Creative Commons Attribution ShareAlike License 4.0">CC-BY-SA&nbsp;4.0</a>,
+                <a href="https://media.ccc.de/v/DS2016-7782-lightning_talks" title="Aufzeichnungen der Lightning Talks bei CCC-TV">Quelle</a>  (<a href="https://datenspuren.de/2016/mitschnitte.html" target="_blank">Aufzeichnungen der Datenspuren</a>)
+        </div>
+    </div>
 </section>
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
-    <section id="lpd">
-      <h3>Linux-Presentation-Day mit Install-Party</h3>
-      <p>Am Samstag den 30. April ist der Linux-Presentation-Day 2016. Die FSFW Dresden bietet an diesem Tag ein Programm aus Informationsvortrag und dem Angebot, bei der Installation und Einrichtung von Linux behilflich zu sein, an. Weitere <a href="https://fsfw-dresden.de/lpd">Infos in unserem Wiki</a>.</p>
+    <section id="latex-kurs-ws2016" class="news">
+        <span datetime="2016-11-01">01.11.2016</span>
+        <h3>LaTeX-Kurs an der HTW</h3>
+        <p>Ab Dienstag den 01.11.2016 läuft wieder ein wöchentlicher Kurs in acht Veranstaltungen mit
+           <a href="https://www.htw-dresden.de/fakultaet-informatikmathematik/fakultaet/einrichtungen/fachschaftsrat-informatikmathematik/latex.html">Unterstützung des FSR Informatik/Mathematik</a>
+           an der HTW Dresden.  Der Zugang ist frei.  Externe sollten überpünktlich sein um einen
+           Zugang im Labor zu erhalten.  Eigene Rechner können gerne mitgebracht werden, allerdings
+           ist das WLAN nicht offen und eine eigene Verteilerdose für Strom kann nicht schaden.
+        </p>
+        <dl>
+            <dt>Ort</dt>
+            <dd>
+                HTW&nbsp;Dresden,&nbsp;Zentralgebäude&nbsp;Raum&nbsp;Z&nbsp;136b <br>
+                Friedrich-List-Platz&nbsp;1<br>
+                01069&nbsp;Dresden<br>
+                <a href="https://www.openstreetmap.org/node/2746371632">Karte</a>
+            </dd>
+            <dt>Material und weitere Informationen</dt>
+            <dd>
+                <a href="https://lat.inf.tu-dresden.de/~borch/lehre/2016-latex/index.html">Website des Kurses</a>
+            </dd>
+            <dt>Hilfe</dt>
+            <dd><a href="#latex-sprechstunde">Fragen zum Thema auch gerne bei unserer Sprechstunde</a></dd>
+        </dl>
     </section>
-    <section id="latex-sprechstunde">
-        <h3>LaTeX und LibreOffice Sprechstunde</h3>
-        <p>Wir bieten im Wintersemester 15/16 regelmäßig eine
+    <section id="uni-stick" class="news">
+        <span datetime="2016-10-29">29.10.2016</span>
+        <h3>Projekt: Uni-Stick</h3>
+        <p>Mehr als 60 USB-Stick (bezahlt von StuRa-Geld) voller nützlicher freier Software fürs Studium
+        (Debian Live-System und Windows-Programme) wurden am 17.10.2016 an die anwesenden Studis verteilt.
+        Über 4000 Gutschein-Flyer waren in den Erstitüten der Fachschaftsräte. Die Nachfrage war deutlich
+        größer als das Angebot. Für die ca. 250 Anwesenden gab es vorher noch einen Vortrag über die wichtigsten
+        Programme auf dem Stick und freie Software im Allgemeinen.
+        Mehr Infos unter <a href="//fsfw-dresden.de/uni-stick">fsfw-dresden.de/uni-stick</a>.</p>
+        <div align="center">
+        <a href="//fsfw-dresden.de/uni-stick"><img src="./img/uni-stick-ausgabe-vortrag.jpg" title="Foto Uni-Stick-Ausgabe-Vortrag" width="400px"></a>
+        </div>
+    </section>
+    <section id="latex-sprechstunde" class="news">
+        <span datetime="2016-04-14">14.04.2016</span>
+        <h3>FSFW Sprechstunde</h3>
+        <p>Wir bieten seit dem Wintersemester 15/16 regelmäßig eine
            öffentliche “Sprechstunde” zur Unterstützung bei
-           Fragen zum freien Text-Satzsystem LaTeX oder zu
-           Libre- bzw. OpenOffice.</p>
-        <p>Einfach mal vorbeikommen… Nähere Infos, Termine, Ort: <a href="//wiki.fsfw-dresden.de/doku.php?id=doku:sprechstunde#latex-helpdesk_in_der_slub">hier</a></p>
+           Fragen zum freien Text-Satzsystem LaTeX, zu Libre- bzw. OpenOffice und zu anderen Fragen rund um freie Software im Studium.</p>
+        <p>Einfach mal vorbeikommen… Nähere Infos, Termine, Ort unter <a href="//fsfw-dresden.de/sprechstunde">fsfw-dresden.de/sprechstunde</a>.
     </section>
 </section>
 <hr>
-<section class="vevent" id="treffen">
+<section class="vevent" id="plenum">
     <h2 class="category">Regelmäßige Treffen ("Plenum")</h2>
     <p>Interessierte sind herzlich willkommen.</p>
     <dl>

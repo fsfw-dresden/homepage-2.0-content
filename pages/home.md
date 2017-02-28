@@ -13,7 +13,7 @@ save_as: index.html
     </ul>
     <div about="http://www2.htw-dresden.de/~s72785/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm">
         <h3 id="vorstellungsvortrag-lightningtalk-datenspuren2016">Vorstellungsvortrag</h3>
-        <video style="max-width: 480pt;" preload="none" autobuffer controls poster="img/Die-FSFW-at-Lightningtalks-Datenspuren2016.jpg">
+        <video preload="none" autobuffer controls poster="img/Die-FSFW-at-Lightningtalks-Datenspuren2016.jpg">
         <source src="http://www2.htw-dresden.de/~s72785/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm" type="video/webm" style="max-width:480" />
         <div>Schade – hier käme ein Video, wenn Ihr Browser HTML5 Unterstützung hätte, wie z.B. der <a href="https://www.mozilla.org/">aktuelle von Mozilla</a></div>
         </video>

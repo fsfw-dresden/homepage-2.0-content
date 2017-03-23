@@ -46,7 +46,7 @@ save_as: themen.html
     <p class="explanation">Zum Glück stehen Techniken zur freien Verfügung, die die individuelle Privatsphäre und die Vertraulichkeit schützen können; zum Beispiel <a href="https://de.wikipedia.org/wiki/OpenPGP">OpenPGP</a> für E-Mails und <a href="https://de.wikipedia.org/wiki/Off-the-Record_Messaging">OTR</a> für Instant Messenger.</p>
     <p class="conclusion">Wir setzen uns dafür ein, dass Studenten, Wissenschaftler und alle anderen Menschen ihre Privatsphäre schützen und in gutem Vertrauen darauf miteinander kommunizieren können.</p>
 </section>
-<footer>
+<footer class="image-license">
     <h2>Bildmaterial (von oben nach unten)</h2>
     <ul id="imagecredit">
         <li id="imagecredit1">&quot;<a href="https://www.flickr.com/photos/jdhancock/6068008931/">Together</a>&quot; von <a href="https://www.flickr.com/photos/jdhancock/">jdhancock</a>, lizenziert unter <a href="https://creativecommons.org/licenses/by/2.0/">CC-BY 2.0</a></li>

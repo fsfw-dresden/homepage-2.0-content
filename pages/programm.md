@@ -58,7 +58,7 @@ save_as: programm.html
     <!-- <h2 id="unterstützer">Unterstützer</h2> -->
     <!-- <p><em>kommt noch</em></p> -->
 </section>
-<footer>
+<footer class="image-license">
     <h2>Bildmaterial</h2>
     <ul id="imagecredit">
         <li id="imagecredit1">&quot;<a href="https://www.flickr.com/photos/jdhancock/6068008931/">Together</a>&quot; von <a href="https://www.flickr.com/photos/jdhancock/">jdhancock</a>, lizenziert unter <a href="https://creativecommons.org/licenses/by/2.0/">CC-BY 2.0</a></li>

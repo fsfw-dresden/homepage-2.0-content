@@ -61,11 +61,11 @@ Kommt es zum Ausfall einer Plattform hilft kein [Service-Level Agreement][sla] (
 mit welchem der Anbieter seine Zuverlässigkeit gegenüber dem Kunden verspricht.
 Dann sind die Systeme halt aus, nicht erreichbar oder in sonstigen Zuständen – der
 Kunde hat hier keine Eingriffsmöglichkeiten. Es bleiben lediglich rechtliche
-Schritte, wie Rückzahlungen oder Entschädigungen. Steht mein Geschäft aber wegen
+Schritte, wie Rückzahlungen oder Entschädigungen. Steht das eigene Geschäft aber wegen
 Ausfall für mehrere Tage still, ist ein unverschuldeter finanzieller Verlust unumgänglich.
 
 Noch schlimmer als ein Ausfall ist ein rufschädigender Verlust von
-Kundendaten im eigenen Geschäft. Nutzt eine Firma z.B. ein cloud-basiertes [CRM-System][crm]
+Kundendaten des eigenen Betriebs. Nutzt eine Firma z.B. ein Cloud-basiertes [CRM-System][crm]
 zur Verwaltung von Kunden und Aufträgen, und die Kundendaten dieser SaaS-Plattform
 werden entwendet und auf einem Schwarzmarkt verkauft, ist schnell der Kunde
 des SaaS-Produkts (die Firma) Ziel von Kritik. Ob diese Kritik gerechtfertigt ist oder nicht ist
@@ -97,7 +97,8 @@ Hier geht es um Punkte wie Vertrauen, Zuverlässigkeit und Verantwortungsbewusst
 Dinge, die sowieso zu einer funktionierenden Gesellschaft gehören sollten, erweitert
 auf praktische Umsetzung von IT-Infrastruktur.
 
-Zentrale Plattformen sind deshalb so groß und beliebt, weil sie sehr einfach
+Zentrale Plattformen wie Facebook oder auch Atlassian sind so groß und
+beliebt, weil sie sehr einfach
 bedienbar und ohne eigenen Aufwand verwendbar sind. Aber dieser Komfort
 hat seinen Preis – besonders wenn für die Nutzung keine Kosten beim Kunden entstehen.
 **Wenn der Dienst sich nicht durch Nutzungspreise finanziert,
@@ -115,25 +116,23 @@ Oder [Passwort-Datenbanken][leak-linkedin]? Oder
 [gekaperte E-Mail-Konten][yahoo-hack]?
 
 ## Wer ist nun schuld? Der Nutzer oder der Anbieter?
-Ich möchte diesen Moment nutzen, um allen IT-fernen Menschen die Schuld am derzeitigen
-Zustand unserer Technologie zu geben. Ihr seid es, die durch unreflektiertes Handeln
-datenschutzfeindliche Produkte auf dem Markt halten! Und diese zu neuem Wachstum
-[ermutigt][denmark-digital-ambassador]! Seit Jahren warnen
-wir davor, welche Macht [die Anhäufung von Daten][vds-spitz] haben kann! Aber ihr
-hört ja nicht auf uns…
+Zu gerne würde man an dieser Stelle den schlechten Zustand unserer Technologie
+auf die Konsumenten schieben. Denn am Ende halten sich auf dem Markt nur
+Produkte, die von Kunden auch nachgefragt werden. Und diese sind zur Zeit nun
+mal überwiegend datenschutzfeindlich. Es geht sogar so weit, dass die großen
+Plattformen [mehr und mehr an politischem Gewicht gewinnen][denmark-digital-ambassador].
+Und das alles, obwohl seit Jahren davor gewarnt wird, welche Macht
+[die Anhäufung von Daten][vds-spitz] haben kann!
 
-„Halt, halt!“ rufen Menschen, denen ich solche Dinge an den Kopf werfe – zu Recht!
-Diese Vorwürfe sind natürlich haltlos. **Die Abwelzung von Verantwortung ist nämlich genau das Problem.**
-
-Trotzdem: jeder Mensch, der Plattformen wie Facebook, SaaS wie Slack oder
-Smartphone-Apps wie WhatsApp nutzt muss lernen, welche Folgen dies
+„Halt, stopp!“, rufen Menschen denen man solche Dinge an den Kopf wirft – zu Recht!
+Diese Vorwürfe sind natürlich haltlos. **Die Abwelzung von Verantwortung ist
+nämlich das eigentliche Problem.** Klar ist: jeder Mensch, der Plattformen wie
+Facebook, SaaS wie Slack oder
+Smartphone-Apps wie WhatsApp nutzt muss lernen welche Folgen dies
 beinhaltet. Es ist im 21. Jahrhundert einfach nicht mehr akzeptabel, als Bürger
 einer Demokratie ein technisch ungebildeter Konsument zu sein.
 Und das Problem wächst, je
 technologisierter unser Alltag und unsere Arbeitswelt wird.
-Digitalisierung, Industrie 4.0, künstliche Intelligenz – selbstfahrende Autos,
-Automatisierung, Arbeitplatzabbau. Hier kommen sehr große gesellschaftliche
-Probleme auf uns zu.
 
 Aber wer steht nun in der Pflicht, Technologien gesellschaftlich akzeptabel und
 nachhaltig zu gestalten?
@@ -155,16 +154,16 @@ Goldrauschprogrammierern ihrer Mitverantwortung bewusst zu machen.
 
 Die Informatik muss sich öffnen und aus der Blase hinaustreten. Es ist schön zu einem kleinen
 Kreis Eingeweihter zu gehören und mit dem eigenen Wissen viel Geld machen zu
-können – langfristig gesehen möchte ich aber nicht, dass Algorithmen, die von einem
-homogenen Bruchteil der Bevölkerung [entworfen][ai-bias] wurden, gesellschaftliche Prozesse
-steuern!
+können – langfristig gesehen ist es aber fragwürdig, ob wir
+[Algorithmen, die von einem homogenen Bruchteil der Bevölkerung entworfen wurden][ai-bias],
+gesellschaftliche Prozesse anvertrauen wollen!
 
 ## Tja, und nu?
 An dieser Stelle ist es schwierig einen Bogen auf das eigentliche Thema zurückzuschlagen.
 Ich hoffe es ist ersichtlich, dass diese Diskussion sehr schnell größere Dimensionen
 annimmt. Seit Urzeiten kann man bei jedem neuen Zwischenfall (Datenklau, weltweite
-Systemausfälle, Missbrauch…) ein weltweites Hand-gegen-Stirn-Klatschen
-([Facepalm][facepalm]) hören – aber trotzdem bewegen sich die Dinge gefühlt schneller
+Systemausfälle, Missbrauch…) ein weltweites [Hand-gegen-Stirn-Klatschen]
+[facepalm] hören – aber trotzdem bewegen sich die Dinge gefühlt schneller
 in Richtung unsicherer Systeme.
 
 Menschen sind genervt von Datenschutz-Diskussionen. Die Politik hält
@@ -179,7 +178,7 @@ Rückkehr mehr gibt?
 Wenn politische Systeme, die den einfachen Bürgern eigentlich ein Mitspracherecht
 garantieren sollen, von großen Konzernen gelenkt werden können?
 
-Fakt ist: jeder der heute Daten an Dienste sendet und somit dem Anbieter dahinter
+Fakt ist: jeder der heute [Daten an Dienste sendet][spiegel-echo-look] und somit dem Anbieter dahinter
 ermöglicht, Profile, Netzwerke und Wirtschaftsinformationen aufzubereiten legt Byte für
 Byte den Weg in die eine oder andere Richtung. **Alle, die ein Softwareprodukt
 nutzen geben implizit ihre Zustimmung** zur Art und Weise, wie dieser Dienst
@@ -192,7 +191,9 @@ getan zu haben.
 
 Daher mein Appell: die IT muss sich ihrer wachsenden Verantwortung bewusster werden
 und gegenseitig mahnen. Die Menschen, die außerhalb der Softwareindustrie die
-Produkte nur nutzen wollen, sollten genauer hinschauen. Informiert euch über
+Produkte nur nutzen wollen, sollten – nein, müssen! – genauer hinschauen.
+
+Informiert euch über
 [freie Software][fsfe], über [die Cloud und SaaS][stallman-saas], beim
 [Bundesamt SI][bsi-fuer-buerger], beim
 „[Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung][fiff]“ und
@@ -223,6 +224,7 @@ Produkte auf dem Markt sind und welche Firmen ihr unterstützt!
 [yahoo-hack]: https://www.heise.de/security/meldung/Yahoo-muss-erneut-Massenhack-beichten-Eine-Milliarde-Opfer-3570674.html
 [fb-decline]: http://www.rp-online.de/digitales/internet/facebook-auf-dem-absteigenden-ast-die-zahl-der-nutzer-sinkt-aid-1.5688742
 [ai-bias]: https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals
+[spiegel-echo-look]: http://www.spiegel.de/netzwelt/gadgets/amazon-echo-look-aufregung-um-die-neue-alexa-kamera-a-1145052.html
 
 [xmpp]: http://www.jabber.de/was-ist-jabber/
 [diaspora]: https://de.wikipedia.org/wiki/Diaspora_(Software)

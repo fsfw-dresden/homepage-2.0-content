@@ -84,14 +84,17 @@ Bereich bedeutet dies, dass ich dezentrale Software – z.B. [Jabber][xmpp],
 [Diaspora][diaspora], [Mastodon][mastodon] oder [Rocket.chat][rocketchat]
 verwende und zentrale Dienste ersetze.
 
-Leider bringt dies Arbeit mit sich. Die Software muss installiert und gewartet,
+Leider bringt dies Arbeit und unter Umständen zusätzliche Kosten für Dienstleistungen
+mit sich. Die Software muss installiert und gewartet,
 die Server-Software regelmäßig aktualisiert und der Betrieb abgesichert werden.
 Da gerade kleinere Firmen und Privatpersonen dies oft zeitlich nicht stemmen können,
 hilft es, sich in Gruppen zusammen zu schließen. Dies bedeutet z.B., dass ein
 paar Menschen zusammen einen Server mieten und darauf Chat-Software für diese
 Gruppe und weitere Freunde betreiben. Das Modell könnte man auch auf Firmen
 erweitern. Hierzu können sich Firmen zusammenschließen und jede reserviert einen Teil
-der eigenen IT-Kapazitäten für den gemeinsam betriebenen Dienst.
+der eigenen IT-Kapazitäten für den gemeinsam betriebenen Dienst. Beispiele für
+kollektiv betriebene IT-Infrastruktur sind z.B. [das Datenkollektiv](https://datenkollektiv.net/)
+und [IN-Berlin](https://in-berlin.de/verein/).
 
 Hier geht es um Punkte wie Vertrauen, Zuverlässigkeit und Verantwortungsbewusstsein.
 Dinge, die sowieso zu einer funktionierenden Gesellschaft gehören sollten, erweitert
@@ -110,7 +113,7 @@ Wikipedia, die sich auf Spendenbasis finanzieren.
 
 Wenn man nun eigene Infrastruktur betreibt und die Daten der Nutzer die eigenen
 Server nicht verlassen, können diese auch nicht verkauft oder missbraucht werden.
-Und dafür lohnt sich die Arbeit! Wer will schon eigene
+Und dafür lohnt sich der zusätzliche Aufwand allemal! Wer will schon eigene
 [private Bilder frei im Netz][fappening] kursieren sehen?
 Oder [Passwort-Datenbanken][leak-linkedin]? Oder
 [gekaperte E-Mail-Konten][yahoo-hack]?
@@ -127,9 +130,8 @@ Und das alles, obwohl seit Jahren davor gewarnt wird, welche Macht
 „Halt, stopp!“, rufen Menschen denen man solche Dinge an den Kopf wirft – zu Recht!
 Diese Vorwürfe sind natürlich haltlos. **Die Abwelzung von Verantwortung ist
 nämlich das eigentliche Problem.** Klar ist: jeder Mensch, der Plattformen wie
-Facebook, SaaS wie Slack oder
-Smartphone-Apps wie WhatsApp nutzt muss lernen welche Folgen dies
-beinhaltet. Es ist im 21. Jahrhundert einfach nicht mehr akzeptabel, als Bürger
+Facebook, SaaS wie Slack oder Smartphone-Apps wie WhatsApp nutzt muss lernen welche Folgen dies
+nach sich zieht. Es ist im 21. Jahrhundert einfach nicht mehr akzeptabel, als Bürger
 einer Demokratie ein technisch ungebildeter Konsument zu sein.
 Und das Problem wächst, je
 technologisierter unser Alltag und unsere Arbeitswelt wird.
@@ -167,8 +169,8 @@ Systemausfälle, Missbrauch…) ein weltweites [Hand-gegen-Stirn-Klatschen]
 in Richtung unsicherer Systeme.
 
 Menschen sind genervt von Datenschutz-Diskussionen. Die Politik hält
-Datenschutz und Software-Regularien für überholt
-und die deutsche Wirtschaft sieht sich im Vergleich zum Silicon Valley im
+Datenschutz (d.h. Verbraucherschutz!) und Software-Regularien für überholt,
+die deutsche Wirtschaft sieht sich im Vergleich zum Silicon Valley im
 Nachteil – und geht lieber Risiken ein, um schneller Produkte auf den deutschen
 Markt zu bringen.
 
@@ -178,8 +180,8 @@ Rückkehr mehr gibt?
 Wenn politische Systeme, die den einfachen Bürgern eigentlich ein Mitspracherecht
 garantieren sollen, von großen Konzernen gelenkt werden können?
 
-Fakt ist: jeder der heute [Daten an Dienste sendet][spiegel-echo-look] und somit dem Anbieter dahinter
-ermöglicht, Profile, Netzwerke und Wirtschaftsinformationen aufzubereiten legt Byte für
+Fakt ist: jeder der heute [Daten an Dienste sendet][spiegel-echo-look] und somit dem Anbieter
+ermöglicht private Daten wirtschaftlich zu nutzen, zahlt nicht nur mit diesen, sondern legt Byte für
 Byte den Weg in die eine oder andere Richtung. **Alle, die ein Softwareprodukt
 nutzen geben implizit ihre Zustimmung** zur Art und Weise, wie dieser Dienst
 funktioniert und handelt. Und welche Folgen sich daraus für die

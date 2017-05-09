@@ -19,7 +19,7 @@ hier eine Weboberfläche zum Chatten - auf den Servern von Atlassian betrieben
 wird und man selbst keine Infrastruktur betreiben muss.
 
 Anmerkung: HipChat ist auch als Software für eigene Server verfügbar. Hierzu wird
-die Software bei Atlassian lizenziert, kann aber auf einem eigenen Server instaliert
+die Software bei Atlassian lizenziert, kann aber auf einem eigenen Server installiert
 werden. Dieser Artikel nutzt die Cloud-Variante als Beispiel – stellvertretend
 für andere Tools, welche teilweise nur als SaaS verfügbar sind (z.B. Slack).
 
@@ -189,7 +189,7 @@ widerspreche der Nutzung meiner Daten durch Facebook“ verbreitet. Im Gegenteil
 die Plattform interessiert das Null, aber man selbst ist verlockt zu denken etwas
 getan zu haben.
 
-Daher mein Appell: die IT muss sich ihrer wachsenden Verantwortung bewusster werden
+Daher mein Appell: Die IT muss sich ihrer wachsenden Verantwortung bewusster werden
 und gegenseitig mahnen. Die Menschen, die außerhalb der Softwareindustrie die
 Produkte nur nutzen wollen, sollten – nein, müssen! – genauer hinschauen.
 

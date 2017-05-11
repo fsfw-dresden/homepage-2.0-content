@@ -81,8 +81,8 @@ wir in unserem Alltag brauchen, wieder ins Haus. D.h. praktisch umgesetzt: eine 
 im Keller oder bei einem vertrauten Serveranbieter eigene Server, auf welchen
 Softwarepakete laufen und die Daten der Dienste gespeichert werden. Im privaten
 Bereich bedeutet dies, dass ich dezentrale Software – z.B. [Jabber][xmpp],
-[Diaspora][diaspora], [Mastodon][mastodon] oder [Rocket.chat][rocketchat]
-verwende und zentrale Dienste ersetze.
+[Diaspora][diaspora], [Mastodon][mastodon], [Rocket.chat][rocketchat], [Kanboard][kanboard]
+oder [WebRTC][palava] – verwende und zentrale Dienste ersetze.
 
 Leider bringt dies Arbeit und unter Umständen zusätzliche Kosten für Dienstleistungen
 mit sich. Die Software muss installiert und gewartet,
@@ -197,7 +197,7 @@ Produkte nur nutzen wollen, sollten – nein, müssen! – genauer hinschauen.
 
 Informiert euch über
 [freie Software][fsfe], über [die Cloud und SaaS][stallman-saas], beim
-[Bundesamt SI][bsi-fuer-buerger], beim
+[Bundesamt für Sicherheit in der Informationstechnik][bsi-fuer-buerger], beim
 „[Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung][fiff]“ und
 bei der „[Fachgruppe Informatik und Ethik][fg-ie]“ der Gesellschaft für Informatik.
 Darüber hinaus gibt es eine Menge [Blogs][netzpolitik] und andere [Medien][heise-np],
@@ -232,6 +232,8 @@ Produkte auf dem Markt sind und welche Firmen ihr unterstützt!
 [diaspora]: https://de.wikipedia.org/wiki/Diaspora_(Software)
 [mastodon]: https://mastodon.social/about
 [rocketchat]: https://rocket.chat/
+[kanboard]: https://kanboard.net/
+[palava]: https://palava.tv/
 
 [fsfe]: https://fsfe.org/about/about.de.html
 [stallman-saas]: https://www.gnu.org/philosophy/who-does-that-server-really-serve.html

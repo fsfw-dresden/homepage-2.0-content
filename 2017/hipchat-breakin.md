@@ -14,20 +14,17 @@ in einen größeren Rahmen einzubinden.
 
 HipChat ist eine sog. SaaS, d.h. Software as a Service, betrieben von der Firma
 Atlassian, welche unter anderem auch für das Ticketsystem Jira und die
-Wikisoftware Confluence bekannt ist. SaaS bedeutet, dass die genutzte Software -
-hier eine Weboberfläche zum Chatten - auf den Servern von Atlassian betrieben
-wird und man selbst keine Infrastruktur betreiben muss.
-
-Anmerkung: HipChat ist auch als Software für eigene Server verfügbar. Hierzu wird
+Wikisoftware Confluence bekannt ist. Anmerkung: HipChat ist auch als Software für eigene Server verfügbar. Hierzu wird
 die Software bei Atlassian lizenziert, kann aber auf einem eigenen Server installiert
 werden. Dieser Artikel nutzt die Cloud-Variante als Beispiel – stellvertretend
-für andere Tools, welche teilweise nur als SaaS verfügbar sind (z.B. Slack).
+für andere Tools, welche nur als SaaS verfügbar sind (z.B. Slack).
 
 ## Was ist SaaS?
-In den meisten SaaS-Modellen bezahlt man beispielsweise pro Monat pro Nutzer
-oder kauft Pakete für eine gewisse Anzahl Nutzer. Darüber hinaus unterscheiden sich
-bei vielen Produkten auch die Features, welche in unterschiedlichen Editionen
-zu der jeweiligen Software mitgeliefert werden.
+SaaS bedeutet, dass die genutzte Software -
+hier eine Weboberfläche zum Chatten - auf den Servern eines Anbieters betrieben
+wird und man selbst keine Infrastruktur betreiben muss. In den meisten SaaS-Modellen bezahlt man beispielsweise pro Monat pro Nutzer
+oder kauft Pakete für eine gewisse Anzahl von Nutzern. Darüber hinaus gibt es bei vielen
+Produkten mehrere Editionen, die verschiedene Features beinhalten bzw. mehr Features hinzufügen.
 
 Brauche ich für mein Team von fünf
 Entwicklern z.B. nur eine einfache Chatoberfläche, buche ich ein kleines Paket.
@@ -37,9 +34,9 @@ brauche ich ein wesentlich größeres (und teureres) Paket.
 
 Atlassian ist hier ein sehr gutes Beispiel für eine umfangreiche SaaS-Plattform,
 da ein Atlassian-Account in allen Produkten der Firma
-wiederverwendet werden kann – sowohl für HipChat, als auch Jira und andere. Eine
-einheitliche Verwaltung der Nutzer und deren Gruppen erzeugt einen Anreiz für
-Administratoren, innerhalb der Produktfamilie zu bleiben.
+wiederverwendet werden kann – sowohl für HipChat, als auch Jira und andere. Dies erleichtert
+die gegenseitige Integration der Tools. Die einheitliche Verwaltung der Nutzer und deren Gruppen erzeugt nebenbei
+einen Anreiz für Administratoren, innerhalb der Produktfamilie zu bleiben.
 
 ## Und was hat das nun mit dem Datenklau zu tun?
 Die Erläuterung zu SaaS ist deshalb hilfreich, weil hier nun klar werden sollte
@@ -47,7 +44,7 @@ wo die Daten – Chats, Benachrichtigungen, Accounts – meiner Firma am Ende la
 beim Anbieter. Der Nutzer der Software muss sich in diesem Falle darauf verlassen,
 dass der Anbieter
 
-*  die Daten [gegen Verlust absichtert][gitlab-db-incident],
+*  die Daten [gegen Verlust absichert][gitlab-db-incident],
 *  nicht unbefugt [die Daten weiterverwertet][whatsapp-fb-sharing],
 *  verhindert, dass Dritte die [Daten missbrauchen][datenreichtum],
 *  seine Systeme [gegen fremden Zugriff schützt][sec-note],
@@ -57,15 +54,15 @@ Diese Dinge sind rechtlich durch Verträge (Nutzungsbedingungen, AGB) mehr oder 
 geklärt.
 
 Jedoch verhindert Text auf Papier nicht, dass destruktive Zwischenfälle nun doch passieren.
-Kommt es zum Ausfall einer Plattform hilft kein [Service-Level Agreement][sla] (SLA),
+Kommt es zum Ausfall einer Plattform hilft kein Service-Level Agreement (SLA),
 mit welchem der Anbieter seine Zuverlässigkeit gegenüber dem Kunden verspricht.
 Dann sind die Systeme halt aus, nicht erreichbar oder in sonstigen Zuständen – der
 Kunde hat hier keine Eingriffsmöglichkeiten. Es bleiben lediglich rechtliche
 Schritte, wie Rückzahlungen oder Entschädigungen. Steht das eigene Geschäft aber wegen
-Ausfall für mehrere Tage still, ist ein unverschuldeter finanzieller Verlust unumgänglich.
+Ausfall für mehrere Tage still, ist ein unverschuldeter finanzieller Verlust beim Kunden unumgänglich.
 
 Noch schlimmer als ein Ausfall ist ein rufschädigender Verlust von
-Kundendaten des eigenen Betriebs. Nutzt eine Firma z.B. ein Cloud-basiertes [CRM-System][crm]
+Kundendaten des eigenen Betriebs. Nutzt eine Firma z.B. ein Cloud-basiertes CRM-System
 zur Verwaltung von Kunden und Aufträgen, und die Kundendaten dieser SaaS-Plattform
 werden entwendet und auf einem Schwarzmarkt verkauft, ist schnell der Kunde
 des SaaS-Produkts (die Firma) Ziel von Kritik. Ob diese Kritik gerechtfertigt ist oder nicht ist
@@ -81,8 +78,8 @@ wir in unserem Alltag brauchen, wieder ins Haus. D.h. praktisch umgesetzt: eine 
 im Keller oder bei einem vertrauten Serveranbieter eigene Server, auf welchen
 Softwarepakete laufen und die Daten der Dienste gespeichert werden. Im privaten
 Bereich bedeutet dies, dass ich dezentrale Software – z.B. [Jabber][xmpp],
-[Diaspora][diaspora], [Mastodon][mastodon], [Rocket.chat][rocketchat], [Kanboard][kanboard]
-oder [WebRTC][palava] – verwende und zentrale Dienste ersetze.
+[Diaspora][diaspora], [Mastodon][mastodon], [Rocket.chat][rocketchat], [Mattermost][mattermost],
+[Kanboard][kanboard] oder [WebRTC][palava] – verwende und zentrale Dienste ersetze.
 
 Leider bringt dies Arbeit und unter Umständen zusätzliche Kosten für Dienstleistungen
 mit sich. Die Software muss installiert und gewartet,
@@ -129,8 +126,8 @@ Und das alles, obwohl seit Jahren davor gewarnt wird, welche Macht
 
 „Halt, stopp!“, rufen Menschen denen man solche Dinge an den Kopf wirft – zu Recht!
 Diese Vorwürfe sind natürlich haltlos. **Die Abwelzung von Verantwortung ist
-nämlich das eigentliche Problem.** Klar ist: jeder Mensch, der Plattformen wie
-Facebook, SaaS wie Slack oder Smartphone-Apps wie WhatsApp nutzt muss lernen welche Folgen dies
+nämlich das eigentliche Problem.** Klar ist: jeder Mensch, der Dienste wie
+Facebook, Slack oder WhatsApp nutzt, muss lernen welche Folgen dies
 nach sich zieht. Es ist im 21. Jahrhundert einfach nicht mehr akzeptabel, als Bürger
 einer Demokratie ein technisch ungebildeter Konsument zu sein.
 Und das Problem wächst, je
@@ -150,11 +147,12 @@ Zweitens: der Anbieter und die Entwickler hinter einem Produkt! **Alle Menschen 
 Softwareindustrie tragen [eine Verantwortung][iug]**. Jeder Schnippsel Code verändert
 die Softwarelandschaft zum positiven oder negativen. Es ist im 21. Jahrhundert
 einfach nicht mehr akzeptabel, dass Programmierer irgendwelche Tools auf Github
-veröffentlichen, die dann in Monopol- oder Militärsoftware integriert werden!
+veröffentlichen, [die dann in Monopol- oder Militärsoftware integriert werden][defending-copyleft]!
 Auch hier ist noch ein riesen Paket Aufklärungsarbeit zu leisten, um
-Goldrauschprogrammierern ihrer Mitverantwortung bewusst zu machen.
+Goldrauschprogrammierern ihre Mitverantwortung bewusst zu machen.
 
-Die Informatik muss sich öffnen und aus der Blase hinaustreten. Es ist schön zu einem kleinen
+Die Informatik muss sich öffnen, aus der Blase hinaustreten und sich ihrer wachsenden
+gesellschaftlichen Verantwortung  bewusster werden. Es ist schön, zu einem kleinen
 Kreis Eingeweihter zu gehören und mit dem eigenen Wissen viel Geld machen zu
 können – langfristig gesehen ist es aber fragwürdig, ob wir
 [Algorithmen, die von einem homogenen Bruchteil der Bevölkerung entworfen wurden][ai-bias],
@@ -178,7 +176,7 @@ Aber ist das Aufsetzen von Scheuklappen zukunftsfähig?
 Was passiert, wenn der Markt erstmal einen Punkt erreicht hat, an dem es keine
 Rückkehr mehr gibt?
 Wenn politische Systeme, die den einfachen Bürgern eigentlich ein Mitspracherecht
-garantieren sollen, von großen Konzernen gelenkt werden können?
+garantieren sollen, anhand von Datenanalysen gelenkt werden können?
 
 Fakt ist: jeder der heute [Daten an Dienste sendet][spiegel-echo-look] und somit dem Anbieter
 ermöglicht private Daten wirtschaftlich zu nutzen, zahlt nicht nur mit diesen, sondern legt Byte für
@@ -191,9 +189,8 @@ widerspreche der Nutzung meiner Daten durch Facebook“ verbreitet. Im Gegenteil
 die Plattform interessiert das Null, aber man selbst ist verlockt zu denken etwas
 getan zu haben.
 
-Daher mein Appell: Die IT muss sich ihrer wachsenden Verantwortung bewusster werden
-und gegenseitig mahnen. Die Menschen, die außerhalb der Softwareindustrie die
-Produkte nur nutzen wollen, sollten – nein, müssen! – genauer hinschauen.
+Daher mein Appell: Menschen, die außerhalb der Softwareindustrie die Produkte nur nutzen wollen,
+sollten – nein, müssen – genauer hinschauen!
 
 Informiert euch über
 [freie Software][fsfe], über [die Cloud und SaaS][stallman-saas], beim
@@ -215,8 +212,6 @@ Produkte auf dem Markt sind und welche Firmen ihr unterstützt!
 [whatsapp-fb-sharing]: http://www.spiegel.de/netzwelt/apps/whatsapp-datenweitergabe-an-facebook-deutsche-verbraucherschuetzer-klagen-a-1132377.html
 [vendor-lockin]: https://en.wikipedia.org/wiki/Vendor_lock-in
 [datenreichtum]: https://datenreichtum.tumblr.com/
-[sla]: https://en.wikipedia.org/wiki/Service-level_agreement
-[crm]: https://en.wikipedia.org/wiki/Customer_relationship_management
 [denmark-digital-ambassador]: http://foreignpolicy.com/2017/01/27/denmark-creates-the-worlds-first-ever-digital-ambassador-technology-europe-diplomacy/
 [vds-spitz]: http://www.zeit.de/digital/datenschutz/2011-02/vorratsdaten-malte-spitz
 [iug]: https://de.wikipedia.org/wiki/Informatik_und_Gesellschaft
@@ -227,6 +222,7 @@ Produkte auf dem Markt sind und welche Firmen ihr unterstützt!
 [fb-decline]: http://www.rp-online.de/digitales/internet/facebook-auf-dem-absteigenden-ast-die-zahl-der-nutzer-sinkt-aid-1.5688742
 [ai-bias]: https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals
 [spiegel-echo-look]: http://www.spiegel.de/netzwelt/gadgets/amazon-echo-look-aufregung-um-die-neue-alexa-kamera-a-1145052.html
+[defending-copyleft]: https://lwn.net/Articles/675232/
 
 [xmpp]: http://www.jabber.de/was-ist-jabber/
 [diaspora]: https://de.wikipedia.org/wiki/Diaspora_(Software)
@@ -234,6 +230,7 @@ Produkte auf dem Markt sind und welche Firmen ihr unterstützt!
 [rocketchat]: https://rocket.chat/
 [kanboard]: https://kanboard.net/
 [palava]: https://palava.tv/
+[mattermost]: https://about.mattermost.com/slack-vs-mattermost/
 
 [fsfe]: https://fsfe.org/about/about.de.html
 [stallman-saas]: https://www.gnu.org/philosophy/who-does-that-server-really-serve.html

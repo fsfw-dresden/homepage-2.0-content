@@ -44,7 +44,7 @@ save_as: index.html
         </div>
     </section> -->
     <section id="latex-sprechstunde" class="news">
-        <span datetime="2016-04-14">14.04.2016</span>
+        <span datetime="2017-10-01">01.10.2017</span>
         <h3>FSFW Sprechstunde</h3>
         <p>Wir bieten seit dem Wintersemester 15/16 regelmäßig eine
            öffentliche “Sprechstunde” zur Unterstützung bei

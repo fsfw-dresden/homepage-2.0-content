@@ -30,32 +30,7 @@ save_as: index.html
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
-    <section id="latex-kurs-ws2016" class="news">
-        <span datetime="2016-11-01">01.11.2016</span>
-        <h3>LaTeX-Kurs an der HTW</h3>
-        <p>Ab Dienstag den 01.11.2016 läuft wieder ein wöchentlicher Kurs in acht Veranstaltungen mit
-           <a href="https://www.htw-dresden.de/fakultaet-informatikmathematik/fakultaet/einrichtungen/fachschaftsrat-informatikmathematik/latex.html">Unterstützung des FSR Informatik/Mathematik</a>
-           an der HTW Dresden.  Der Zugang ist frei.  Externe sollten überpünktlich sein um einen
-           Zugang im Labor zu erhalten.  Eigene Rechner können gerne mitgebracht werden, allerdings
-           ist das WLAN nicht offen und eine eigene Verteilerdose für Strom kann nicht schaden.
-        </p>
-        <dl>
-            <dt>Ort</dt>
-            <dd>
-                HTW&nbsp;Dresden,&nbsp;Zentralgebäude&nbsp;Raum&nbsp;Z&nbsp;136b <br>
-                Friedrich-List-Platz&nbsp;1<br>
-                01069&nbsp;Dresden<br>
-                <a href="https://www.openstreetmap.org/node/2746371632">Karte</a>
-            </dd>
-            <dt>Material und weitere Informationen</dt>
-            <dd>
-                <a href="https://lat.inf.tu-dresden.de/~borch/lehre/2016-latex/index.html">Website des Kurses</a>
-            </dd>
-            <dt>Hilfe</dt>
-            <dd><a href="#latex-sprechstunde">Fragen zum Thema auch gerne bei unserer Sprechstunde</a></dd>
-        </dl>
-    </section>
-    <section id="uni-stick" class="news">
+    <!-- <section id="uni-stick" class="news">
         <span datetime="2016-10-29">29.10.2016</span>
         <h3>Projekt: Uni-Stick</h3>
         <p>Mehr als 60 USB-Stick (bezahlt von StuRa-Geld) voller nützlicher freier Software fürs Studium
@@ -67,7 +42,7 @@ save_as: index.html
         <div align="center">
         <a href="//fsfw-dresden.de/uni-stick"><img src="./img/uni-stick-ausgabe-vortrag.jpg" title="Foto Uni-Stick-Ausgabe-Vortrag" width="400px"></a>
         </div>
-    </section>
+    </section> -->
     <section id="latex-sprechstunde" class="news">
         <span datetime="2016-04-14">14.04.2016</span>
         <h3>FSFW Sprechstunde</h3>

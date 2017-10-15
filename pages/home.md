@@ -33,11 +33,11 @@ save_as: index.html
      <section id="uni-stick" class="news">
         <span datetime="2017-10-15">15.10.2017</span>
         <h3>Projekt: Uni-Stick</h3>
-        <p>Wie letztes Jahr bringen wir mit dem Uni-Stick-Projekt ca. 100 USB-Stick (bezahlt von StuRa-Geld) voller nützlicher freier Software fürs Studium
+        <p>Wie letztes Jahr bringen wir mit dem Uni-Stick-Projekt ca. 100 USB-Sticks (bezahlt von StuRa-Geld) voller nützlicher freier Software fürs Studium
         (Debian Live-System und Windows-Programme) unter die Leute.
-        Dazu wurden über 4000 Gutschein-Flyer von den teilnehmenden Fachschaftsräten in den Erstitüten gepackt.</p>
+        Dazu wurden über 4000 Gutschein-Flyer von den teilnehmenden Fachschaftsräten in die Erstitüten gepackt.</p>
         <p>Die Ausgabe-Veranstaltung wird am 19.10.2017 ab 18:30 Uhr im Hörsaal
-        <a href="http://m.osmtools.de/0qOGT32gRZH0qNw032gbx4">Potthoff-Bau 81</a> Potthoff-Bau 81 stattfinden.</p>
+        <a href="http://m.osmtools.de/0qOGT32gRZH0qNw032gbx4">Potthoff-Bau 81</a> stattfinden.</p>
         Mehr Infos unter <a href="//fsfw-dresden.de/uni-stick">fsfw-dresden.de/uni-stick</a>.</p>
         <!-- <div align="center">
         <a href="//fsfw-dresden.de/uni-stick"><img src="./img/uni-stick-ausgabe-vortrag.jpg" title="Foto Uni-Stick-Ausgabe-Vortrag" width="400px"></a>
@@ -57,7 +57,7 @@ save_as: index.html
         <p>Am 02.10. fand im Rahmen des bunten Nachmittags des iFSR ein Einführungsworkshop <b>Versionskontrolle mit Git</b>
         statt. Das Material (Folien und Befehlsübersicht) gibt es unter <a href="//fsfw-dresden.de/git-ws">fsfw-dresden.de/git-ws</a>.
         Bei Bedarf führen wir den Workshop auch gerne wieder durch bzw. könnten wir uns auch einen Fortgeschrittenen-WS vorstellen.
-        Wer daran Interesse hat schreibt am besten eine Mail: <a href="mailto:kontakt@fsfw-dresden.de">kontakt@fsfw-dresden.de</a>.
+        Wer daran Interesse hat, schreibt am besten eine Mail: <a href="mailto:kontakt@fsfw-dresden.de">kontakt@fsfw-dresden.de</a>.
     </section>
 </section>
 <hr>

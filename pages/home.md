@@ -30,26 +30,34 @@ save_as: index.html
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
-    <!-- <section id="uni-stick" class="news">
-        <span datetime="2016-10-29">29.10.2016</span>
+     <section id="uni-stick" class="news">
+        <span datetime="2017-10-15">15.10.2017</span>
         <h3>Projekt: Uni-Stick</h3>
-        <p>Mehr als 60 USB-Stick (bezahlt von StuRa-Geld) voller nützlicher freier Software fürs Studium
-        (Debian Live-System und Windows-Programme) wurden am 17.10.2016 an die anwesenden Studis verteilt.
-        Über 4000 Gutschein-Flyer waren in den Erstitüten der Fachschaftsräte. Die Nachfrage war deutlich
-        größer als das Angebot. Für die ca. 250 Anwesenden gab es vorher noch einen Vortrag über die wichtigsten
-        Programme auf dem Stick und freie Software im Allgemeinen.
+        <p>Wie letztes Jahr bringen wir mit dem Uni-Stick-Projekt ca. 100 USB-Stick (bezahlt von StuRa-Geld) voller nützlicher freier Software fürs Studium
+        (Debian Live-System und Windows-Programme) unter die Leute.
+        Dazu wurden über 4000 Gutschein-Flyer von den teilnehmenden Fachschaftsräten in den Erstitüten gepackt.</p>
+        <p>Die Ausgabe-Veranstaltung wird am 19.10.2017 ab 18:30 Uhr im Hörsaal
+        <a href="http://m.osmtools.de/0qOGT32gRZH0qNw032gbx4">Potthoff-Bau 81</a> Potthoff-Bau 81 stattfinden.</p>
         Mehr Infos unter <a href="//fsfw-dresden.de/uni-stick">fsfw-dresden.de/uni-stick</a>.</p>
-        <div align="center">
+        <!-- <div align="center">
         <a href="//fsfw-dresden.de/uni-stick"><img src="./img/uni-stick-ausgabe-vortrag.jpg" title="Foto Uni-Stick-Ausgabe-Vortrag" width="400px"></a>
-        </div>
-    </section> -->
+        </div>-->
+    </section>
     <section id="latex-sprechstunde" class="news">
-        <span datetime="2017-10-01">01.10.2017</span>
+        <span datetime="2017-10-09">09.10.2017</span>
         <h3>FSFW Sprechstunde</h3>
-        <p>Wir bieten seit dem Wintersemester 15/16 regelmäßig eine
-           öffentliche “Sprechstunde” zur Unterstützung bei
-           Fragen zum freien Text-Satzsystem LaTeX, zu Libre- bzw. OpenOffice und zu anderen Fragen rund um freie Software im Studium.</p>
+        <p>Wir bieten seit zwei Jahren regelmäßig eine öffentliche “Sprechstunde” an zur Unterstützung bei
+           Fragen zum freien Text-Satzsystem LaTeX, zu Libre- bzw. OpenOffice, zu <a href="//fsfw-dresden.de/gpg">Mailverschlüsselung</a>
+           und allgemein zu Fragen rund um freie Software im Studium.</p>
         <p>Einfach mal vorbeikommen… Nähere Infos, Termine, Ort unter <a href="//fsfw-dresden.de/sprechstunde">fsfw-dresden.de/sprechstunde</a>.
+    </section>
+    <section id="git-ws" class="news">
+        <span datetime="2017-10-03">03.10.2017</span>
+        <h3>Git-Workshop</h3>
+        <p>Am 02.10. fand im Rahmen des bunten Nachmittags des iFSR ein Einführungsworkshop <b>Versionskontrolle mit Git</b>
+        statt. Das Material (Folien und Befehlsübersicht) gibt es unter <a href="//fsfw-dresden.de/git-ws">fsfw-dresden.de/git-ws</a>.
+        Bei Bedarf führen wir den Workshop auch gerne wieder durch bzw. könnten wir uns auch einen Fortgeschrittenen-WS vorstellen.
+        Wer daran Interesse hat schreibt am besten eine Mail: <a href="mailto:kontakt@fsfw-dresden.de">kontakt@fsfw-dresden.de</a>.
     </section>
 </section>
 <hr>

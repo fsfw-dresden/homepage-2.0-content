@@ -30,18 +30,10 @@ save_as: index.html
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
-     <section id="uni-stick" class="news">
-        <span datetime="2017-10-15">15.10.2017</span>
-        <h3>Projekt: Uni-Stick</h3>
-        <p>Wie letztes Jahr bringen wir mit dem Uni-Stick-Projekt ca. 100 USB-Sticks (bezahlt von StuRa-Geld) voller nützlicher freier Software fürs Studium
-        (Debian Live-System und Windows-Programme) unter die Leute.
-        Dazu wurden über 4000 Gutschein-Flyer von den teilnehmenden Fachschaftsräten in die Erstitüten gepackt.</p>
-        <p>Die Ausgabe-Veranstaltung wird am 19.10.2017 ab 18:30 Uhr im Hörsaal
-        <a href="http://m.osmtools.de/0qOGT32gRZH0qNw032gbx4">Potthoff-Bau 81</a> stattfinden.</p>
-        Mehr Infos unter <a href="//fsfw-dresden.de/uni-stick">fsfw-dresden.de/uni-stick</a>.</p>
-        <!-- <div align="center">
-        <a href="//fsfw-dresden.de/uni-stick"><img src="./img/uni-stick-ausgabe-vortrag.jpg" title="Foto Uni-Stick-Ausgabe-Vortrag" width="400px"></a>
-        </div>-->
+     <section id="geplante-workshops" class="news">
+        <span datetime="2018-01-15">15.01.2018</span>
+        <h3>Geplante Workshops</h3>
+        <p>Für Anfang des Jahres 2018 planen wir je einen Einführungsworkshop zur Verschlüsselung von E-Mails und dem Betrieb von Betrieb von freier IT-Infrastruktur. Weitere Infos gibt es im <a href="https://wiki.fsfw-dresden.de/doku.php/doku/mitmachen">Wiki</a>.</p>
     </section>
     <section id="latex-sprechstunde" class="news">
         <span datetime="2017-10-09">09.10.2017</span>

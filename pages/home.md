@@ -56,6 +56,7 @@ save_as: index.html
 <section class="vevent" id="plenum">
     <h2 class="category">Regelmäßige Treffen ("Plenum")</h2>
     <p>Interessierte sind herzlich willkommen.</p>
+    <p class="important">Plenum heute (18.1.) nur virtuell im Mumble wegen anhaltendem Unwetter.</p>
     <dl>
         <dt>Datum &amp; Uhrzeit</dt>
         <dd>

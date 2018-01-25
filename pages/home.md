@@ -30,6 +30,11 @@ save_as: index.html
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
+     <section id="pecha-kucha" class="news">
+        <span datetime="2018-01-25">25.01.2018</span>
+        <h3>Pecha Kucha Vortrag</h3>
+        <p>FSFW-Vortrag im Rahmen der Pecha Kucha Night. Links und Hintergrundinformationen im <a href="https://wiki.fsfw-dresden.de/doku.php/events/pecha-kucha-2018-01-25">Wiki</a>.</p>
+    </section>
      <section id="geplante-workshops" class="news">
         <span datetime="2018-01-15">15.01.2018</span>
         <h3>Geplante Workshops</h3>

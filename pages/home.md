@@ -30,6 +30,11 @@ save_as: index.html
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
+     <section id="Raumänderung" class="news">
+        <span datetime="2018-02-15">15.02.2018</span>
+        <h3>Raumänderung</h3>
+        <p>Das Plenum am 15.02.2018 findet ausnahmsweise im Raum 0.43 (SLUB) statt.</p>
+    </section>
      <section id="pecha-kucha" class="news">
         <span datetime="2018-01-25">25.01.2018</span>
         <h3>Pecha Kucha Vortrag</h3>

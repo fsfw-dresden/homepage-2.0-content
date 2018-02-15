@@ -30,10 +30,10 @@ save_as: index.html
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
-     <section id="Raumänderung" class="news">
-        <span datetime="2018-02-15">15.02.2018</span>
-        <h3>Raumänderung</h3>
-        <p>Das Plenum am 15.02.2018 findet ausnahmsweise im Raum 0.43 (SLUB) statt.</p>
+    <section id="Verlegung Sprechstunde" class="news">
+        <span datetime="2018-02-27">27.02.2018</span>
+        <h3>Terminänderung LaTeX Sprechstunde</h3>
+        <p>Die LaTeX Sprechstunde wird auf die <a href="https://tu-dresden.de/studium/im-studium/termine/lange-nacht-des-schreibens-1">Lange Nacht des Schreibens</a> am <span datetime="2018-03-01">01.03.2018</span> ins Foyer der SLUB verlegt.</p>
     </section>
      <section id="pecha-kucha" class="news">
         <span datetime="2018-01-25">25.01.2018</span>

@@ -11,10 +11,10 @@ save_as: index.html
         <li>Verbesserung von freier Software und zugehöriger Dokumentation</li>
         <li>Steigerung der Zugänglichkeit von Wissen</li>
     </ul>
-    <div about="http://www2.htw-dresden.de/~s72785/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm">
+    <div about="https://fsfw-dresden.de/videos/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm">
         <h3 id="vorstellungsvortrag-lightningtalk-datenspuren2016">Vorstellungsvortrag</h3>
         <video preload="none" autobuffer controls poster="img/Die-FSFW-at-Lightningtalks-Datenspuren2016.jpg">
-        <source src="http://www2.htw-dresden.de/~s72785/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm" type="video/webm" style="max-width:480" />
+        <source src="https://fsfw-dresden.de/videos/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm" type="video/webm" style="max-width:480" />
         <div>Schade – hier käme ein Video, wenn Ihr Browser HTML5 Unterstützung hätte, wie z.B. der <a href="https://www.mozilla.org/">aktuelle von Mozilla</a></div>
         </video>
         <div>

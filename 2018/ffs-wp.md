@@ -86,9 +86,9 @@ für "Open-Source-Software" auf:
 - Nicht sinnvoll, Weil kein Weiterverkauf angestrebt wird
     - Dual-licensing
     - Re-licensing under a proprietary license
-- Zielkonflikt: Perfekte Software braucht keinen Support/Schulung
+- Zielkonflikt: Endanwender\*innen guter Software sollten für normale Usecases keinen Support brauchen
     - Selling professional services
-- Problem der Datensouveränität.
+- Problem der Datensouveränität
     - Selling software as a service
 
 
@@ -257,6 +257,7 @@ Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Be
 - https://www.codetriage.com/
 - https://www.unixstickers.com/
 - Synergie zu [GNU Taler](https://taler.net/en/) ausloten
+- https://sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting
 
 ## Mögliche nächste Schritte
 (Jeder Schritt bedingt jeweils Erfolg des Vorgängers)

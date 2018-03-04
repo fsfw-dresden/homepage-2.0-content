@@ -19,7 +19,7 @@ Er ist eine stark inspiriert durch [Colin Percivals Plan für Open Source Softwa
 
 
 Ausgangslage: Mit zunehmender Digitalisierung wird Software privat und beruflich immer wichtiger.
-Freie quelloffene Software für Endbenutzer*innen ist XX Jahre nach Etablierung des Begriffes OpenSource immer noch (oder mehr denn je) ein Nischenprodukt.XXXX
+Freie quelloffene Software für Endbenutzer*innen ist XX Jahre nach Etablierung des Begriffes OpenSource immer noch (oder mehr denn je) ein Nischenprodukt.
 Gründe: Mangelnde ...
 
 - Bekanntheit der Produkte und ihrer Vorteile

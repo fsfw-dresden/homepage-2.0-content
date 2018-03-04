@@ -1,9 +1,8 @@
 Title: Funding Freedom Society - Grundsätzliche Finanzierung freier Software
-Date: 2018-03-04 9:00 Uhr
+Date: 2018-03-04 9:00
 Category: Artikel
 Tags: Freie Software, Gesellschaft
 Slug: FFS-wp
-Slug: datenklau-bei-hipchat-cloud-und-gesellschaft
 Author: Carsten
 Summary: Finanzierungsmodell zur Steigerung von Qualität und Verbreitung von FLOSS
 

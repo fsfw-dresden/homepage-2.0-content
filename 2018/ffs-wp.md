@@ -20,7 +20,7 @@ Er ist eine stark inspiriert durch [Colin Percivals Plan für Open Source Softwa
 
 Ausgangslage: Mit zunehmender Digitalisierung wird Software privat und beruflich immer wichtiger.
 Freie quelloffene Software ist über 30 Jahre nach Gründung
-der Free Software Foundation und 20 Jahre nach Etablierung des Begriffes eher "business-orientierten"
+der Free Software Foundation und 20 Jahre nach Etablierung des eher "business-orientierten"
 Konzeptes *Open-Source* für Endbenutzer*innen immer noch (oder mehr denn je) ein Nischenprodukt.
 Gründe: Mangelnde ...
 
@@ -250,19 +250,19 @@ Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Be
 
 ## Evtl. Relevante Links
 
-- [http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html)
-- [https://freedomsponsors.org/](https://freedomsponsors.org/)
-- [https://www.bountysource.com/](https://www.bountysource.com/)
-- [https://snowdrift.coop/](https://snowdrift.coop/)
-- [http://goteo.org/](http://goteo.org/)
-- [https://gitcoin.co/](https://gitcoin.co/)
-- [https://www.patreon.com/](https://www.patreon.com/)
-- [https://gratipay.com/](https://gratipay.com/)
-- [https://opensourcefriday.com/](https://opensourcefriday.com/)
-- [https://www.codetriage.com/](https://www.codetriage.com/)
-- [https://www.unixstickers.com/](https://www.unixstickers.com/)
-- [https://creativecommons.org/use-remix/made-with-cc/](https://creativecommons.org/use-remix/made-with-cc/)
-- [https://sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting](https://sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting)
+- <http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html>
+- <https://freedomsponsors.org/>
+- <https://www.bountysource.com/>
+- <https://snowdrift.coop/>
+- <http://goteo.org/>
+- <https://gitcoin.co/>
+- <https://www.patreon.com/>
+- <https://gratipay.com/>
+- <https://opensourcefriday.com/>
+- <https://www.codetriage.com/>
+- <https://www.unixstickers.com/>
+- <https://creativecommons.org/use-remix/made-with-cc/>
+- <https://sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting>
 - Synergie zu [GNU Taler](https://taler.net/en/) ausloten
 
 ## Mögliche nächste Schritte

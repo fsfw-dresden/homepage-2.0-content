@@ -1,10 +1,11 @@
-Title: Funding Freedom Society - Grundsätzliche Finanzierung freier Software
+Title: Funding Freedom Society - Idee zur Finanzierung freier Softwareprojekte
 Date: 2018-03-04 9:00
 Category: Artikel
 Tags: Freie Software, Gesellschaft
 Slug: FFS-wp
 Author: Carsten
-Summary: Finanzierungsmodell zur Steigerung von Qualität und Verbreitung von FLOSS
+Summary: Finanzierungsmodell zur Steigerung von Qualität und Verbreitung von FLOSS durch
+Kombination existierender Geschäftsmodelle (Spenden, Merchandise, Bounties, Funding-Organisationen.)
 
 ---
 
@@ -20,11 +21,12 @@ Er ist eine stark inspiriert durch [Colin Percivals Plan für Open Source Softwa
 Ausgangslage: Mit zunehmender Digitalisierung wird Software privat und beruflich immer wichtiger.
 Freie quelloffene Software für Endbenutzer*innen ist XX Jahre nach Etablierung des Begriffes OpenSource immer noch (oder mehr denn je) ein Nischenprodukt.XXXX
 Gründe: Mangelnde ...
-    - Bekanntheit der Produkte und ihrer Vorteile
-    - Usability
-    - Features
-    - Stabilität
-    - Dokumentation
+
+- Bekanntheit der Produkte und ihrer Vorteile
+- Usability
+- Features
+- Stabilität
+- Dokumentation
 
  Mit freien dezentralen Diensten (z.B. Jabber als Ersatz für WhatsApp) verhält es sich ähnlich.
  Der Einfachheit halber geht der folgende Text erstmal nur auf "klassische Software" ein,
@@ -41,10 +43,11 @@ Diese kann auf Grund der wesensbestimmenden Freiheit nicht "verkauft" werden.
 **Warum funktioniert freie Software dann überhaupt?**
 Weil für manche Menschen/Organisationen nicht nur kurzfristige Nutzenmaximierung handlungsleitend ist.
 Konkrete Quellen von Ressourcen:
- - Arbeit an Freier Software als Hobby (Sinnstiftung durch Problemlösen, Zusammenarbeit mit anderen, Anerkennung durch positives Feedback, Lerneffekt, Demonstration von Fähigkeiten (z.B. für Bewerbungsverfahren))
- - Durch Unternehmen oder Behörden bezahlte Entwicklung (motiviert durch Eigeninteresse (Einsicht in die Vorteile))
- - Spenden (Altruismus oder aufgeklärtes Eigeninteresse)
- - Tragfähige [Geschäftsmodelle](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
+
+- Arbeit an Freier Software als Hobby (Sinnstiftung durch Problemlösen, Zusammenarbeit mit anderen, Anerkennung durch positives Feedback, Lerneffekt, Demonstration von Fähigkeiten (z.B. für Bewerbungsverfahren))
+- Durch Unternehmen oder Behörden bezahlte Entwicklung (motiviert durch Eigeninteresse (Einsicht in die Vorteile))
+- Spenden (Altruismus oder aufgeklärtes Eigeninteresse)
+- Tragfähige [Geschäftsmodelle](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
 
 Fakt ist aber: in den allermeisten Projekten fehlt es an Ressourcen für eine wünschenswerte Weiterentwicklung.
 Mit anderen Worten: obige Quellen von Ressourcen sind nicht ausreichend.
@@ -80,184 +83,195 @@ für "Open-Source-Software" auf:
  Im Folgenden sind Ausschlussgründe und die davon betroffenen Geschäftsmodelle aufgelistet.
 
 
-    - Nicht sinnvoll, Weil kein Weiterverkauf angestrebt wird
-        - Dual-licensing
-        - Re-licensing under a proprietary license
-    - Zielkonflikt: Perfekte Software braucht keinen Support/Schulung
-        - Selling professional services
-    - Problem der Datensouveränität.
-        - Selling software as a service
+- Nicht sinnvoll, Weil kein Weiterverkauf angestrebt wird
+    - Dual-licensing
+    - Re-licensing under a proprietary license
+- Zielkonflikt: Perfekte Software braucht keinen Support/Schulung
+    - Selling professional services
+- Problem der Datensouveränität.
+    - Selling software as a service
 
 
-    - Widerspricht dem Ziel maximalen FLOSS-Anteils
-        - Selling of optional proprietary extensions
-        - Selling of required proprietary parts of a software product
-        - Selling of proprietary update systems
-        - Obfuscation of source code
-        - (Delayed open-sourcing)
+- Widerspricht dem Ziel maximalen FLOSS-Anteils
+    - Selling of optional proprietary extensions
+    - Selling of required proprietary parts of a software product
+    - Selling of proprietary update systems
+    - Obfuscation of source code
+    - (Delayed open-sourcing)
 
-    - Nicht nachhaltig
-        - Open sourcing on end-of-life
+- Nicht nachhaltig
+    - Open sourcing on end-of-life
 
-Es bleiben folgende Modelle übrig
+Es bleiben also folgende Modelle übrig:
+
     3.3 Selling of branded merchandise
     3.4 Selling of certificates and trademark use
     3.6 Partnership with funding organizations
     3.7 Voluntary donations
     3.8 Bounty driven development
     3.9 Pre-order/crowdfunding/reverse-bounty model
-    3.11 Advertising-supported software
     3.10 Crowdsourcing
+    3.11 Advertising-supported software
 
-## Ideenskizze zur Kombination dieser Methoden
+## Ideenskizze zur Kombination (einiger) dieser Methoden
 
 ### Vorbemerkung
 "Voluntary donations" klingt, als wäre die Zahlung "gegen die ökonomische Vernunft" und allein
 aus irrationalem Altruismus oder Mitleid. Ohne tiefer in die Kritik des Modells des Homo-Oeconomicus
 einzusteigen, zwei Anmerkungen:
-    - In vielen anderen Bereichen sind Menschen aber bereit, erhebliche Mittel "entgegen der ökonomischen Vernunft" auszugeben, Stichwort: Statuskonsum.
-    - Wie oben schon erwähnt, kann die finanzielle Unterstützung eines Projektes von dem man individuell profitiert auch mit informiertem Eigeninteresse begründet werden.
+
+- In vielen anderen Bereichen sind Menschen aber bereit, erhebliche Mittel "entgegen der ökonomischen Vernunft" auszugeben, Stichwort: Statuskonsum.
+- Wie oben schon erwähnt, kann die finanzielle Unterstützung eines Projektes von dem man individuell profitiert auch mit informiertem Eigeninteresse begründet werden.
 
 
 ### Kombinationsmodell
-Es gibt eine Organisation (Arbeitstitel: Funding Freedom Society (FFS)).
+Es gibt eine Organisation (Arbeitstitel: "Funding Freedom Society" (FFS)).
 Bei dieser sind alle an Finananzierung interessierten FLOSS-Projekte registriert und haben ein "Konto".
 
-Als Endbenutzer\*in *kauft* man ein Free-Software-Support-Zertifikat (Bronze, Silber, Gold, Platin (10, 30, 100, 200 Cent pro Tag)).
+Als Endbenutzer\*in *kauft* man ein Free-Software-Support-Zertifikat (Bronze, Silber, Gold, Platin (z.B. 10, 30, 100, 200 Cent pro Tag)).
 
-**Warum sollte man dafür Geld ausgeben?**
-    - Man unterstützt Freie Software ("Voluntary Donation")
-    - Man bekommt Merchandise-Material ("Selling branded"), z.B. Aufkleber, schickes T-Shirt
-        - Zusätzlich sind "virtuelle Accessoires" denkbar, also z.b. Badges für github oder andere Soziale Netzwerke
-        Hintergrund: Das geht in Richtung Statuskonsum bzw. [Distinktionsbedürfnis](https://de.wikipedia.org/wiki/Distinktion_(Soziologie)).
-        Man kann dezent zeigen, dass man es sich leistet Freie Software zu unterstützten.
-        Dass viele (oder alle) Menschen grundsätzlich ein solches Bedürfnis haben, sieht man an Verkauf von Fan- und Luxus-Artikeln.
-    - Man bekommt privilegierten Kommunikationskanal ins Projektteam (?)
-    - Man bekommt kleine extra-Features (Für Projekte, die das wollen)
+**Warum sollte man für sowas Geld ausgeben?**
+
+- Man unterstützt Freie Software ("Voluntary Donation")
+- Man bekommt Merchandise-Material ("Selling branded"), z.B. Aufkleber, schickes T-Shirt
+    - Zusätzlich sind "virtuelle Accessoires" denkbar, also z.b. Badges für github oder andere Soziale Netzwerke
+    Hintergrund: Das geht in Richtung Statuskonsum bzw. [Distinktionsbedürfnis](https://de.wikipedia.org/wiki/Distinktion_(Soziologie)).
+    Man kann dezent zeigen, dass man es sich leisten kann und will, Freie Software zu unterstützten.
+    Dass viele (oder alle) Menschen grundsätzlich ein solches Bedürfnis haben, sieht man an Verkauf von Fan- und Luxus-Artikeln, an Subkultur-spezifischer Kleidung, an personalisierten Notebooks etc.
+- Man bekommt privilegierten Kommunikationskanal ins Projektteam (z.B. höhres Gewicht bei Feature-Wunsch-Abstimmungen)
+- Man bekommt ggf. kleine extra-Features (Für Projekte, die das wollen)
 
 **Wie erfolgt die Verteilung des Geldes?**
 Abegerechnet wird in bestimmten Intervallen (z.b. Quartale).
 Der Zertifikatspreis wird in vier Kategorien aufgeteilt:
-    - K1: (z.B. 60%) werden nach Kundenwunsch auf die Projektkonten verteilt
-        - Als Entscheidungshilfe wird eine Software angeboten (opt-in), die lokal das Nutzungsverhalten analysiert und Vorschläge macht (Prämisse: Häufig laufende Programme sind subjektiv wichtiger)
-        - Ähnlich zum Pupularity contest des Debian-Projektes
-    - K2: (z.B. 30%) werden nach Einschätzung der Organisation auf die Projektkonten verteilt.
-        - Prämisse: FFS hat besseren Überblick über die Projekte und kann ggf. auch strategisch Projekte mit Potential fördern
-    - K3: (z.B. 10%) sind Betriebskosten (Personal und Infrastruktur der FFS)
-    - K4: Materialkosten (für T-Shirts, etc) wird zusätzlich berechnet
+
+- K1: (z.B. 60%) werden nach Kundenwunsch auf die Projektkonten verteilt
+    - Als Entscheidungshilfe wird eine Software angeboten (opt-in), die lokal das Nutzungsverhalten analysiert und Vorschläge macht (Prämisse: Häufig laufende Programme sind subjektiv wichtiger)
+    - Ähnlich zum Pupularity contest des Debian-Projektes
+- K2: (z.B. 30%) werden nach Einschätzung der Organisation auf die Projektkonten verteilt.
+    - Prämisse: FFS hat besseren Überblick über die Projekte und kann ggf. auch strategisch Projekte mit Potential fördern
+- K3: (z.B. 10%) sind Betriebskosten (Personal und Infrastruktur der FFS)
+- K4: Materialkosten (für T-Shirts, etc) wird zusätzlich berechnet
 
 
 Die Zuteilung der Gelder wird "crypto-transparent" veröffentlicht:
-    - Beim Bezahlen bekommt man einen Token.
-    - Alle verkauften Support-Zertifikate werden veröffentlicht. Enthaltene Daten:
-        - Token
-        - Gesamtsumme
-        - K1-Zuteilungsschema
-    - -> Jede\*r Käufer\*in kann sich überzeugen, ob das eigene Zertifikat korrekt in der Gesamtbilanz enthalten ist (partielle Geldflüsse).
-    - Alle können sich überzeugen, dass die Gesamtbilanz aufgeht.
-    - Da die verkauften Zertifikate signiert sind, kann die FFS sich vor Anschuldigung der Unterschlagung schützen.
+
+- Beim Bezahlen bekommt man einen Token.
+- Alle verkauften Support-Zertifikate werden veröffentlicht. Enthaltene Daten:
+    - Token
+    - Gesamtsumme
+    - K1-Zuteilungsschema
+- -> Jede\*r Käufer\*in kann sich überzeugen, ob das eigene Zertifikat korrekt in der Gesamtbilanz enthalten ist (partielle Geldflüsse).
+- Alle können sich überzeugen, dass die Gesamtbilanz aufgeht.
+- Da die verkauften Zertifikate signiert sind, kann die FFS sich vor Anschuldigung der Unterschlagung schützen.
 
 
 **Was passiert mit dem Geld bzw. durch das Geld?**
-    - Die registrierten Projekte können
-        - sich das Geld auszahlen lassen.
-        - das Geld transparent an andere Projekte weiterleiten (z.B. zu libs von denen sie abhängen)
-    - Formal gesehen sind es Spendengelder.  Die Verwendung liegt im Ermessen der Empfänger\*innen.
-    Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Bericht zur Verwendung der Gelder zu veröffentlichen. Beispiele:
-        - "Konnte es mir leisten, meine Wochenarbeitszeit zu reduzieren und mehr Zeit in Projekt XYZ zu investieren."
-        - "Von dem Geld wurden eine Anzeigenkampagne (Print- und Online) bezahlt. Die Downloadzahlen haben sich in dem Zeitraum verdreifracht. Wir wollen das wieder machen."
-        - "Durch das Geld konnten wir zwei Mitarbeiter\*innen aus dem Usability Team zu je 20% Vollzeit auf das Projekt ansetzen. Und eine studentische Hilfskraft hat die Doku aktualisiert."
-        - "Wir haben Firma XYZ Beauftragt Issue 123 zu schließen. Für die Zukunft planen wir das gleiche mit Issue 456."
-        - "Ich sehe das Geld als Anerkennung für die im letzten Jahr geleistete Arbeit."
-            - Ähnelt dem Bounty-Modell (siehe oben).
-        - "Im letzten Quartal wurden hauptsächlich Issues bearbeitet, die von Spender\*innen hoch bewertet wurden."
-            - Das entspricht dem Reverse-bounty-Modell.
+
+- Die registrierten Projekte können
+    - sich das Geld auszahlen lassen.
+    - das Geld transparent an andere Projekte weiterleiten (z.B. zu libs von denen sie abhängen)
+- Formal gesehen sind es Spendengelder.  Die Verwendung liegt im Ermessen der Empfänger\*innen.
+Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Bericht zur Verwendung der Gelder zu veröffentlichen. Beispiele:
+    - "Konnte es mir leisten, meine Wochenarbeitszeit zu reduzieren und mehr Zeit in Projekt XYZ zu investieren."
+    - "Von dem Geld wurden eine Anzeigenkampagne (Print- und Online) bezahlt. Die Downloadzahlen haben sich in dem Zeitraum verdreifracht. Wir wollen das wieder machen."
+    - "Durch das Geld konnten wir zwei Mitarbeiter\*innen aus dem Usability Team zu je 20% Vollzeit auf das Projekt ansetzen. Und eine studentische Hilfskraft hat die Doku aktualisiert."
+    - "Wir haben Firma XYZ Beauftragt Issue 123 zu schließen. Für die Zukunft planen wir das gleiche mit Issue 456."
+    - "Ich sehe das Geld als Anerkennung für die im letzten Jahr geleistete Arbeit."
+        - Ähnelt dem Bounty-Modell (siehe oben).
+    - "Im letzten Quartal wurden hauptsächlich Issues bearbeitet, die von Spender\*innen hoch bewertet wurden."
+        - Das entspricht dem Reverse-bounty-Modell.
 
 **Wird dafür eine eigene Organisation gebraucht?**
-    - Für einzelne Projekte ist der Aufwand zu groß.
-    - Ggf. könnte eine bestehende Organisation (naheliegend: Free Software Foundation oder FSFE) die Idee umsetzen. Das wäre aber optional.
-    - Durch den einkalkulierten Betriebskosten-Anteil könnte sich das FFS-Projekt selbst tragen, ggf. sogar als klassisches StartUp mit Risiko-Kapital.
-    - Vorteil einer eigenen Organisation: Agilität
+
+- Für einzelne Projekte ist der Aufwand zu groß.
+- Ggf. könnte eine bestehende Organisation (naheliegend: Free Software Foundation oder FSFE) die Idee umsetzen. Das wäre aber optional.
+- Durch den einkalkulierten Betriebskosten-Anteil könnte sich das FFS-Projekt selbst tragen, ggf. sogar als klassisches StartUp mit Risiko-Kapital.
+- Vorteil einer eigenen Organisation: Agilität
 
 
 
 **Potentielle Probleme des Konzeptes (und Gegenstrategien)**
-    - Es gibt schon ähnliche Versuche (siehe Links unten) ohne durchschlagenden Erfolg.
-        - Die zweite Maus bekommt den Käse...
-    - Kritische Masse wird benötigt (=Anschubfinanzierung für Marketing)
-        - Ggf. durch Crowdfunding oder öffentliche Förderung.
-    - Gefahren durch Kommerzialisierung von FLOSS-Entwicklung
-        - Auch jetzt gibt es schon Geld-Ströme (z.B. Google-Summer-of-Code, Bounties, ...)
-    - Registrierung und Bezahlprozess zu aufwendig?
-        - FLOSS-Nutzer\*innen nehmen ggf. auch etwas Unbequemlichkeit in Kauf.
-    - Baut zu sehr auf Vertrauen und Freiwilligkeit -> geringe Akzeptanz
-        - Vertrauen und Freiwilligkeit funktioniert in anderen Bereichen auch (z.B. Atmosfair)
-        - FLOSS lebt schon jetzt zum großen Teil von Freiwilligkeit.
-        - Jedem Projekt steht es frei, dezente Erinnerungsmechanismen an Spendenmöglichkeit einzubauen, die still sind, wenn ein aktuelles Zertifikat gefunden wird.
-            - Jedem Nutzer steht es frei diese aus dem Code rauszupatchen (vgl. Mining-Software)
-    - Einschränkung der Vielfalt auf Grund der positiven Rückkopplung (siehe unten); Verdrängungswettbewerb.
-        - Andererseits könnte wirtschaftlicher Erfolg einzelner Projekte die Wettbewerber auch um so mehr motivieren.
-    - Unklarheit, wie man mit Projekten umgeht, die andere Ressourcen-Quellen haben (Mozilla, Linux-Kernel, )
-        - Nutzer\*innen Anhand der Berichte selbst entscheiden lassen.
-    - Risiko von Geldwäsche mit Pseudo-Projekten. Oder Projekt-Ende zwischen Geld-Eingang und Auszahlung.
-        - Möglichkeit der Rücküberweisung bzw. Verrechnung
+
+- Es gibt schon ähnliche Versuche (siehe Links unten) ohne durchschlagenden Erfolg.
+    - Die zweite Maus bekommt den Käse...
+- Kritische Masse wird benötigt (=Anschubfinanzierung für Marketing)
+    - Ggf. durch Crowdfunding oder öffentliche Förderung.
+- Gefahren durch Kommerzialisierung von FLOSS-Entwicklung
+    - Auch jetzt gibt es schon Geld-Ströme (z.B. Google-Summer-of-Code, Bounties, ...)
+- Registrierung und Bezahlprozess zu aufwendig?
+    - FLOSS-Nutzer\*innen nehmen ggf. auch etwas Unbequemlichkeit in Kauf.
+- Baut zu sehr auf Vertrauen und Freiwilligkeit -> geringe Akzeptanz
+    - Vertrauen und Freiwilligkeit funktioniert in anderen Bereichen auch (z.B. Atmosfair)
+    - FLOSS lebt schon jetzt zum großen Teil von Freiwilligkeit.
+    - Jedem Projekt steht es frei, dezente Erinnerungsmechanismen an Spendenmöglichkeit einzubauen, die still sind, wenn ein aktuelles Zertifikat gefunden wird.
+        - Jedem Nutzer steht es frei diese aus dem Code rauszupatchen (vgl. Mining-Software)
+- Einschränkung der Vielfalt auf Grund der positiven Rückkopplung (siehe unten); Verdrängungswettbewerb.
+    - Andererseits könnte wirtschaftlicher Erfolg einzelner Projekte die Wettbewerber auch um so mehr motivieren.
+- Unklarheit, wie man mit Projekten umgeht, die andere Ressourcen-Quellen haben (Mozilla, Linux-Kernel, )
+    - Nutzer\*innen Anhand der Berichte selbst entscheiden lassen.
+- Risiko von Geldwäsche mit Pseudo-Projekten. Oder Projekt-Ende zwischen Geld-Eingang und Auszahlung.
+    - Möglichkeit der Rücküberweisung bzw. Verrechnung
 
 **Potentielle positive Effekte**
-    - Mit guter freier Software könnte man tatsächlich ordentlich Geld verdienen. -> Berufliche Perspektive für Fans freier Software.
-    - Qualität steigt -> Anzahl der Nutzer*innen steigt -> Anzahl der verkauften Zertifikate steigt ...
-    - ... -> selbst verstärkende Dynamik
-    - Möglichkeit eines opt-in-Kommunikationskanals von Entwickler\*innen zu Anwender\*innen.
-        - Wenn man für ein Projekt Geld gespendet hat, ist man bestimmt auch bereit an einer Umfrage teilzunehmen.
-        -> Mehr Identifikation zum Projekt.
-    - Man kann freie Software verschenken (z.B. Zertifikats-Abbo. + T-Shirt)
+
+- Mit guter freier Software könnte man tatsächlich ordentlich Geld verdienen. -> Berufliche Perspektive für Fans freier Software.
+- Qualität steigt -> Anzahl der Nutzer*innen steigt -> Anzahl der verkauften Zertifikate steigt ...
+- ... -> selbst verstärkende Dynamik
+- Möglichkeit eines opt-in-Kommunikationskanals von Entwickler\*innen zu Anwender\*innen.
+    - Wenn man für ein Projekt Geld gespendet hat, ist man bestimmt auch bereit an einer Umfrage teilzunehmen.
+    -> Mehr Identifikation zum Projekt.
+- Man kann freie Software verschenken (z.B. Zertifikats-Abbo. + T-Shirt)
 
 **Kurze Überschlagsrechnung ()**
-    - Schätzung: 1 Mrd. PCs in Betrieb (für die ein Zertifikat relevant wäre)
-    - Marktanteil von Linux als Desktop-Betriebssystem: 1.3% (Quelle: [statista.com](https://de.statista.com/statistik/daten/studie/157902/umfrage/marktanteil-der-genutzten-betriebssysteme-weltweit-seit-2009/)
-    - Linux-Nutzer\*innen als Schätzwert für überzeugte FLOSS-Nutzer\*innen
-    - Schätzung: 10% würden ein Zertifikat kaufen. Durchschnittspreis von 10 Cent pro Tag.
-    - -> Top-Down-Rechnung: 10^9 (Anzahl der PCs) * 0.013 (Linux-Marktanteil) * 0.1 (Kaufbereitschaftsquote) * 0.1 (Euro / Tag) = **130K Euro pro Tag** für Investitionen in das FLOSS-Ökosystem. Je nach Weltregion sind das zwischen 100 und 1000 Vollzeit-Stellen.
-    - Bottom-Up-Rechnung: Ab 1000 Leuten (100 Euro täglich), die mitmachen, könnte man jeden Tag einen Bug (fixen lassen). Ab da wäre es sinnvoll (ehrenamtlich). Ab 10K Leuten (100 Euro Betriebskosten täglich) könnte es als StartUp überleben.
-    - Wenn es gelänge, den App-Markt
+
+- Schätzung: 1 Mrd. PCs in Betrieb (für die ein Zertifikat relevant wäre)
+- Marktanteil von Linux als Desktop-Betriebssystem: 1.3% (Quelle: [statista.com](https://de.statista.com/statistik/daten/studie/157902/umfrage/marktanteil-der-genutzten-betriebssysteme-weltweit-seit-2009/)
+- Linux-Nutzer\*innen als Schätzwert für überzeugte FLOSS-Nutzer\*innen
+- Schätzung: 10% würden ein Zertifikat kaufen. Durchschnittspreis von 10 Cent pro Tag.
+- -> Top-Down-Rechnung: 10^9 (Anzahl der PCs) * 0.013 (Linux-Marktanteil) * 0.1 (Kaufbereitschaftsquote) * 0.1 (Euro / Tag) = **130K Euro pro Tag** für Investitionen in das FLOSS-Ökosystem. Je nach Weltregion sind das zwischen 100 und 1000 Vollzeit-Stellen.
+- Bottom-Up-Rechnung: Ab 1000 Leuten (100 Euro täglich), die mitmachen, könnte man jeden Tag einen Bug (fixen lassen). Ab da wäre es sinnvoll (ehrenamtlich). Ab 10K Leuten (100 Euro Betriebskosten täglich) könnte es als StartUp überleben.
+- Wenn es gelänge, den App-Markt
 
 ## Ausweitung auf Dezentrale Dienste
-    - Situation strukturell ähnlich zu FLOSS-Software
-    - Gesellschaftliche Bedeutung langfristig ggf. sogar größer
-    - Bisherige Geschäftsmodelle basieren auf Verkauf von Daten. Nicht erstrebenswert.
-    - Beispiele für Bedarf an Finanzierung:
-        - Freie dezentrale Alternativen zu Dropbox, Trello, Google, Skype, WhatsApp
-        - Soziale Netze (Diaspora)
-        - Etherpad-Server
+
+- Situation strukturell ähnlich zu FLOSS-Software
+- Gesellschaftliche Bedeutung langfristig ggf. sogar größer
+- Bisherige Geschäftsmodelle basieren auf Verkauf von Daten. Nicht erstrebenswert.
+- Beispiele für Bedarf an Finanzierung:
+    - Freie dezentrale Alternativen zu Dropbox, Trello, Google, Skype, WhatsApp
+    - Soziale Netze (Diaspora)
+    - Etherpad-Server
 
 ## Evtl. Relevante Links
-    - http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html
-    - https://freedomsponsors.org/
-    - https://www.bountysource.com/
-    - https://snowdrift.coop/
-    - http://goteo.org/?lang=en
-    - https://gitcoin.co/
-    - https://www.patreon.com/
-    - https://gratipay.com/
-    - https://opensourcefriday.com/
-    - https://www.codetriage.com/
-    - https://www.unixstickers.com/
-    - Synergie zu [GNU Taler](https://taler.net/en/) ausloten
 
-**Zusammenfassung**
-    - Wer gute FLOSS-Software will, sollte bereit sein, dafür auch etwas zu tun bzw. zu bezahlen.
-    - Die "Funding Freedom Society" ist ein Vorschlag zur kooperativen Verteilung von monetärer Anerkennung.
+- http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html
+- https://freedomsponsors.org/
+- https://www.bountysource.com/
+- https://snowdrift.coop/
+- http://goteo.org/?lang=en
+- https://gitcoin.co/
+- https://www.patreon.com/
+- https://gratipay.com/
+- https://opensourcefriday.com/
+- https://www.codetriage.com/
+- https://www.unixstickers.com/
+- Synergie zu [GNU Taler](https://taler.net/en/) ausloten
 
-**Persönliche Anmerkungen**
-Die Frage, wie man die Qualität und Verbreitung von FLOSS *grundsätzlich* steigern kann war für mich ein wesentlicher Motivator die Gründung der FSFW anzuregen.
-Im Alltagsgeschehen ist sie oft untergegangen. Angeregt durch Jonas' beharrliche Hinweise, dass in der Jabber-Welt vieles besser wäre, wenn es vernünftiges Funding gäbe, habe ich meine Gedankenfetzen jetzt mal zu einem White-Paper-Entwurf verschriftlicht.
-
-**Nächste Schritte**
+## Mögliche nächste Schritte
 (Jeder Schritt bedingt jeweils Erfolg des Vorgängers)
-    - Feedback im engeren Kreis einholen (FLOSS-Szene, IT-Industrie)
-    - -> Domains sichern
-    - -> Konzept präzisieren und ins Englische übersetzen
-    - -> Feedback im größeren Rahmen einholen (Reddit, Mailinglisten, Jurist\*innen)
-    - -> Unterstützungszusagen und Testimonials sammeln (Käufer, Flaggschiff-Projekte)
-    - -> Infrastruktur aufbauen (Webseite, Logos, Konto, spezifische Software)
-    - -> Proof-of-Concept-Quartal durchführen
-    - -> Crowdfunding-Kampagne starten
+
+- Feedback im engeren Kreis einholen (FLOSS-Szene, IT-Industrie)
+- -> Domains sichern
+- -> Konzept präzisieren und ins Englische übersetzen
+- -> Feedback im größeren Rahmen einholen (Reddit, Mailinglisten, Jurist\*innen)
+- -> Unterstützungszusagen und Testimonials sammeln (Käufer, Flaggschiff-Projekte)
+- -> Infrastruktur aufbauen (Webseite, Logos, Konto, spezifische Software)
+- -> Proof-of-Concept-Quartal durchführen
+- -> Crowdfunding-Kampagne starten
+
+## Zusammenfassung
+
+- Wer gute FLOSS-Software will, sollte bereit sein, dafür auch etwas zu tun bzw. zu bezahlen.
+- Die "Funding Freedom Society" ist ein Vorschlag zur kooperativen Verteilung von monetärer Anerkennung.
+

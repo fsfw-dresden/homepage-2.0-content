@@ -19,7 +19,9 @@ Er ist eine stark inspiriert durch [Colin Percivals Plan für Open Source Softwa
 
 
 Ausgangslage: Mit zunehmender Digitalisierung wird Software privat und beruflich immer wichtiger.
-Freie quelloffene Software für Endbenutzer*innen ist XX Jahre nach Etablierung des Begriffes OpenSource immer noch (oder mehr denn je) ein Nischenprodukt.
+Freie quelloffene Software ist über 30 Jahre nach Gründung
+der Free Software Foundation und 20 Jahre nach Etablierung des Begriffes eher "business-orientierten"
+Konzeptes *Open-Source* für Endbenutzer*innen immer noch (oder mehr denn je) ein Nischenprodukt.
 Gründe: Mangelnde ...
 
 - Bekanntheit der Produkte und ihrer Vorteile
@@ -30,7 +32,7 @@ Gründe: Mangelnde ...
 
  Mit freien dezentralen Diensten (z.B. Jabber als Ersatz für WhatsApp) verhält es sich ähnlich.
  Der Einfachheit halber geht der folgende Text erstmal nur auf "klassische Software" ein,
- inbesondere Desktop-Applikationen.
+ insbesondere Desktop-Applikationen.
 
 
 **Warum ist proprietäre Software in den genannten Punkten oft besser?**
@@ -83,7 +85,7 @@ für "Open-Source-Software" auf:
  Im Folgenden sind Ausschlussgründe und die davon betroffenen Geschäftsmodelle aufgelistet.
 
 
-- Nicht sinnvoll, Weil kein Weiterverkauf angestrebt wird
+- Nicht sinnvoll, weil kein Weiterverkauf angestrebt wird (Zielgruppe: Endanwender\*innen)
     - Dual-licensing
     - Re-licensing under a proprietary license
 - Zielkonflikt: Endanwender\*innen guter Software sollten für normale Usecases keinen Support brauchen
@@ -147,7 +149,7 @@ Der Zertifikatspreis wird in vier Kategorien aufgeteilt:
 
 - K1: (z.B. 60%) werden nach Kundenwunsch auf die Projektkonten verteilt
     - Als Entscheidungshilfe wird eine Software angeboten (opt-in), die lokal das Nutzungsverhalten analysiert und Vorschläge macht (Prämisse: Häufig laufende Programme sind subjektiv wichtiger)
-    - Ähnlich zum Pupularity contest des Debian-Projektes
+    - Ähnlich zum Popularity contest des Debian-Projektes
 - K2: (z.B. 30%) werden nach Einschätzung der Organisation auf die Projektkonten verteilt.
     - Prämisse: FFS hat besseren Überblick über die Projekte und kann ggf. auch strategisch Projekte mit Potential fördern
 - K3: (z.B. 10%) sind Betriebskosten (Personal und Infrastruktur der FFS)
@@ -212,6 +214,9 @@ Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Be
     - Nutzer\*innen Anhand der Berichte selbst entscheiden lassen.
 - Risiko von Geldwäsche mit Pseudo-Projekten. Oder Projekt-Ende zwischen Geld-Eingang und Auszahlung.
     - Möglichkeit der Rücküberweisung bzw. Verrechnung
+- Zentralisierung und Abhängigkeit der Projekte von der FFS
+    - Transparenz und Datensparsamkeit im Kern des Konzeptes implementieren
+    - Menschen, die der Meinung sind, das Projekt sei zu groß (Machtkonzentration) können es forken (Dank [AGPL](https://en.wikipedia.org/wiki/Affero_General_Public_License) etc.)
 
 **Potentielle positive Effekte**
 
@@ -223,7 +228,7 @@ Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Be
     -> Mehr Identifikation zum Projekt.
 - Man kann freie Software verschenken (z.B. Zertifikats-Abbo. + T-Shirt)
 
-**Kurze Überschlagsrechnung ()**
+**Kurze Überschlagsrechnung**
 
 - Schätzung: 1 Mrd. PCs in Betrieb (für die ein Zertifikat relevant wäre)
 - Marktanteil von Linux als Desktop-Betriebssystem: 1.3% (Quelle: [statista.com](https://de.statista.com/statistik/daten/studie/157902/umfrage/marktanteil-der-genutzten-betriebssysteme-weltweit-seit-2009/)
@@ -231,7 +236,7 @@ Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Be
 - Schätzung: 10% würden ein Zertifikat kaufen. Durchschnittspreis von 10 Cent pro Tag.
 - -> Top-Down-Rechnung: 10^9 (Anzahl der PCs) * 0.013 (Linux-Marktanteil) * 0.1 (Kaufbereitschaftsquote) * 0.1 (Euro / Tag) = **130K Euro pro Tag** für Investitionen in das FLOSS-Ökosystem. Je nach Weltregion sind das zwischen 100 und 1000 Vollzeit-Stellen.
 - Bottom-Up-Rechnung: Ab 1000 Leuten (100 Euro täglich), die mitmachen, könnte man jeden Tag einen Bug (fixen lassen). Ab da wäre es sinnvoll (ehrenamtlich). Ab 10K Leuten (100 Euro Betriebskosten täglich) könnte es als StartUp überleben.
-- Wenn es gelänge, den App-Markt
+- Wenn es gelänge, den App-Markt auf mobilen Endgeräten einzubeziehen, wäre der Kuchen nochmal größer (und ein kleineres Stück würde reichen).
 
 ## Ausweitung auf Dezentrale Dienste
 
@@ -239,25 +244,26 @@ Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Be
 - Gesellschaftliche Bedeutung langfristig ggf. sogar größer
 - Bisherige Geschäftsmodelle basieren auf Verkauf von Daten. Nicht erstrebenswert.
 - Beispiele für Bedarf an Finanzierung:
-    - Freie dezentrale Alternativen zu Dropbox, Trello, Google, Skype, WhatsApp
+    - Freie dezentrale Alternativen zu Dropbox, Trello, Google, Skype, WhatsApp, Doodle, Polldaddy
     - Soziale Netze (Diaspora)
     - Etherpad-Server
 
 ## Evtl. Relevante Links
 
-- http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html
-- https://freedomsponsors.org/
-- https://www.bountysource.com/
-- https://snowdrift.coop/
-- http://goteo.org/?lang=en
-- https://gitcoin.co/
-- https://www.patreon.com/
-- https://gratipay.com/
-- https://opensourcefriday.com/
-- https://www.codetriage.com/
-- https://www.unixstickers.com/
+- [http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html)
+- [https://freedomsponsors.org/](https://freedomsponsors.org/)
+- [https://www.bountysource.com/](https://www.bountysource.com/)
+- [https://snowdrift.coop/](https://snowdrift.coop/)
+- [http://goteo.org/](http://goteo.org/)
+- [https://gitcoin.co/](https://gitcoin.co/)
+- [https://www.patreon.com/](https://www.patreon.com/)
+- [https://gratipay.com/](https://gratipay.com/)
+- [https://opensourcefriday.com/](https://opensourcefriday.com/)
+- [https://www.codetriage.com/](https://www.codetriage.com/)
+- [https://www.unixstickers.com/](https://www.unixstickers.com/)
+- [https://creativecommons.org/use-remix/made-with-cc/](https://creativecommons.org/use-remix/made-with-cc/)
+- [https://sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting](https://sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting)
 - Synergie zu [GNU Taler](https://taler.net/en/) ausloten
-- https://sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting
 
 ## Mögliche nächste Schritte
 (Jeder Schritt bedingt jeweils Erfolg des Vorgängers)

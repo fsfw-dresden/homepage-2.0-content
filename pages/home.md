@@ -30,6 +30,11 @@ save_as: index.html
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
+    <section id="10may-sprechstunde" class="news">
+        <span datetime="2018-05-09">09.05.2018</span>
+        <h3>Verlegung Plenum Himmelfahrt</h3>
+        <p>Am Donnerstag, 10. Mai 2018, ist Feiertag und die SLUB bleibt geschlossen. Wir haben daher unser Plenum in das <a href="http://cafe-muellers.de">Cafe Müller's</a> verlegt, wo wir uns um 18 Uhr treffen werden. Ihr seid alle eingeladen zum Austausch in gemütlicher Runde - bringt gerne eigene Themen und Fragen mit!</p>
+    </section>
     <section id="Verlegung Sprechstunde" class="news">
         <span datetime="2018-02-27">27.02.2018</span>
         <h3>Terminänderung LaTeX Sprechstunde</h3>

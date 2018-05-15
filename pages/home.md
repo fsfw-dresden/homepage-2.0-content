@@ -13,12 +13,12 @@ save_as: index.html
     </ul>
     <div about="https://fsfw-dresden.de/videos/fsfw-ds-lt-2017.webm">
         <h3 id="vorstellungsvortrag-lightningtalk-datenspuren2017">Vorstellungsvortrag</h3>
-        <video preload="none" autobuffer controls>
+        <video preload="none" autobuffer controls poster="img/fsfw-ds-lt-2017.jpg" >
         <source src="https://fsfw-dresden.de/videos/fsfw-ds-lt-2017.webm" type="video/webm" />
         <div>Schade – hier käme ein Video, wenn Ihr Browser HTML5 Unterstützung hätte, wie z.B. der <a href="https://www.mozilla.org/">aktuelle von Mozilla</a></div>
         </video>
         <div>
-                <a href="https://fsfw-dresden.de/" property="dct:title" rel="cc:attributionURL">Die FSFW stellt sich vor</a>
+                <a href="https://fsfw-dresden.de/" property="dct:title" rel="cc:attributionURL">Die FSFW</a> stellt sich vor
                 <a href="https://datenspuren.de/2017/fahrplan/events/8681.html" target="_blank" title="Beiträge bei den Datenspuren 2017 in den Technischen Sammlungen Dresden">bei den Datenspuren Lightning Talks 2017</a>,
                 lizensiert unter <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="Creative Commons Attribution ShareAlike License 4.0">CC-BY-SA&nbsp;4.0</a>,
                 <a href="https://media.ccc.de/v/DS2017-8681-lightning_talks" title="Aufzeichnungen der Lightning Talks bei CCC-TV">Quelle</a>  (<a href="https://datenspuren.de/2017/mitschnitte.html" target="_blank">Aufzeichnungen der Datenspuren</a>)

@@ -1,6 +1,7 @@
 Title: Programm
 Date: 2017-02-02 19:12:00
 save_as: programm.html
+template: page_raw
 
 <section class="abstract notopmargin turquoise">
     <div class="imageheader" style="background-image:url(./img/topics/together-960x200.jpg)">

@@ -1,6 +1,7 @@
 Title: Themen
 Date: 2017-02-02 19:11:00
 save_as: themen.html
+template: page_raw
 
 <section class="notopmargin turquoise">
     <div class="imageheader" style="background-image:url(./img/topics/together-960x200.jpg)">

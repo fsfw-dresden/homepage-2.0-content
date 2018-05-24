@@ -7,8 +7,8 @@ save_as: datenschutz.html
 
 Die Dienste der FSFW-Dresden verarbeiten einige persönliche Daten. Im Folgenden wird erklärt welche Daten und warum.
 Bei Fragen bzw. Anfragen (z.B. Richtigstellung und Löschung) wenden Sie sich bitte an
-* mailto:jonas@wielicki.name
-* xmpp:jonas@wielicki.name
+* Mail: [jonas@wielicki.name](jonas@wielicki.name)
+* xmpp: [jonas@wielicki.name](xmpp:jonas@wielicki.name)
 
 Wenn nicht anders angegeben, sind die verarbeiteten Daten für die Funktion des Dienstes grundsätzlich notwendig.
 
@@ -23,13 +23,17 @@ Wenn nicht anders angegeben, sind die verarbeiteten Daten für die Funktion des 
 * Austragen unter: https://lists.fsfw-dresden.de/mailman/listinfo/news bzw. https://lists.fsfw-dresden.de/mailman/listinfo/discuss
 
 ## LDAP ("Lightweight Directory Access Protocol")
-* Benutzername, Anzeigename (für angenehmere Anzeige, Angabe freiwillig) und Passwort (Art 6.1b)
-* Email-Adresse (Art. 6.1b)
+* Benutzername, Anzeigename (für angenehmere Anzeige, Angabe freiwillig) und Passwort ([Art 6.1b][a61b])
+* Email-Adresse ([Art 6.1b][a61b])
 
 ## Wiki
-* Login-cookie (Art. 6.1f und Art 6.1b)
+* Login-cookie ([Art 6.1f][a61f] und [Art 6.1b][a61b])
 * Weitere Daten: siehe LDAP
 
 ## Quellen:
     https://dsgvo-gesetz.de/erwaegungsgruende/nr-49/
 
+[a61a]: http://www.privacy-regulation.eu/de/artikel-6-rechtmaessigkeit-der-verarbeitung-DS-GVO.htm
+[a61b]: http://www.privacy-regulation.eu/de/artikel-6-rechtmaessigkeit-der-verarbeitung-DS-GVO.htm
+[a61f]: http://www.privacy-regulation.eu/de/artikel-6-rechtmaessigkeit-der-verarbeitung-DS-GVO.htm
+[ew49]: https://dsgvo-gesetz.de/erwaegungsgruende/nr-49/

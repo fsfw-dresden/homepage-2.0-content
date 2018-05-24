@@ -119,10 +119,9 @@ Es bleiben also folgende Modelle übrig:
 
 ### Vorbemerkung
 "Voluntary donations" klingt, als wäre die Zahlung "gegen die ökonomische Vernunft" und allein
-aus irrationalem Altruismus oder Mitleid. Ohne tiefer in die Kritik des Modells des Homo-Oeconomicus
-einzusteigen, zwei Anmerkungen:
+aus irrationalem Altruismus oder Mitleid. Dazu zwei Anmerkungen:
 
-- In vielen anderen Bereichen sind Menschen aber bereit, erhebliche Mittel "entgegen der ökonomischen Vernunft" auszugeben, Stichwort: Statuskonsum.
+- In vielen anderen Bereichen sind Menschen aber bereit, erhebliche Mittel "entgegen der ökonomischen Vernunft" auszugeben, Stichworte: Markenbewusstsein und Statuskonsum.
 - Wie oben schon erwähnt, kann die finanzielle Unterstützung eines Projektes von dem man individuell profitiert auch mit informiertem Eigeninteresse begründet werden.
 
 
@@ -259,10 +258,13 @@ Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Be
 - <https://www.patreon.com/>
 - <https://gratipay.com/>
 - <https://opensourcefriday.com/>
-- <https://www.codetriage.com/>
+- <https://www.codetriage.com/> (Versendet neues offenes Issue jeden Tag)
 - <https://www.unixstickers.com/>
+- <https://opencollective.com/>
 - <https://creativecommons.org/use-remix/made-with-cc/>
 - <https://sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting>
+- <http://www.fossfactory.org/>
+- <https://store.kde.org/browse/ord/top/#plings> Monetarisierung für Icons, Themes etc.
 - Synergie zu [GNU Taler](https://taler.net/en/) ausloten
 
 ## Mögliche nächste Schritte
@@ -282,3 +284,17 @@ Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Be
 - Wer gute FLOSS-Software will, sollte bereit sein, dafür auch etwas zu tun bzw. zu bezahlen.
 - Die "Funding Freedom Society" ist ein Vorschlag zur kooperativen Verteilung von monetärer Anerkennung.
 
+
+
+### TODO!!!
+- registrierte Projekte können Optional eine Bankverbindung angeben, für Leute die direkt spenden wollen
+- Problem mit Patreon: keine Rubrik "Software", nicht OpenSource
+
+Wolf: carsten: heute nochmal nen Anwalt f. Finanzrecht gefragt: Zahlungsdienstleistungen sind in DEU erlaubnispflichtig; will man nicht unbedingt selber machen.
+
+
+cookie: Homo-Oekonomicus Kritik rauslassen [x]
+
+---------
+https://opencollective.com
+https://opencollective.com/spyder

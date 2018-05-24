@@ -2,6 +2,7 @@ Title: Homepage
 Date: 2017-02-02 18:49:00
 Author: FSFW Dresden
 save_as: index.html
+Template: page_raw
 
 <section id="vorstellung">
     <h1>Freie Software und Freies Wissen Dresden</h1>

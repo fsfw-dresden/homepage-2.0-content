@@ -9,9 +9,9 @@ Kombination existierender Geschäftsmodellle (Spenden, Merchandise, Bounties, Fu
 
 ---
 
-# Arbeitstitel: "Funding Freedom Society"
+# "Funding Freedom Society"
 
-Dieser Text beschreibt eine private Idee zur Steigerung von Qualität und Verbreitung von freier quelloffener Software ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) und sekundär freien dezentralen Web-Diensten.
+Dieser Text beschreibt eine private Idee (Arbeitstitel: "Funding Freedom Society") zur Steigerung von Qualität und Verbreitung von freier quelloffener Software ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) (und sekundär von freien dezentralen Web-Diensten).
 Er geht nicht darauf ein, *warum* diese Ziele erstrebenswert sind.
 Er ist eine stark inspiriert durch [Colin Percivals Plan für Open Source Software Maintainer](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) und durch Diskussionen im [FSFW-Plenum](https://fsfw-dresden.de#plenum).
 
@@ -252,6 +252,24 @@ Genau wie die Entwicklung guter freier Software, verursacht auch der Betrieb von
     - Etherpad-Server
     - Mailinglisten, Jabber-Server
 
+## Mögliche nächste Schritte
+
+- [Feedback](mailto:kontakt@fsfw-dresden.de) im engeren Kreis einholen (FLOSS-Szene, IT-Industrie)
+- -> Domains sichern
+- -> Konzept präzisieren und ins Englische übersetzen
+- -> Feedback im größeren Rahmen einholen (Reddit, Mailinglisten, Jurist\*innen)
+- -> Unterstützungszusagen und Testimonials sammeln (Käufer, Flaggschiff-Projekte)
+- -> Infrastruktur aufbauen (Webseite, Logos, Konto, spezifische Software)
+- -> Proof-of-Concept-Quartal durchführen
+- -> Crowdfunding-Kampagne starten
+
+## Zusammenfassung
+
+- Wer gute FLOSS-Software will, sollte bereit sein, dafür auch etwas zu tun bzw. zu bezahlen
+- Die "Funding Freedom Society" ist ein Vorschlag zur kooperativen Verteilung von monetärer Anerkennung
+- Feedback an [kontakt@fsfw-dresden.de](mailto:kontakt@fsfw-dresden.de)
+
+
 ## Evtl. Relevante Links
 
 - <http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html>
@@ -276,24 +294,6 @@ Genau wie die Entwicklung guter freier Software, verursacht auch der Betrieb von
 - <http://www.fossfactory.org/>
 - <https://store.kde.org/browse/ord/top/#plings> Monetarisierung für Icons, Themes etc.
 - Synergie zu [GNU Taler](https://taler.net/en/) ausloten
-
-## Mögliche nächste Schritte
-
-- [Feedback](kontakt@fsfw-dresden.de) im engeren Kreis einholen (FLOSS-Szene, IT-Industrie)
-- -> Domains sichern
-- -> Konzept präzisieren und ins Englische übersetzen
-- -> Feedback im größeren Rahmen einholen (Reddit, Mailinglisten, Jurist\*innen)
-- -> Unterstützungszusagen und Testimonials sammeln (Käufer, Flaggschiff-Projekte)
-- -> Infrastruktur aufbauen (Webseite, Logos, Konto, spezifische Software)
-- -> Proof-of-Concept-Quartal durchführen
-- -> Crowdfunding-Kampagne starten
-
-## Zusammenfassung
-
-- Wer gute FLOSS-Software will, sollte bereit sein, dafür auch etwas zu tun bzw. zu bezahlen
-- Die "Funding Freedom Society" ist ein Vorschlag zur kooperativen Verteilung von monetärer Anerkennung
-
-
 
 
 

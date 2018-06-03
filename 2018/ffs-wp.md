@@ -15,7 +15,7 @@ Dieser Text beschreibt eine private Idee (Arbeitstitel: "Funding Freedom Society
 Er geht nicht darauf ein, *warum* diese Ziele erstrebenswert sind.
 Er ist eine stark inspiriert durch [Colin Percivals Plan für Open Source Software Maintainer](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) und durch Diskussionen im [FSFW-Plenum](https://fsfw-dresden.de#plenum).
 
-Um die Textmenge halbwegs im Rahmen zu halten, sind große Teile der Gedanken als Stickpunktliste ausgeführt.
+Um die Textmenge halbwegs im Rahmen zu halten, sind große Teile der Gedanken als Stichpunktliste ausgeführt.
 
 ## Bestandsaufnahme
 
@@ -121,13 +121,12 @@ Es bleiben also folgende Modelle übrig:
 "Voluntary donations" klingt, als wäre die Zahlung "gegen die ökonomische Vernunft" und allein
 aus irrationalem Altruismus oder Mitleid. Dazu zwei Anmerkungen:
 
-- In vielen anderen Bereichen sind Menschen aber bereit, erhebliche Mittel "entgegen der ökonomischen Vernunft" auszugeben, Stichworte: Markenbewusstsein und Statuskonsum.
-- Wie oben schon erwähnt, kann die finanzielle Unterstützung eines Projektes von dem man individuell profitiert auch mit informiertem Eigeninteresse begründet werden.
+In vielen anderen Bereichen sind Menschen aber bereit, erhebliche Mittel "entgegen der ökonomischen Vernunft" auszugeben, Stichworte: Markenbewusstsein und Statuskonsum.  Außerdem kann, wie oben schon erwähnt, die finanzielle Unterstützung eines Projektes von dem man individuell profitiert, auch mit informiertem Eigeninteresse begründet werden.
 
 
 ### Beschreibung der Idee (Kombinationsmodell)
 Es gibt eine Organisation (Arbeitstitel: "Funding Freedom Society" (FFS)).
-Bei dieser sind alle an Finananzierung interessierten FLOSS-Projekte registriert und haben ein "Konto".
+Bei dieser sind alle an Finanzierung interessierten FLOSS-Projekte registriert und haben ein "Konto".
 
 Als Endbenutzer\*in *kauft* man ein Free-Software-Support-Zertifikat (Bronze, Silber, Gold, Platin (z.B. 10, 30, 100, 200 Cent pro Tag)).
 
@@ -269,7 +268,7 @@ Genau wie die Entwicklung guter freier Software, verursacht auch der Betrieb von
 - Feedback an [kontakt@fsfw-dresden.de](mailto:kontakt@fsfw-dresden.de)
 
 
-## Evtl. Relevante Links
+## Evtl. relevante Links
 
 - <http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html>
 - <https://liberapay.com/>

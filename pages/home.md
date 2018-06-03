@@ -2,6 +2,7 @@ Title: Homepage
 Date: 2017-02-02 18:49:00
 Author: FSFW Dresden
 save_as: index.html
+Template: page_raw
 
 <section id="vorstellung">
     <h1>Freie Software und Freies Wissen Dresden</h1>
@@ -11,25 +12,28 @@ save_as: index.html
         <li>Verbesserung von freier Software und zugehöriger Dokumentation</li>
         <li>Steigerung der Zugänglichkeit von Wissen</li>
     </ul>
-    <div about="https://fsfw-dresden.de/videos/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm">
-        <h3 id="vorstellungsvortrag-lightningtalk-datenspuren2016">Vorstellungsvortrag</h3>
-        <video preload="none" autobuffer controls poster="img/Die-FSFW-at-Lightningtalks-Datenspuren2016.jpg">
-        <source src="https://fsfw-dresden.de/videos/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm" type="video/webm" style="max-width:480" />
+    <div about="https://fsfw-dresden.de/videos/fsfw-ds-lt-2017.webm">
+        <h3 id="vorstellungsvortrag-lightningtalk-datenspuren2017">Vorstellungsvortrag</h3>
+        <video preload="none" autobuffer controls poster="img/fsfw-ds-lt-2017.jpg" >
+        <source src="https://fsfw-dresden.de/videos/fsfw-ds-lt-2017.webm" type="video/webm" />
         <div>Schade – hier käme ein Video, wenn Ihr Browser HTML5 Unterstützung hätte, wie z.B. der <a href="https://www.mozilla.org/">aktuelle von Mozilla</a></div>
         </video>
         <div>
-                <a href="https://fsfw-dresden.de/" property="dct:title" rel="cc:attributionURL">Die FSFW stellt sich vor</a>,
-                mit <a href="https://wwwtcs.inf.tu-dresden.de/~borch/cv.html" property="cc:attributionName" rel="dct:creator" title="Vortragender" target="_blank">Daniel Borchmann</a>
-                und <a property="cc:attributionName" rel="dct:supporter" href="https://wiki.c3d2.de/Benutzer:Eri!" title="Organisation und Moderator der Lightningtalks" target="_blank">eri!</a>,
-                <a href="https://datenspuren.de/2016/fahrplan/events/7782.html" target="_blank" title="Beiträge bei den Datenspuren 2016 in den Technischen Sammlungen Dresden">Lightning Talks</a>,
+                <a href="https://fsfw-dresden.de/" property="dct:title" rel="cc:attributionURL">Die FSFW</a> stellt sich vor
+                <a href="https://datenspuren.de/2017/fahrplan/events/8681.html" target="_blank" title="Beiträge bei den Datenspuren 2017 in den Technischen Sammlungen Dresden">bei den Datenspuren Lightning Talks 2017</a>,
                 lizensiert unter <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="Creative Commons Attribution ShareAlike License 4.0">CC-BY-SA&nbsp;4.0</a>,
-                <a href="https://media.ccc.de/v/DS2016-7782-lightning_talks" title="Aufzeichnungen der Lightning Talks bei CCC-TV">Quelle</a>  (<a href="https://datenspuren.de/2016/mitschnitte.html" target="_blank">Aufzeichnungen der Datenspuren</a>)
+                <a href="https://media.ccc.de/v/DS2017-8681-lightning_talks" title="Aufzeichnungen der Lightning Talks bei CCC-TV">Quelle</a>  (<a href="https://datenspuren.de/2017/mitschnitte.html" target="_blank">Aufzeichnungen der Datenspuren</a>)
         </div>
     </div>
 </section>
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
+    <section id="10may-sprechstunde" class="news">
+        <span datetime="2018-05-09">09.05.2018</span>
+        <h3>Verlegung Plenum Himmelfahrt</h3>
+        <p>Am Donnerstag, 10. Mai 2018, ist Feiertag und die SLUB bleibt geschlossen. Wir haben daher unser Plenum in das <a href="http://cafe-muellers.de">Cafe Müller's</a> verlegt, wo wir uns um 18 Uhr treffen werden. Ihr seid alle eingeladen zum Austausch in gemütlicher Runde - bringt gerne eigene Themen und Fragen mit!</p>
+    </section>
     <section id="Verlegung Sprechstunde" class="news">
         <span datetime="2018-02-27">27.02.2018</span>
         <h3>Terminänderung LaTeX Sprechstunde</h3>

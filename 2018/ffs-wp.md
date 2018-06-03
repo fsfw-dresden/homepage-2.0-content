@@ -15,6 +15,8 @@ Dieser Text beschreibt eine private Idee (Arbeitstitel: "Funding Freedom Society
 Er geht nicht darauf ein, *warum* diese Ziele erstrebenswert sind.
 Er ist eine stark inspiriert durch [Colin Percivals Plan für Open Source Software Maintainer](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) und durch Diskussionen im [FSFW-Plenum](https://fsfw-dresden.de#plenum).
 
+Um die Textmenge halbwegs im Rahmen zu halten, sind große Teile der Gedanken als Stickpunktliste ausgeführt.
+
 ## Bestandsaufnahme
 
 
@@ -86,22 +88,19 @@ für "Open-Source-Software" auf:
  Im Folgenden sind Ausschlussgründe und die davon betroffenen Geschäftsmodelle aufgelistet.
 
 
-- Nicht sinnvoll, weil kein Weiterverkauf angestrebt wird (Zielgruppe: Endanwender\*innen)
+- Nicht für Zielgruppe *Endanwender\*innen* geeignet
     - Dual-licensing
     - Re-licensing under a proprietary license
 - Zielkonflikt: Endanwender\*innen guter Software sollten für normale Usecases keinen Support brauchen
     - Selling professional services
 - Problem der Datensouveränität
     - Selling software as a service
-
-
 - Widerspricht dem Ziel maximalen FLOSS-Anteils
     - Selling of optional proprietary extensions
     - Selling of required proprietary parts of a software product
     - Selling of proprietary update systems
     - Obfuscation of source code
     - (Delayed open-sourcing)
-
 - Nicht nachhaltig
     - Open sourcing on end-of-life
 

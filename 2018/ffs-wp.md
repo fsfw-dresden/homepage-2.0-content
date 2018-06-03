@@ -240,7 +240,7 @@ Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Be
 - Bottom-Up-Rechnung: Ab 1000 Leuten (100 Euro täglich), die mitmachen, könnte man jeden Tag einen Bug (fixen lassen). Ab da wäre es sinnvoll (ehrenamtlich). Ab 10K Leuten (100 Euro Betriebskosten täglich) könnte es als StartUp überleben
 - Wenn es gelänge, den App-Markt auf mobilen Endgeräten einzubeziehen, wäre der Kuchen nochmal größer (und ein kleineres Stück würde reichen).
 
-## Ausweitung auf Dezentrale IT-Dienste
+## Ausweitung auf dezentrale IT-Dienste
 Genau wie die Entwicklung guter freier Software, verursacht auch der Betrieb von freier dezentraler IT-Infrastruktur Aufwand und Kosten.
 
 - -> Situation strukturell ähnlich zu FLOSS-Software
@@ -282,7 +282,6 @@ Genau wie die Entwicklung guter freier Software, verursacht auch der Betrieb von
 - <https://gitcoin.co/>
 - <https://www.patreon.com/>
 - <https://gratipay.com/> (Betrieb eingestellt)
-
 - <https://patreon.com>
     - Hat keine [offenbar](https://learn.patreon.com/build/selecting-a-creator-category/) Kategorie speziell für (freie) Software )
     - Ist nicht auf Offenheit und Datensparsamkeit etc. getrimmt (Login mit Facebook, AGPL?)

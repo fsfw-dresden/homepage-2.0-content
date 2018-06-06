@@ -32,7 +32,7 @@ Gründe: Mangelnde ...
 - Stabilität
 - Dokumentation
 
- Mit freien dezentralen Diensten (z.B. (Jabber-Server)[https://wiki.fsfw-dresden.de/doku.php/doku/software/jabber] als Ersatz für WhatsApp) verhält es sich ähnlich.
+ Mit freien dezentralen Diensten (z.B. [Jabber-Server](https://wiki.fsfw-dresden.de/doku.php/doku/software/jabber) als Ersatz für WhatsApp) verhält es sich ähnlich.
  Der Einfachheit halber geht der folgende Text hauptsächlich auf "klassische Software" ein,
  insbesondere Desktop-Applikationen.
 

@@ -1,8 +1,8 @@
-Title: Funding Freedom Society - Idee zur Finanzierung freier Softwareprojekte
+Title: Funding Freedom Initiative - Idee zur Finanzierung freier Softwareprojekte
 Date: 2018-06-03 18:00
 Category: Artikel
 Tags: Freie Software, Gesellschaft
-Slug: FFS-wp
+Slug: FFI-wp
 Author: Carsten
 Summary: Finanzierungsmodell zur Steigerung von Qualität und Verbreitung von FLOSS durch
 Kombination existierender Geschäftsmodellle (Spenden, Merchandise, Bounties, Funding-Organisationen.)
@@ -145,7 +145,7 @@ Das spricht für eine separate Orga. Ggf. könnte eine bestehende Organisation (
     - Nutzer\*innen Anhand der Berichte selbst entscheiden lassen.
 - Risiko von Geldwäsche mit Pseudo-Projekten. Oder Projekt-Ende zwischen Geld-Eingang und Auszahlung
     - Möglichkeit der Rücküberweisung bzw. Verrechnung
-- Zentralisierung und Abhängigkeit der Projekte von der FFS
+- Zentralisierung und Abhängigkeit der Projekte von der FFI
     - Transparenz und Datensparsamkeit im Kern des Konzeptes implementieren
     - Menschen, die der Meinung sind, das Projekt sei zu groß (Machtkonzentration) können es forken (Dank [AGPL](https://en.wikipedia.org/wiki/Affero_General_Public_License) etc.)
     - Registrierte Projekte können optional eine Möglichkeit zum Direkt-Spenden angeben
@@ -196,7 +196,7 @@ Genau wie die Entwicklung guter freier Software, verursacht auch der Betrieb von
 ## Zusammenfassung
 
 - Wer gute FLOSS-Software will, sollte bereit sein, dafür auch etwas zu tun bzw. zu bezahlen
-- Die "Funding Freedom Society" ist ein Vorschlag zur kooperativen Verteilung von monetärer Anerkennung
+- Die "Funding Freedom Initiative" ist ein Vorschlag zur kooperativen Verteilung von monetärer Anerkennung
 - Feedback an [kontakt@fsfw-dresden.de](mailto:kontakt@fsfw-dresden.de)
 
 

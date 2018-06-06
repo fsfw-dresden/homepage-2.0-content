@@ -9,32 +9,24 @@ Kombination existierender Geschäftsmodellle (Spenden, Merchandise, Bounties, Fu
 
 ---
 
-# "Funding Freedom Society"
+# "Funding Freedom Initiative"
 
-Dieser Text beschreibt eine private Idee (Arbeitstitel: "Funding Freedom Society") zur Steigerung von Qualität und Verbreitung von freier quelloffener Software ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) (und sekundär von freien dezentralen Web-Diensten).
-Er geht nicht darauf ein, *warum* diese Ziele erstrebenswert sind.
+Dieser Text beschreibt eine Idee (Arbeitstitel: "Funding Freedom Initiative") zur Steigerung von Qualität und Verbreitung von freier quelloffener Software ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) (und sekundär von freien dezentralen Web-Diensten).
+Der Autor ist ein starker Befürworter freier Software und richtet sich an ein gleichgesinntes Publikum. Vor diesem Hintergrund ist auch die im folgenden deutlich formulierte Kritik einzuordnen.
+Der Text geht nicht darauf ein, *warum* diese Ziele erstrebenswert sind, siehe dazu (bezogen auf den Hochschul-Kontext) <https://fsfw-dresden.de/programm>.
 Er ist eine stark inspiriert durch [Colin Percivals Plan für Open Source Software Maintainer](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) und durch Diskussionen im [FSFW-Plenum](https://fsfw-dresden.de#plenum).
 
-Um die Textmenge halbwegs im Rahmen zu halten, sind große Teile der Gedanken als Stichpunktliste ausgeführt.
 
 ## Bestandsaufnahme
-
 
 Ausgangslage: Mit zunehmender Digitalisierung wird Software privat und beruflich immer wichtiger.
 Freie quelloffene Software ist über 30 Jahre nach Gründung
 der Free Software Foundation und 20 Jahre nach Etablierung des eher "business-orientierten"
 Konzeptes *Open-Source* für Endbenutzer*innen immer noch (oder mehr denn je) ein Nischenprodukt.
-Gründe: Mangelnde ...
+Gründe sind einerseits Mangelnde Bekanntheit der Produkte und ihrer Vorteile, andererseits aber auch Qualitätsfragen wie Usability-Schwächen, fehlende Features, Stabilitätsprobleme und fehlende bzw. veraltete Dokumentation.
 
-- Bekanntheit der Produkte und ihrer Vorteile
-- Usability
-- Features
-- Stabilität
-- Dokumentation
-
- Mit freien dezentralen Diensten (z.B. [Jabber-Server](https://wiki.fsfw-dresden.de/doku.php/doku/software/jabber) als Ersatz für WhatsApp) verhält es sich ähnlich.
- Der Einfachheit halber geht der folgende Text hauptsächlich auf "klassische Software" ein,
- insbesondere Desktop-Applikationen.
+Mit freien dezentralen Diensten (z.B. [Jabber-Server](https://wiki.fsfw-dresden.de/doku.php/doku/software/jabber) als Ersatz für WhatsApp) verhält es sich ähnlich.
+Der Einfachheit halber geht der folgende Text hauptsächlich auf "klassische Software" ein, insbesondere Desktop-Applikationen.
 
 
 ### Warum ist proprietäre Software in den genannten Punkten oft qualitativ besser?
@@ -47,148 +39,88 @@ dass Kunden bis zur Bezahlung an der Nutzung gehindert werden.
 
 ### Warum funktioniert freie Software dann überhaupt?
 Weil für manche Menschen/Organisationen nicht nur kurzfristige Nutzenmaximierung handlungsleitend ist.
-Konkrete Quellen von Ressourcen:
+Konkrete Quellen von Ressourcen sind 1. Arbeit an Freier Software als Hobby (Sinnstiftung durch Problemlösen, Zusammenarbeit mit anderen, Anerkennung durch positives Feedback), 2. Demonstration eigener Fähigkeiten (z.B. für Bewerbungsverfahren)) 3. Lerneffekt, 4. auf Grund von Eigeninteresse und Verständnis der Vorteile freies Software durch Unternehmen oder Behörden bezahlte Entwicklung, 5. Spenden (Altruismus oder aufgeklärtes Eigeninteresse) und 6. tragfähige kommerzielle [Geschäftsmodelle](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) (z.B. Verkauf von Support und Anpassungen).
 
-- Arbeit an Freier Software als Hobby (Sinnstiftung durch Problemlösen, Zusammenarbeit mit anderen, Anerkennung durch positives Feedback, Lerneffekt, Demonstration von Fähigkeiten (z.B. für Bewerbungsverfahren))
-- Durch Unternehmen oder Behörden bezahlte Entwicklung (motiviert durch Eigeninteresse (Einsicht in die Vorteile))
-- Spenden (Altruismus oder aufgeklärtes Eigeninteresse)
-- Tragfähige [Geschäftsmodelle](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
-
-Fakt ist aber: in den allermeisten Projekten fehlt es an Ressourcen für eine wünschenswerte Weiterentwicklung.
-Mit anderen Worten: obige Quellen von Ressourcen sind nicht ausreichend.
+Fakt ist aber: In den allermeisten Projekten fehlt es an Ressourcen für eine wünschenswerte Weiterentwicklung.
+Mit anderen Worten, obige Quellen von Ressourcen sind nicht ausreichend.
 
 
 ## Analyse existierender Geschäftsmodelle
 
-Wikipedia listet folgende [Geschäftsmodelle](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
-für "Open-Source-Software" auf:
-
-- 3.1 Dual-licensing
-- 3.2 Selling professional services
-- 3.3 Selling of branded merchandise
-- 3.4 Selling of certificates and trademark use
-- 3.5 Selling software as a service
-- 3.6 Partnership with funding organizations
-- 3.7 Voluntary donations
-- 3.8 Bounty driven development
-- 3.9 Pre-order/crowdfunding/reverse-bounty model
-- 3.10 Crowdsourcing
-- 3.11 Advertising-supported software
-- 3.12 Selling of optional proprietary extensions
-- 3.13 Selling of required proprietary parts of a software product
-- 3.14 Selling of proprietary update systems
-- 3.15 Re-licensing under a proprietary license
-- 3.16 Obfuscation of source code
-- 3.17 Delayed open-sourcing
-- 3.18 Open sourcing on end-of-life
+Wikipedia listet insgesamt [18 Geschäftsmodelle](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
+für "Open-Source-Software" auf (Stand Juni 2018). Einige davon kommen für nachhaltige Endanwender-Applikationen nicht in Frage z.B. "open sourcing on end-of-life" oder "dual-licensing". Andere stehen zumindest im Konflikt mit dem Ziel die best-mögliche freie Software (inkl. selbsterklärender Doku) zu bekommen, z.B. "delayed open-sourcing" oder "Verkauf von Support".
 
 
- Für die Projekte mit der Zielgruppe der Endbenutzer\*innen kommen bestimmte Modelle
- nicht in Frage bzw. sind nicht wünschenswert (Unterschied zwischen Open-Source und freier Software).
- Im Folgenden sind Ausschlussgründe und die davon betroffenen Geschäftsmodelle aufgelistet.
+Von den gelisteten Geschäftsmodellen verbleibt dann die knappe Hälfte:
 
+1. Selling of branded merchandise
+2. Selling of certificates and trademark use
+3. Partnership with funding organizations
+4. Voluntary donations
+5. Bounty driven development
+6. Pre-order/crowdfunding/reverse-bounty model
+7. Crowdsourcing
+8. Advertising-supported software
 
-- Nicht für Zielgruppe *Endanwender\*innen* geeignet
-    - Dual-licensing
-    - Re-licensing under a proprietary license
-- Zielkonflikt: Endanwender\*innen guter Software sollten für normale Usecases keinen Support brauchen
-    - Selling professional services
-- Problem der Datensouveränität
-    - Selling software as a service
-- Widerspricht dem Ziel maximalen FLOSS-Anteils
-    - Selling of optional proprietary extensions
-    - Selling of required proprietary parts of a software product
-    - Selling of proprietary update systems
-    - Obfuscation of source code
-    - (Delayed open-sourcing)
-- Nicht nachhaltig
-    - Open sourcing on end-of-life
-
-Es bleiben also folgende Modelle übrig:
-
-- 3.3 Selling of branded merchandise
-- 3.4 Selling of certificates and trademark use
-- 3.6 Partnership with funding organizations
-- 3.7 Voluntary donations
-- 3.8 Bounty driven development
-- 3.9 Pre-order/crowdfunding/reverse-bounty model
-- 3.10 Crowdsourcing
-- 3.11 Advertising-supported software
+Der folgende Ansatz versucht diese Modelle zu kombinieren.
 
 ## Ideenskizze zur Kombination (einiger) dieser Methoden
 
 ### Vorbemerkung
-"Voluntary donations" klingt, als wäre die Zahlung "gegen die ökonomische Vernunft" und allein
-aus irrationalem Altruismus oder Mitleid. Dazu zwei Anmerkungen:
-
-In vielen anderen Bereichen sind Menschen aber bereit, erhebliche Mittel "entgegen der ökonomischen Vernunft" auszugeben, Stichworte: Markenbewusstsein und Statuskonsum.  Außerdem kann, wie oben schon erwähnt, die finanzielle Unterstützung eines Projektes von dem man individuell profitiert, auch mit informiertem Eigeninteresse begründet werden.
+Die Formulierung "Voluntary donations" legt nahe Zahlung zu leisten "entgegen der ökonomische Vernunft" und allein aus irrationalem Altruismus oder Mitleid.
+In vielen anderen Bereichen sind Menschen aber bereit, erhebliche Mittel "gegen die ökonomische Vernunft" auszugeben, Stichworte: Markenbewusstsein und Statuskonsum.
+Zudem kann, wie oben schon erwähnt, die finanzielle Unterstützung eines Projektes von dem man individuell profitiert, auch mit informiertem Eigeninteresse begründet werden.
 
 
 ### Beschreibung der Idee (Kombinationsmodell)
-Es gibt eine Organisation (Arbeitstitel: "Funding Freedom Society" (FFS)).
+Es gibt eine Organisation (Arbeitstitel: "Funding Freedom Initiative" (FFI)).
 Bei dieser sind alle an Finanzierung interessierten FLOSS-Projekte registriert und haben ein "Konto".
 
 Als Endbenutzer\*in *kauft* man ein Free-Software-Support-Zertifikat (Bronze, Silber, Gold, Platin (z.B. 10, 30, 100, 200 Cent pro Tag)).
+Mit dem so eingenommen Geld, werden Projekte unterstützt und (zu einem kleinen Teil) der Verwaltungsaufwand finanziert.
 
 #### Warum sollte man für sowas Geld ausgeben?
 
-- Man unterstützt Freie Software ("Voluntary Donation")
-- Man bekommt Merchandise-Material ("Selling of branded merchandise"), z.B. Aufkleber, schickes T-Shirt
-    - Zusätzlich sind "virtuelle Accessoires" denkbar, also z.b. Badges für github oder andere soziale Netzwerke
-    Hintergrund: Das geht in Richtung Statuskonsum bzw. [Distinktionsbedürfnis](https://de.wikipedia.org/wiki/Distinktion_(Soziologie)).
-    Man kann dezent zeigen, dass man es sich leisten kann und will, Freie Software zu unterstützten.
-    Dass viele Menschen grundsätzlich ein solches Bedürfnis haben, sieht man an Verkauf von Fan- und Luxus-Artikeln, an Subkultur-spezifischer Kleidung, an personalisierten Notebooks etc.
-- Man bekommt privilegierten Kommunikationskanal ins Projektteam (z.B. höheres Gewicht bei Feature-Wunsch-Abstimmungen)
-- Man bekommt ggf. kleine extra-Features (Für Projekte, die das wollen)
+1\. Man unterstützt Freie Software ("Voluntary Donation").
+2\. Man bekommt (optional) Merchandise-Material ("Selling of branded merchandise"), z.B. Aufkleber, *schickes* T-Shirt. Zusätzlich sind "virtuelle Accessoires" denkbar, also z.B. Badges für github oder andere soziale Netzwerke. Hintergrund: Das geht in Richtung Statuskonsum bzw. [Distinktionsbedürfnis](https://de.wikipedia.org/wiki/Distinktion_(Soziologie)). 3. Man bekommt privilegierten Kommunikationskanal ins Projektteam (z.B. höheres Gewicht bei Feature-Wunsch-Abstimmungen (Bounty driven development)) 4. Man bekommt ggf. kleine extra-Features (Für Projekte, die das wollen).
 
 #### Wie erfolgt die Verteilung des Geldes?
 Abgerechnet wird in bestimmten Intervallen (z.B. Quartale).
-Der Zertifikatspreis wird in vier Kategorien aufgeteilt:
+Der Zertifikatspreis wird in vier Kategorien (K1-K4) aufgeteilt:
 
-- K1: (z.B. 60%) werden nach Kundenwunsch auf die Projektkonten verteilt
-    - Als Entscheidungshilfe wird eine Software angeboten (opt-in), die lokal das Nutzungsverhalten analysiert und Vorschläge macht (Prämisse: Häufig laufende Programme sind subjektiv wichtiger)
-    - Ähnlich zum [Debian Popularity Contest}(https://popcon.debian.org/)
-- K2: (z.B. 30%) werden nach Einschätzung der Organisation auf die Projektkonten verteilt
-    - Prämisse: FFS hat besseren Überblick über die Projekte und kann ggf. auch strategisch Projekte mit Potential fördern
-- K3: (z.B. 10%) sind Betriebskosten (Personal und Infrastruktur der FFS)
-- K4: Materialkosten (für T-Shirts, etc) wird zusätzlich berechnet
+**K1 (z.B. 60%)** wird nach Kundenwunsch auf die Projektkonten verteilt. Als Entscheidungshilfe wird eine Software angeboten (opt-in), die lokal das Nutzungsverhalten analysiert und Vorschläge macht (Prämisse: Häufig laufende Programme sind subjektiv wichtiger). Vorbild: [Debian Popularity Contest](https://popcon.debian.org/)
+
+**K2 (z.B. 30%)** werden nach Einschätzung der Organisation auf die Projektkonten verteilt. Die Annahme dabei: FFI hat besseren Überblick über die Projekte und kann ggf. auch strategisch Projekte mit Potential fördern, die noch nicht hinreichend bekannt sind.
+
+**K3 (z.B. 10%)** sind Betriebskosten (Personal und Infrastruktur der FFI)
 
 
+**K4** sind Materialkosten (für T-Shirts, etc) und werdne zusätzlich berechnet.
+
+#### Wie wird Veruntreuung verhindert?
 Die Zuteilung der Gelder wird "crypto-transparent" veröffentlicht:
 
-- Beim Bezahlen bekommt man einen Token.
-- Alle verkauften Support-Zertifikate werden veröffentlicht. Enthaltene Daten:
-    - Token
-    - Gesamtsumme
-    - K1-Zuteilungsschema
-- -> Jede\*r Käufer\*in kann sich überzeugen, ob das eigene Zertifikat korrekt in der Gesamtbilanz enthalten ist (partielle Geldflüsse).
-- Alle können sich überzeugen, dass die Gesamtbilanz aufgeht.
-- Da die verkauften Zertifikate signiert sind, kann die FFS sich vor Anschuldigung der Unterschlagung schützen
-
+Beim Bezahlen bekommt man einen Token mitgeteilt. Alle verkauften Support-Zertifikate werden veröffentlicht. Enthaltene Daten: Token, Gesamtsumme, K1-Zuteilungsschema. Dadurch kann jede\*r Käufer\*in kann sich überzeugen, ob das eigene Zertifikat korrekt in der Gesamtbilanz enthalten ist (partielle Geldflüsse) und auch jedes Projekt kann sich überzeugen, dass es alle zustehenden Zahlungen erhält. Zudem können sich alle überzeugen, dass die Gesamtbilanz aufgeht. Die FFI kann sich vor Anschuldigung der Unterschlagung schützen, da alle verkauften Zertifikate signiert sind.
 
 #### Was passiert mit dem Geld bzw. durch das Geld?
 
-- Die registrierten Projekte können
-    - sich das Geld auszahlen lassen.
-    - das Geld transparent an andere Projekte weiterleiten (z.B. zu libs von denen sie abhängen)
-- Formal gesehen sind es Spendengelder.  Die Verwendung liegt im Ermessen der Empfänger\*innen.
+Die registrierten Projekte können sich das Geld a) auszahlen lassen oder b) transparent an andere Projekte weiterleiten (z.B. zu libs von denen sie abhängen). Formal gesehen sind es Spendengelder. Die Verwendung (und Versteuerung) liegt in der Verantwortung der Empfänger\*innen.
+
 Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Bericht zur Verwendung der Gelder zu veröffentlichen. Beispiele:
-    - "Konnte es mir leisten, meine Wochenarbeitszeit zu reduzieren und mehr Zeit in Projekt XYZ zu investieren."
-    - "Von dem Geld wurden eine Anzeigenkampagne (Print- und Online) bezahlt. Die Downloadzahlen haben sich in dem Zeitraum verdreifracht. Wir wollen das wieder machen."
-    - "Durch das Geld konnten wir zwei Mitarbeiter\*innen aus unserem Usability Team zu je 20% Vollzeit auf das Projekt ansetzen. Und eine studentische Hilfskraft hat die Doku aktualisiert."
-    - "Wir haben Firma XYZ Beauftragt, Issue 123 zu schließen. Für die Zukunft planen wir das gleiche mit Issue 456."
-    - "Ich sehe das Geld als Anerkennung für die im letzten Jahr geleistete Arbeit. Danke Leute!"
-        - Ähnelt dem Bounty-Modell (siehe oben).
-    - "Im letzten Quartal wurden hauptsächlich Issues bearbeitet, die von Spender\*innen hoch bewertet wurden."
-        - Das entspricht dem Reverse-bounty-Modell.
+
+- "Konnte es mir leisten, meine Wochenarbeitszeit zu reduzieren und mehr Zeit in Projekt XYZ zu investieren."
+- "Von dem Geld wurden eine Anzeigenkampagne (Print- und Online) bezahlt. Die Downloadzahlen haben sich in dem Zeitraum verdreifracht. Wir wollen das wieder machen."
+- "Durch das Geld konnten wir zwei Mitarbeiter\*innen aus unserem Usability Team zu je 20% Vollzeit auf das Projekt ansetzen. Und eine studentische Hilfskraft hat die Doku aktualisiert."
+- "Wir haben Firma XYZ Beauftragt, Issue 123 zu schließen. Für die Zukunft planen wir das gleiche mit Issue 456."
+- "Ich sehe das Geld als Anerkennung für die im letzten Jahr geleistete Arbeit. Danke Leute!"
+    - Ähnelt dem Bounty-Modell (siehe oben).
+- "Im letzten Quartal wurden hauptsächlich Issues bearbeitet, die von Spender\*innen hoch bewertet wurden."
+    - Das entspricht dem Reverse-bounty-Modell.
 
 #### Wird dafür eine eigene (neue) Organisation gebraucht?
 
-- Für einzelne Projekte ist der Aufwand zu groß.
-- Ggf. könnte eine bestehende Organisation (naheliegend: Free Software Foundation oder FSFE) die Idee umsetzen. Das wäre aber optional.
-- Durch den einkalkulierten Betriebskosten-Anteil könnte sich das FFS-Projekt selbst tragen, ggf. sogar als klassisches StartUp mit Risiko-Kapital.
-- Vorteil einer eigenen Organisation: Agilität
-- Nachteile: Unbekannt, noch kein Vertrauen
+Für einzelne Projekte ist der Fundraising Aufwand meist zu groß.
+Das spricht für eine separate Orga. Ggf. könnte eine bestehende Organisation (naheliegend: Free Software Foundation oder FSFE) die Idee umsetzen. Durch den einkalkulierten Betriebskosten-Anteil könnte sich das Projekt selbst tragen, ggf. sogar als klassisches StartUp mit Risiko-Kapital. Eine eigenen neue Organisation wäre vermutlich agiler als eine etablierte mit gewachsenen Strukturen. Dem steht der Nachteil gegenüber, dass sie unbekannt wäre und nicht genügend Vertrauen hätte.
 
 
 

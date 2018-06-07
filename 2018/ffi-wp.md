@@ -106,23 +106,19 @@ Beim Bezahlen bekommt man einen Token mitgeteilt. Alle verkauften Support-Zertif
 
 Die registrierten Projekte können sich das Geld a) auszahlen lassen oder b) transparent an andere Projekte weiterleiten (z.B. zu libs von denen sie abhängen). Formal gesehen sind es Spendengelder. Die Verwendung (und Versteuerung) liegt in der Verantwortung der Empfänger\*innen.
 
-Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Bericht zur Verwendung der Gelder zu veröffentlichen. Beispiele:
+Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Bericht zur Verwendung der Gelder zu veröffentlichen. Mögliche Beispiele könnten folgendermaßen aussehen:
 
 - "Konnte es mir leisten, meine Wochenarbeitszeit zu reduzieren und mehr Zeit in Projekt XYZ zu investieren."
 - "Von dem Geld wurden eine Anzeigenkampagne (Print- und Online) bezahlt. Die Downloadzahlen haben sich in dem Zeitraum verdreifracht. Wir wollen das wieder machen."
 - "Durch das Geld konnten wir zwei Mitarbeiter\*innen aus unserem Usability Team zu je 20% Vollzeit auf das Projekt ansetzen. Und eine studentische Hilfskraft hat die Doku aktualisiert."
 - "Wir haben Firma XYZ Beauftragt, Issue 123 zu schließen. Für die Zukunft planen wir das gleiche mit Issue 456."
-- "Ich sehe das Geld als Anerkennung für die im letzten Jahr geleistete Arbeit. Danke Leute!"
-    - Ähnelt dem Bounty-Modell (siehe oben).
-- "Im letzten Quartal wurden hauptsächlich Issues bearbeitet, die von Spender\*innen hoch bewertet wurden."
-    - Das entspricht dem Reverse-bounty-Modell.
+- "Ich sehe das Geld als Anerkennung für die im letzten Jahr geleistete Arbeit. Danke Leute!" (Ähnelt dem Bounty-Modell (siehe oben).)
+- "Im letzten Quartal wurden hauptsächlich Issues bearbeitet, die von Spender\*innen hoch bewertet wurden." (Entspricht dem Reverse-bounty-Modell.)
 
 #### Wird dafür eine eigene (neue) Organisation gebraucht?
 
 Für einzelne Projekte ist der Fundraising Aufwand meist zu groß.
-Das spricht für eine separate Orga. Ggf. könnte eine bestehende Organisation (naheliegend: Free Software Foundation oder FSFE) die Idee umsetzen. Durch den einkalkulierten Betriebskosten-Anteil könnte sich das Projekt selbst tragen, ggf. sogar als klassisches StartUp mit Risiko-Kapital. Eine eigenen neue Organisation wäre vermutlich agiler als eine etablierte mit gewachsenen Strukturen. Dem steht der Nachteil gegenüber, dass sie unbekannt wäre und nicht genügend Vertrauen hätte.
-
-
+Das spricht für eine separate Organisation. Eine solche muss aber nicht notwendigerweise neu gegründet werden. Ggf. könnte eine bestehende Organisation (naheliegend: Free Software Foundation oder FSFE) die Idee umsetzen. Durch den einkalkulierten Betriebskosten-Anteil könnte sich das Projekt selbst tragen, ggf. sogar als klassisches StartUp mit Risiko-Kapital. Eine eigenen neue Organisation wäre vermutlich *agiler* als eine etablierte mit gewachsenen Strukturen und interner Meinungspluralität. Dem steht der Nachteil gegenüber, dass sie unbekannt wäre und eventuell nicht genügend Vertrauen hätte.
 
 #### Potentielle Probleme des Konzeptes (und Gegenstrategien)
 

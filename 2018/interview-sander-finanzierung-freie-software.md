@@ -1,4 +1,4 @@
-Title: Interview mit Prof. Sander: „Finanzierung von freier Software“
+Title: Interview mit Prof. Sander: Finanzierung von freier Software
 Date: 2018-06-14 12:00
 Category: Artikel
 Tags: Freie Software, Gesellschaft, Finanzierung

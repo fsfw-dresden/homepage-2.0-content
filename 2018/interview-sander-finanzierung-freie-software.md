@@ -5,7 +5,7 @@ Tags: Freie Software, Gesellschaft, Finanzierung
 Slug: interview-sander-finanzierung-freie-software
 Summary: Die Finanzierung von Entwicklung und Verbesserung freier Software ist ein aktuelles Thema mit vielen Fragen, Möglichkeiten und Lösungsansätzen. Wir sprachen mit Prof. Sander, Inhaber des Lehrstuhls für die Numerik partieller Differentialgleichungen an der TU Dresden, über seine Ideen und bisherigen Erfolge der Förderung von freier Software an Hochschulen.
 
-<img alt="Prof. Sander demonstriert seine Liste bisher gefixter Bugs" src="/img/prof-sander-interview.jpg" style="float:right; margin:1em;" />
+<img alt="Prof. Sander demonstriert seine Liste bisher gefixter Bugs" src="{filename}/img/prof-sander-interview.jpg" style="float:right; margin:1em;" />
 
 Universitäten und Fachhochschulen profitieren in den Bereichen Lehre, Forschung und Verwaltung auf vielfältige Weise von freier Software. So können nicht nur Anpassungen vorgenommen und genutzte Software erweitert werden, auch bieten offene Programmierumgebungen, Dateiformate und Frameworks eine nachhaltige Grundlage für den alltäglichen Gebrauch und die Ausbildung. Verwaltungseinrichtungen haben beispielsweise ein Interesse daran, dass Dateiformate zur Archivierung und zum Austausch nicht Gefahr laufen irgendwann nicht mehr lesbar zu sein. Genauso haben Forschende ein großes Interesse an freien Lizenzen, um geschriebene Software weiter- und wiederverwenden zu können.
 

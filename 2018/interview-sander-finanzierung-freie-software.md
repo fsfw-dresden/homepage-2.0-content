@@ -7,6 +7,8 @@ Summary: Die Finanzierung von Entwicklung und Verbesserung freier Software ist e
 
 <img alt="Prof. Sander demonstriert seine Liste bisher gefixter Bugs" src="{filename}/img/prof-sander-interview.jpg" style="float:right; margin-left:1.5em; margin-bottom:1.5em;" />
 
+<a href="#interview">Direkt zum Interview springen.</a>
+
 Universitäten und Fachhochschulen profitieren in den Bereichen Lehre, Forschung und Verwaltung auf vielfältige Weise von freier Software. So können nicht nur Anpassungen vorgenommen und genutzte Software erweitert werden, auch bieten offene Programmierumgebungen, Dateiformate und Frameworks eine nachhaltige Grundlage für den alltäglichen Gebrauch und die Ausbildung. Verwaltungseinrichtungen haben beispielsweise ein Interesse daran, dass Dateiformate zur Archivierung und zum Austausch nicht Gefahr laufen irgendwann nicht mehr lesbar zu sein. Genauso haben Forschende ein großes Interesse an freien Lizenzen, um geschriebene Software weiter- und wiederverwenden zu können.
 
 Allerdings hat der Einsatz von freier Software im beruflichen Umfeld einen Haken: die kontinuierliche Weiterentwicklung und das Fixen von Bugs wird all zu oft noch von Freiwilligen neben ihrer eigentlichen Beschäftigung betrieben. Das kann z. B. bedeuten, dass Probleme länger nicht behoben werden und so die Stabilität des Betriebs gefährden, sofern der Betrieb nicht selber Hand anlegt. Das heißt aber keineswegs, dass es nicht auch bereits positive Beispiele zur Lösung des Problems gibt: einerseits gibt es Firmen, z. B. Red Hat und die deutsche Nextcloud GmbH, die durch Support und Dienstleistungen den Einsatz von freier Software auch für Firmen attraktiv machen. Andererseits werden Plattformen wie Patreon dazu genutzt, einzelne Programmierer oder kleine Teams mit monatlichen Beiträgen zu unterstützen.
@@ -30,7 +32,7 @@ Wir schließen uns dem an und möchten als Motivation zum Lesen des ganzen Inter
 
 *Übrigens: am 24. Mai 2018 erschien bei der OSB-Alliance der Artikel „[OSB Alliance meldet erneut erfolgreiches Crowdfunding von LibreOffice-Verbesserungen](https://osb-alliance.de/news/pressemitteilungen/osb-alliance-meldet-erneut-erfolgreiches-crowdfunding-von-libreoffice-verbesserungen)“, in dem auch Prof. Sander Stellungnahme gab!*
 
-## Das Interview
+## <a name="interview"></a>Das Interview
 
 **FSFW Dresden**: *Warum setzen Sie sich für freie Software ein und was ist bisher konkret gelaufen?*
 

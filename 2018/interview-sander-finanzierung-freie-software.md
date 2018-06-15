@@ -83,7 +83,7 @@ Dann kam ich in Kontakt mit Karl Leo, welcher sich darüber ärgerte, dass besti
 
 **OS**: Ja, das war kein Problem. Man sagt dann der Beschaffungsstelle einfach die Kostenstellennummern mit ihren jeweiligen Anteilen.
 
-**FSFW**: *Würde das auch Universitäts-übergreifend funktionieren? z.&nbsp;B. wenn die Uni Jena und die TU Berlin vor den gleichen Probleme stehen und dann noch mehr zusammen kommt?*
+**FSFW**: *Würde das auch Universitäts-übergreifend funktionieren? Z.&nbsp;B. wenn die Uni Jena und die TU Berlin vor den gleichen Probleme stehen und dann noch mehr zusammen kommt?*
 
 **OS**: Sie bräuchten auf jeden Fall jemanden, der das dann organisiert – aber dann würde man das verwaltungstechnisch umgesetzt kriegen.
 

@@ -12,23 +12,37 @@ Template: page_raw
         <li>Verbesserung von freier Software und zugehöriger Dokumentation</li>
         <li>Steigerung der Zugänglichkeit von Wissen</li>
     </ul>
-    <div about="https://fsfw-dresden.de/videos/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm">
-        <h3 id="vorstellungsvortrag-lightningtalk-datenspuren2016">Vorstellungsvortrag</h3>
-        <video preload="none" autobuffer controls poster="img/Die-FSFW-at-Lightningtalks-Datenspuren2016.jpg">
-        <source src="https://fsfw-dresden.de/videos/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm" type="video/webm" style="max-width:480" />
-        <div>Schade – hier käme ein Video, wenn Ihr Browser HTML5 Unterstützung hätte, wie z.B. der <a href="https://www.mozilla.org/">aktuelle von Mozilla</a></div>
-        </video>
-        <div>
-                <a href="https://fsfw-dresden.de/" property="dct:title" rel="cc:attributionURL">Die FSFW</a> stellt sich vor
-                <a href="https://datenspuren.de/2016/fahrplan/events/7782.html" target="_blank" title="Beiträge bei den Datenspuren 2016 in den Technischen Sammlungen Dresden">bei den Datenspuren Lightning Talks 2016</a>,
-                lizensiert unter <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="Creative Commons Attribution ShareAlike License 4.0">CC-BY-SA&nbsp;4.0</a>,
-                <a href="https://media.ccc.de/v/DS2016-7782-lightning_talks" title="Aufzeichnungen der Lightning Talks bei CCC-TV">Quelle</a>  (<a href="https://datenspuren.de/2016/mitschnitte.html" target="_blank">Aufzeichnungen der Datenspuren</a>)
-        </div>
-    </div>
+
+    <p>Zu unserem regelmäßigen Treffen, dem sog. Plenum, sind Interessierte herzlich willkommen!</p>
+    <dl>
+        <dt>Datum &amp; Uhrzeit</dt>
+        <dd>
+            <span class="rrule" title="freq=weekly;interval=2;byday=th;byhour=18;byminute=30;">Jeden <b>Donnerstag</b> in ungeraden Wochen ab 18:30 Uhr</span>
+            <span class="hidden dtstart" title="2015-01-14"> seit dem 14.01.2015</span>
+        </dd>
+        <dt>Ort</dt>
+        <dd>
+            <div id="contact" class="vcard">
+            <div id="postal-address" class="adr">
+                <span class="extended-address"><strong>SLUB Dresden, Hauptgebäude</strong> <a href="http://3d.slub-dresden.de/viewer?project_id=3&amp;language=de&amp;activate_location=3022" target="_blank">Raum -2.115</a></span><br>
+                <span class="street-address">Zellescher Weg 18</span><br>
+                <span class="postal-code">01069</span>
+                <span class="locality">Dresden</span><br>
+                <span class="region">SN</span>
+                <span class="country-name">Germany</span>
+            </div>
+            </div>
+        </dd>
+    </dl>
 </section>
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
+    <section id="blog-interview-sander" class="news">
+        <span datetime="2018-06-14">14.06.2018</span>
+        <h3>Interview zum Thema „Finanzierung von freier Software“ mit Prof. Sander</h3>
+        <p>Wir sprachen mit Prof. Oliver Sander aus der Fakultät Mathematik über Möglichkeiten der Finanzierung von Entwicklung freier Software. Das Interview ist nun <a href="/2018/06/interview-sander-finanzierung-freie-software.html">in unserem Blog online</a>!</p>
+    </section>
     <section id="10may-sprechstunde" class="news">
         <span datetime="2018-05-09">09.05.2018</span>
         <h3>Verlegung Plenum Himmelfahrt</h3>
@@ -67,30 +81,22 @@ Template: page_raw
     </section>
 </section>
 <hr>
-<section class="vevent" id="plenum">
-    <h2 class="category">Regelmäßige Treffen ("Plenum")</h2>
-    <p>Interessierte sind herzlich willkommen.</p>
-    <dl>
-        <dt>Datum &amp; Uhrzeit</dt>
-        <dd>
-            <span class="rrule" title="freq=weekly;interval=2;byday=th;byhour=18;byminute=30;">Jeden <b>Donnerstag</b> in ungeraden Wochen ab 18:30 Uhr</span>
-            <span class="hidden dtstart" title="2015-01-14"> seit dem 14.01.2015</span>
-        </dd>
-        <dt>Ort</dt>
-        <dd>
-            <div id="contact" class="vcard">
-            <div id="postal-address" class="adr">
-                <span class="extended-address"><strong>SLUB Dresden, Hauptgebäude</strong> <a href="http://3d.slub-dresden.de/viewer?project_id=3&amp;language=de&amp;activate_location=3022" target="_blank">Raum -2.115</a></span><br>
-                <span class="street-address">Zellescher Weg 18</span><br>
-                <span class="postal-code">01069</span>
-                <span class="locality">Dresden</span><br>
-                <span class="region">SN</span>
-                <span class="country-name">Germany</span>
-            </div>
-            </div>
-        </dd>
-    </dl>
+<section id="video">
+    <div about="https://fsfw-dresden.de/videos/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm">
+        <h3 id="vorstellungsvortrag-lightningtalk-datenspuren2016">Vorstellungsvortrag</h3>
+        <video preload="none" autobuffer controls poster="img/Die-FSFW-at-Lightningtalks-Datenspuren2016.jpg">
+        <source src="https://fsfw-dresden.de/videos/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm" type="video/webm" style="max-width:480" />
+        <div>Schade – hier käme ein Video, wenn Ihr Browser HTML5 Unterstützung hätte, wie z.B. der <a href="https://www.mozilla.org/">aktuelle von Mozilla</a></div>
+        </video>
+        <div>
+                <a href="https://fsfw-dresden.de/" property="dct:title" rel="cc:attributionURL">Die FSFW</a> stellt sich vor
+                <a href="https://datenspuren.de/2016/fahrplan/events/7782.html" target="_blank" title="Beiträge bei den Datenspuren 2016 in den Technischen Sammlungen Dresden">bei den Datenspuren Lightning Talks 2016</a>,
+                lizensiert unter <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="Creative Commons Attribution ShareAlike License 4.0">CC-BY-SA&nbsp;4.0</a>,
+                <a href="https://media.ccc.de/v/DS2016-7782-lightning_talks" title="Aufzeichnungen der Lightning Talks bei CCC-TV">Quelle</a>  (<a href="https://datenspuren.de/2016/mitschnitte.html" target="_blank">Aufzeichnungen der Datenspuren</a>)
+        </div>
+    </div>
 </section>
+
 <section id="kontakt">
     <h2>Kontaktinformation</h2>
     <p>Man kann uns per E-Mail erreichen unter <a href="mailto:kontakt@fsfw-dresden.de">kontakt@fsfw-dresden.de</a></p>

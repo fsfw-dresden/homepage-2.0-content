@@ -13,31 +13,36 @@ Template: page_raw
         <li>Steigerung der Zugänglichkeit von Wissen</li>
     </ul>
 
-    <h3>Newsletter</h3>
-    <p>Wir informieren über unsere Veranstaltungen auf unserem Newsletter: <a href="//lists.fsfw-dresden.de/mailman/listinfo/news">abonnieren</a> (maximal ein bis zwei E-Mails pro Monat)</p>
 
-    <h3>Plenum</h3>
-    <p>Zu unserem regelmäßigen Treffen, dem sog. Plenum, sind Interessierte herzlich willkommen!</p>
-    <dl>
-        <dt>Datum &amp; Uhrzeit</dt>
-        <dd>
-            <span class="rrule" title="freq=weekly;interval=2;byday=th;byhour=18;byminute=30;">Jeden <b>Donnerstag</b> in ungeraden Wochen ab 18:30 Uhr</span>
-            <span class="hidden dtstart" title="2015-01-14"> seit dem 14.01.2015</span>
-        </dd>
-        <dt>Ort</dt>
-        <dd>
-            <div id="contact" class="vcard">
-            <div id="postal-address" class="adr">
-                <span class="extended-address"><strong>SLUB Dresden, Hauptgebäude</strong> <a href="http://3d.slub-dresden.de/viewer?project_id=3&amp;language=de&amp;activate_location=3022" target="_blank">Raum -2.115</a></span><br>
-                <span class="street-address">Zellescher Weg 18</span><br>
-                <span class="postal-code">01069</span>
-                <span class="locality">Dresden</span><br>
-                <span class="region">SN</span>
-                <span class="country-name">Germany</span>
-            </div>
-            </div>
-        </dd>
-    </dl>
+    <section  id="newsletter">
+        <h3>Newsletter</h3>
+        <p>Wir informieren über unsere Veranstaltungen auf unserem Newsletter: <a href="//lists.fsfw-dresden.de/mailman/listinfo/news">abonnieren</a> (maximal ein bis zwei E-Mails pro Monat).</p>
+    </section>
+
+    <section id="plenum">
+        <h3>Plenum</h3>
+        <p>Zu unserem regelmäßigen Treffen, dem sog. Plenum, sind Interessierte herzlich willkommen!</p>
+        <dl>
+            <dt>Datum &amp; Uhrzeit</dt>
+            <dd>
+                <span class="rrule" title="freq=weekly;interval=2;byday=th;byhour=18;byminute=30;">Jeden <b>Donnerstag</b> in ungeraden Wochen ab 18:30 Uhr</span>
+                <span class="hidden dtstart" title="2015-01-14"> seit dem 14.01.2015</span>
+            </dd>
+            <dt>Ort</dt>
+            <dd>
+                <div id="contact" class="vcard">
+                <div id="postal-address" class="adr">
+                    <span class="extended-address"><strong>SLUB Dresden, Hauptgebäude</strong> <a href="http://3d.slub-dresden.de/viewer?project_id=3&amp;language=de&amp;activate_location=3022" target="_blank">Raum -2.115</a></span><br>
+                    <span class="street-address">Zellescher Weg 18</span><br>
+                    <span class="postal-code">01069</span>
+                    <span class="locality">Dresden</span><br>
+                    <span class="region">SN</span>
+                    <span class="country-name">Germany</span>
+                </div>
+                </div>
+            </dd>
+        </dl>
+    </section>
 </section>
 <hr>
 <section id="news">

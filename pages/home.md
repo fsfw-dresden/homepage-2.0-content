@@ -54,26 +54,6 @@ Template: page_raw
         <h3>Interview zum Thema „Finanzierung von freier Software“ mit Prof. Sander</h3>
         <p>Wir sprachen mit Prof. Oliver Sander aus der Fakultät Mathematik über Möglichkeiten der Finanzierung von Entwicklung freier Software. Das Interview ist nun <a href="/2018/06/interview-sander-finanzierung-freie-software.html">in unserem Blog online</a>!</p>
     </section>
-    <section id="10may-sprechstunde" class="news">
-        <span datetime="2018-05-09">09.05.2018</span>
-        <h3>Verlegung Plenum Himmelfahrt</h3>
-        <p>Am Donnerstag, 10. Mai 2018, ist Feiertag und die SLUB bleibt geschlossen. Wir haben daher unser Plenum in das <a href="http://cafe-muellers.de">Cafe Müller's</a> verlegt, wo wir uns um 18 Uhr treffen werden. Ihr seid alle eingeladen zum Austausch in gemütlicher Runde - bringt gerne eigene Themen und Fragen mit!</p>
-    </section>
-    <section id="Verlegung Sprechstunde" class="news">
-        <span datetime="2018-02-27">27.02.2018</span>
-        <h3>Terminänderung LaTeX Sprechstunde</h3>
-        <p>Die LaTeX Sprechstunde wird auf die <a href="https://tu-dresden.de/studium/im-studium/termine/lange-nacht-des-schreibens-1">Lange Nacht des Schreibens</a> am <span datetime="2018-03-01">01.03.2018</span> ins Foyer der SLUB verlegt.</p>
-    </section>
-     <section id="pecha-kucha" class="news">
-        <span datetime="2018-01-25">25.01.2018</span>
-        <h3>Pecha Kucha Vortrag</h3>
-        <p>FSFW-Vortrag im Rahmen der Pecha Kucha Night. Links und Hintergrundinformationen im <a href="https://wiki.fsfw-dresden.de/doku.php/events/pecha-kucha-2018-01-25">Wiki</a>.</p>
-    </section>
-     <section id="geplante-workshops" class="news">
-        <span datetime="2018-01-15">15.01.2018</span>
-        <h3>Geplante Workshops</h3>
-        <p>Für Anfang des Jahres 2018 planen wir je einen Einführungsworkshop zur Verschlüsselung von E-Mails und dem Betrieb von Betrieb von freier IT-Infrastruktur. Weitere Infos gibt es im <a href="https://wiki.fsfw-dresden.de/doku.php/doku/mitmachen">Wiki</a>.</p>
-    </section>
     <section id="latex-sprechstunde" class="news">
         <span datetime="2017-10-09">09.10.2017</span>
         <h3>FSFW Sprechstunde</h3>
@@ -81,14 +61,6 @@ Template: page_raw
            Fragen zum freien Text-Satzsystem LaTeX, zu Libre- bzw. OpenOffice, zu <a href="//fsfw-dresden.de/gpg">Mailverschlüsselung</a>
            und allgemein zu Fragen rund um freie Software im Studium.</p>
         <p>Einfach mal vorbeikommen… Nähere Infos, Termine, Ort unter <a href="//fsfw-dresden.de/sprechstunde">fsfw-dresden.de/sprechstunde</a>.
-    </section>
-    <section id="git-ws" class="news">
-        <span datetime="2017-10-03">03.10.2017</span>
-        <h3>Git-Workshop</h3>
-        <p>Am 02.10. fand im Rahmen des bunten Nachmittags des iFSR ein Einführungsworkshop <b>Versionskontrolle mit Git</b>
-        statt. Das Material (Folien und Befehlsübersicht) gibt es unter <a href="//fsfw-dresden.de/git-ws">fsfw-dresden.de/git-ws</a>.
-        Bei Bedarf führen wir den Workshop auch gerne wieder durch bzw. könnten wir uns auch einen Fortgeschrittenen-WS vorstellen.
-        Wer daran Interesse hat, schreibt am besten eine Mail: <a href="mailto:kontakt@fsfw-dresden.de">kontakt@fsfw-dresden.de</a>.
     </section>
 </section>
 <hr>

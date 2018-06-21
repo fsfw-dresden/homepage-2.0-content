@@ -13,6 +13,17 @@ Template: page_raw
         <li>Steigerung der Zugänglichkeit von Wissen</li>
     </ul>
 
+    <p>Wir informieren über unsere Veranstaltungen auf unserem Newsletter:</p>
+    <ul>
+        <li>
+            <p><a href="//lists.fsfw-dresden.de/mailman/listinfo/news">news@lists.fsfw-dresden.de</a></p>
+            <ul>
+                <li>Nur ein bis zwei E-Mails pro Monat</li>
+                <li><a href="//lists.fsfw-dresden.de/mailman/listinfo/news">abonnieren</a></li>
+            </ul>
+        </li>
+    </ul>
+
     <p>Zu unserem regelmäßigen Treffen, dem sog. Plenum, sind Interessierte herzlich willkommen!</p>
     <dl>
         <dt>Datum &amp; Uhrzeit</dt>

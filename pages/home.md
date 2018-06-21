@@ -48,9 +48,9 @@ Template: page_raw
         <p>Wir sprachen mit Prof. Oliver Sander aus der Fakultät Mathematik über Möglichkeiten der Finanzierung von Entwicklung freier Software. Das Interview ist nun <a href="/2018/06/interview-sander-finanzierung-freie-software.html">in unserem Blog online</a>!</p>
     </section>
     <section id="latex-sprechstunde" class="news">
-        <span datetime="2017-10-09">09.10.2017</span>
+        <span datetime="2018-05-23">23.05.2018</span>
         <h3>FSFW Sprechstunde</h3>
-        <p>Wir bieten seit zwei Jahren regelmäßig eine öffentliche “Sprechstunde” an zur Unterstützung bei
+        <p>Wir bieten seit weit über zwei Jahren regelmäßig eine öffentliche “Sprechstunde” an zur Unterstützung bei
            Fragen zum freien Text-Satzsystem LaTeX, zu Libre- bzw. OpenOffice, zu <a href="//fsfw-dresden.de/gpg">Mailverschlüsselung</a>
            und allgemein zu Fragen rund um freie Software im Studium.</p>
         <p>Einfach mal vorbeikommen… Nähere Infos, Termine, Ort unter <a href="//fsfw-dresden.de/sprechstunde">fsfw-dresden.de/sprechstunde</a>.

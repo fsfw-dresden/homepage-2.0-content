@@ -120,40 +120,37 @@ Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Be
 Für einzelne Projekte ist der Fundraising Aufwand meist zu groß.
 Das spricht für eine separate Organisation. Eine solche muss aber nicht notwendigerweise neu gegründet werden. Ggf. könnte eine bestehende Organisation (naheliegend: Free Software Foundation oder FSFE) die Idee umsetzen. Durch den einkalkulierten Betriebskosten-Anteil könnte sich das Projekt selbst tragen, ggf. sogar als klassisches StartUp mit Risiko-Kapital. Eine eigenen neue Organisation wäre vermutlich *agiler* als eine etablierte mit gewachsenen Strukturen und interner Meinungspluralität. Dem steht der Nachteil gegenüber, dass sie unbekannt wäre und eventuell nicht genügend Vertrauen hätte.
 
-#### Potentielle Probleme des Konzeptes (und Gegenstrategien)
+#### Potentielle Kritikpunkte und mögliche Gegenargumente
 
-- Es gibt schon ähnliche Versuche (siehe Links unten) ohne durchschlagenden Erfolg
-    - Die zweite Maus bekommt den Käse ...
-- Kritische Masse wird benötigt (=Anschubfinanzierung für Marketing)
+- *Es gibt schon ähnliche Versuche (siehe Links unten) ohne durchschlagenden Erfolg.*
+    - -> Die zweite Maus bekommt den Käse ...
+- *Kritische Masse wird benötigt (= Anschubfinanzierung für Marketing)*
     - Ggf. durch Crowdfunding oder öffentliche Förderung
-- Gefahren durch Kommerzialisierung von FLOSS-Entwicklung
+- *Kommerzialisierung schadet der FLOSS-Entwicklung.*
     - Auch jetzt gibt es schon Geld-Ströme (z.B. Google-Summer-of-Code, Bounties, ...)
-- Registrierung und Bezahlprozess zu aufwendig?
+- *Registrierung und Bezahlprozess zu aufwendig.*
     - FLOSS-Nutzer\*innen nehmen ggf. auch etwas Unbequemlichkeit in Kauf
-- Baut zu sehr auf Vertrauen und Freiwilligkeit -> geringe Akzeptanz
+- *Baut zu sehr auf Vertrauen und Freiwilligkeit -> geringe Akzeptanz.*
     - Vertrauen und Freiwilligkeit funktioniert in anderen Bereichen auch (z.B. [Atmosfair](https://www.atmosfair.de/de/))
     - FLOSS lebt schon jetzt zum großen Teil von Freiwilligkeit
-    - Jedem Projekt steht es frei, dezente Erinnerungsmechanismen an Spendenmöglichkeit einzubauen, die still sind, wenn ein aktuelles Zertifikat gefunden wird
-        - Jedem Nutzer steht es frei diese aus dem Code rauszupatchen (vgl. Mining-Software)
-- Einschränkung der Vielfalt auf Grund der positiven Rückkopplung (siehe unten); Verdrängungswettbewerb.
-    - Andererseits könnte wirtschaftlicher Erfolg einzelner Projekte die Wettbewerber auch um so mehr motivieren
-- Unklarheit, wie man mit Projekten umgeht, die andere Ressourcen-Quellen haben (Mozilla, Linux-Kernel, )
-    - Nutzer\*innen Anhand der Berichte selbst entscheiden lassen.
-- Risiko von Geldwäsche mit Pseudo-Projekten. Oder Projekt-Ende zwischen Geld-Eingang und Auszahlung
-    - Möglichkeit der Rücküberweisung bzw. Verrechnung
-- Zentralisierung und Abhängigkeit der Projekte von der FFI
-    - Transparenz und Datensparsamkeit im Kern des Konzeptes implementieren
-    - Menschen, die der Meinung sind, das Projekt sei zu groß (Machtkonzentration) können es forken (Dank [AGPL](https://en.wikipedia.org/wiki/Affero_General_Public_License) etc.)
+    - Jedem Projekt steht es frei, "dezente Erinnerungsmechanismen" an Spendenmöglichkeit einzubauen, die still sind, wenn ein aktuelles Zertifikat gefunden wird
+        - Nutzer\*innen steht es frei diese aus dem Code rauszupatchen.
+- *Einschränkung der Vielfalt auf Grund der positiven Rückkopplung (siehe unten); Verdrängungswettbewerb.*
+    - Gegenthese: Wirtschaftlicher Erfolg einzelner Projekte könnte potentielle Wettbewerber auch um so mehr motivieren.
+- *Unklarheit, wie man mit Projekten umgeht, die andere Ressourcen-Quellen haben (Mozilla, Linux-Kernel, ...)*
+    - Nutzer\*innen können an Hand der Berichte selbst entscheiden.
+- *Zentralisierung und Abhängigkeit der Projekte von der FFI.*
+    - -> Transparenz und Datensparsamkeit im Kern des Konzeptes implementieren
+    - -> Menschen, die der Meinung sind, das Projekt sei zu groß (Machtkonzentration) können es forken (Dank [AGPL](https://en.wikipedia.org/wiki/Affero_General_Public_License) etc.)
     - Registrierte Projekte können optional eine Möglichkeit zum Direkt-Spenden angeben
 
 #### Potentielle positive Effekte
 
-- Mit guter freier Software könnte man tatsächlich ordentlich Geld verdienen -> Berufliche Perspektive für Fans freier Software
-- Qualität steigt -> Anzahl der Nutzer*innen steigt -> Anzahl der verkauften Zertifikate steigt ...
-- ... -> selbst verstärkende Dynamik
+- Mit guter freier Software könnte man tatsächlich ordentlich Geld verdienen. Es ergeben sich bessere berufliche Perspektiven für Fans freier Software.
+- Qualität steigt -> Anzahl der Nutzer*innen steigt -> Anzahl der verkauften Zertifikate steigt -> Verfügbare Ressourcen steigen ->  ... (positive Rückkopplung)
 - Möglichkeit eines opt-in-Kommunikationskanals von Entwickler\*innen zu Anwender\*innen.
     - Wenn man für ein Projekt Geld gespendet hat, ist man bestimmt auch bereit an einer Umfrage teilzunehmen.
-    -> Mehr Identifikation zum Projekt
+    -> Mehr Identifikation zwischen Nutzer*innen und Projekt.
 - Man kann Freie Software verschenken (z.B. Zertifikats-Abbo. + T-Shirt)
 
 ### Wirtschaftlichkeit: Kurze Überschlagsrechnungen

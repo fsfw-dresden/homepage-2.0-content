@@ -11,10 +11,10 @@ Kombination existierender Geschäftsmodellle (Spenden, Merchandise, Bounties, Fu
 
 # "Funding Freedom Initiative"
 
-Dieser Text beschreibt eine Idee (Arbeitstitel: "Funding Freedom Initiative") zur Steigerung von Qualität und Verbreitung von freier quelloffener Software (kurz: [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) (und sekundär von freien dezentralen Web-Diensten).
+Dieser Text beschreibt eine Idee (Arbeitstitel: "Funding Freedom Initiative") zur Steigerung von Qualität und Verbreitung von freier quelloffener Software (kurz: [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)).
 Der Autor ist ein starker Befürworter freier Software und richtet sich an ein gleichgesinntes Publikum. Vor diesem Hintergrund ist auch die im folgenden deutlich formulierte Kritik einzuordnen.
 Der Text geht nicht darauf ein, *warum* diese Ziele erstrebenswert sind, siehe dazu (bezogen auf den Hochschul-Kontext) <https://fsfw-dresden.de/programm>.
-Er ist eine stark inspiriert durch [Colin Percivals Plan für Open Source Software Maintainer](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) und durch Diskussionen im [FSFW-Plenum](https://fsfw-dresden.de#plenum).
+Er ist stark inspiriert durch [Colin Percivals Plan für Open Source Software Maintainer](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) und Diskussionen im [FSFW-Plenum](https://fsfw-dresden.de#plenum).
 
 
 ## Bestandsaufnahme
@@ -37,7 +37,7 @@ dass Kunden bis zur Bezahlung an der Nutzung gehindert werden.
 
 ### Warum funktioniert freie Software dann überhaupt?
 Weil für manche Menschen/Organisationen nicht nur kurzfristige Nutzenmaximierung handlungsleitend ist.
-Konkrete Quellen von Ressourcen sind 1. Arbeit an Freier Software als Hobby (Sinnstiftung durch Problemlösen, Zusammenarbeit mit anderen, Anerkennung durch positives Feedback), 2. Demonstration eigener Fähigkeiten (z.B. für Bewerbungsverfahren)) 3. Lerneffekt, 4. auf Grund von Eigeninteresse und Verständnis der Vorteile freies Software durch Unternehmen oder Behörden bezahlte Entwicklung, 5. Spenden (Altruismus oder aufgeklärtes Eigeninteresse) und 6. tragfähige kommerzielle [Geschäftsmodelle](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) (z.B. Verkauf von Support und Anpassungen).
+Konkrete Quellen von Ressourcen sind 1. Arbeit an Freier Software als Hobby (Sinnstiftung durch Problemlösen, Zusammenarbeit mit anderen, Anerkennung durch positives Feedback), 2. Demonstration eigener Fähigkeiten (z.B. für Bewerbungsverfahren)) 3. Lerneffekt, 4. auf Grund von konkretem Eigeninteresse durch Unternehmen oder öffentliche Einrichtungen bezahlte Entwicklung ([z.B. im Hochschulkontext](https://fsfw-dresden.de/2018/06/interview-sander-finanzierung-freie-software.html)), 5. Spenden (Altruismus oder zukunftsorientiertes Eigeninteresse) und 6. tragfähige kommerzielle [Geschäftsmodelle](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) (z.B. Verkauf von Support und Anpassungen).
 
 Fakt ist aber: In den allermeisten Projekten fehlt es an Ressourcen für eine wünschenswerte Weiterentwicklung.
 Mit anderen Worten, obige Quellen von Ressourcen sind nicht ausreichend.
@@ -149,7 +149,7 @@ Das spricht für eine separate Organisation. Eine solche muss aber nicht notwend
 #### Potentielle positive Effekte
 
 1. Mit guter freier Software könnte man tatsächlich ordentlich Geld verdienen. Es ergäben sich bessere berufliche Perspektiven für Fans freier Software.
-2. Es gäbe eine positive Rückkopplung: Qualität steigt -> Anzahl der Nutzer*innen steigt -> Anzahl der verkauften Zertifikate steigt -> Verfügbare Ressourcen steigen ->  Qualität steigt.
+2. Es gäbe eine positive Rückkopplung: Qualität steigt -> Anzahl der Nutzer*innen steigt -> Anzahl der verkauften Zertifikate steigt -> Verfügbare Ressourcen steigen ->  Qualität steigt -> usw.
 3. Es gäbe die Möglichkeit eines opt-in-Kommunikationskanals von Entwickler\*innen zu Anwender\*innen: Wenn man für ein Projekt Geld gespendet hat, ist man bestimmt auch bereit, an einer Umfrage teilzunehmen.
     -> Mehr Identifikation zwischen Nutzer*innen und Projekt.
 4. Man könnte Freie Software verschenken (z.B. Zertifikats-Abbo. + T-Shirt). Das wäre auch aus Nachhaltigkeitssicht ein sinnvolles Geschenk (hoher immaterieller Anteil).

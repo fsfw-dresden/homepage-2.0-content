@@ -8,10 +8,16 @@ Summary: Finanzierungsmodell zur Steigerung von Qualität und Verbreitung von FL
 Kombination existierender Geschäftsmodellle (Spenden, Merchandise, Bounties, Funding-Organisationen.)
 
 ---
+## tl;dr
 
-# "Funding Freedom Initiative"
+Dieser Text beschreibt eine Idee zur Steigerung von Qualität und Verbreitung von freier quelloffener Software (kurz: [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)).
+Durch die Kombination existierender Geschäftsmodelle (Spenden, Merchandise, Bounties, Funding-organizations) sollen
+Finanzmittel akquiriert werden, die FLOSS-Projekten für Entwicklung, Design, Marketing etc. nutzen können.
+Kernidee ist der "Verkauf" von (freiwilligen) FLOSS-Support-Zertifikaten.
 
-Dieser Text beschreibt eine Idee (Arbeitstitel: "Funding Freedom Initiative") zur Steigerung von Qualität und Verbreitung von freier quelloffener Software (kurz: [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)).
+
+## Vorbemerkung
+
 Der Autor ist ein starker Befürworter freier Software und richtet sich an ein gleichgesinntes Publikum. Vor diesem Hintergrund ist auch die im folgenden deutlich formulierte Kritik einzuordnen.
 Der Text geht nicht darauf ein, *warum* diese Ziele erstrebenswert sind, siehe dazu (bezogen auf den Hochschul-Kontext) <https://fsfw-dresden.de/programm>.
 Er ist stark inspiriert durch [Colin Percivals Plan für Open Source Software Maintainer](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) und Diskussionen im [FSFW-Plenum](https://fsfw-dresden.de#plenum).
@@ -29,7 +35,7 @@ Der Einfachheit halber geht der folgende Text aber hauptsächlich auf Desktop-Ap
 
 
 ### Warum ist proprietäre Software in den genannten Punkten oft qualitativ besser?
-Das Geschäftsmodell (Verkauf von Software uder Daten) generiert Einnahmen. Dafür kann Arbeitskraft und Aufmerksamkeit eingekauft werden.
+Das Geschäftsmodell (Verkauf von Software und/oder Daten) generiert Einnahmen. Dafür kann Arbeitskraft und Aufmerksamkeit eingekauft werden.
 
 ### Warum funktioniert das bei Freier Software so nicht?
 Diese kann auf Grund der wesensbestimmenden Freiheit nicht "verkauft" werden, im dem Sinne,
@@ -89,14 +95,14 @@ Mit dem so eingenommen Geld, werden Projekte unterstützt und (zu einem kleinen 
 Abgerechnet wird in bestimmten Intervallen (z.B. Quartale).
 Der Zertifikatspreis wird in vier Kategorien (K1-K4) aufgeteilt:
 
-**K1 (z.B. 60%)** wird nach Kundenwunsch auf die Projektkonten verteilt. Als Entscheidungshilfe wird eine Software angeboten (opt-in), die lokal das Nutzungsverhalten analysiert und Vorschläge macht (Prämisse: Häufig laufende Programme sind subjektiv wichtiger). Vorbild: [Debian Popularity Contest](https://popcon.debian.org/).
+**K1 (z.B. 60%)** wird nach individuellen Käufer-Wünschen auf die Projektkonten verteilt. Als Entscheidungshilfe wird eine Software angeboten (opt-in), die lokal das Nutzungsverhalten analysiert und Vorschläge für die Verteilung macht (Prämisse: Häufig laufende Programme sind subjektiv wichtiger). Vorbild: [Debian Popularity Contest](https://popcon.debian.org/). Man kann aber beliebige Projekte unterstützen.
 
 **K2 (z.B. 30%)** werden nach Einschätzung der Organisation auf die Projektkonten verteilt. Die Annahme dabei: FFI hat besseren Überblick über die Projekte und kann ggf. auch strategisch Projekte mit Potential fördern, die noch nicht hinreichend bekannt sind.
 
 **K3 (z.B. 10%)** sind Betriebskosten (Personal und Infrastruktur der FFI)
 
 
-**K4** sind Materialkosten (für T-Shirts, etc) und werden zusätzlich berechnet.
+**K4** sind Materialkosten (für T-Shirts etc.) und werden zusätzlich berechnet. Einen Aufkleber gibt es gratis. ;)
 
 #### Wie wird Veruntreuung verhindert?
 
@@ -120,31 +126,28 @@ Die Projekte verpflichten sich bei der Registrierung in jedem Intervall einen Be
 #### Wird dafür eine eigene (neue) Organisation gebraucht?
 
 Für einzelne Projekte ist der Fundraising Aufwand meist zu groß.
-Das spricht für eine separate Organisation. Eine solche muss aber nicht notwendigerweise neu gegründet werden. Ggf. könnte eine bestehende Organisation (naheliegend: Free Software Foundation oder FSFE) die Idee umsetzen. Durch den einkalkulierten Betriebskosten-Anteil könnte sich das Projekt selbst tragen, ggf. sogar als klassisches StartUp mit Risiko-Kapital. Eine eigene neue Organisation wäre vermutlich *agiler* als eine etablierte mit gewachsenen Strukturen und interner Meinungspluralität. Dem steht der Nachteil gegenüber, dass sie unbekannt wäre und eventuell nicht genügend Vertrauen hätte.
+Das spricht für eine *separate* Organisation. Eine solche muss aber nicht notwendigerweise neu gegründet werden. Ggf. könnte eine bestehende Organisation (naheliegend: Free Software Foundation, FSFE, GNU) die Idee umsetzen. Durch den einkalkulierten Betriebskosten-Anteil könnte sich das Projekt selbst tragen, ggf. sogar als klassisches StartUp mit Risiko-Kapital. Eine eigene neue Organisation wäre vermutlich *agiler* als eine etablierte mit gewachsenen Strukturen und interner Meinungspluralität. Dem steht der Nachteil gegenüber, dass sie unbekannt wäre und sich Vertrauen erst mühsam erarbeiten müsste.
 
 #### Potentielle Kritikpunkte und mögliche Gegenargumente
 
 - *Es gibt schon ähnliche Versuche (siehe Links unten) ohne durchschlagenden Erfolg.*
-    - -> Die zweite Maus bekommt den Käse ...
-- *Kritische Masse wird benötigt (= Anschubfinanzierung für Marketing)*
-    - Ggf. durch Crowdfunding oder öffentliche Förderung
+    - Diese Versuche sind ähnlich, aber nach aktueller Kenntnislage doch hinreichend anders.
+    Außerdembraucht es für manche gesellschaftliche Innovationen auch mehrere Anläufe.
+- *Eine Kritische Masse wird benötigt.*
+    - Die ließe sich durch ausreichend Marketing herstellen. Das Budget dafür könnte aus Crowdfunding oder öffentlicher Förderung stammen.
 - *Kommerzialisierung schadet der FLOSS-Entwicklung.*
-    - Auch jetzt gibt es schon Geld-Ströme (z.B. Google-Summer-of-Code, Bounties, ...)
-- *Registrierung und Bezahlprozess zu aufwendig.*
-    - FLOSS-Nutzer\*innen nehmen ggf. auch etwas Unbequemlichkeit in Kauf
-- *Baut zu sehr auf Vertrauen und Freiwilligkeit -> geringe Akzeptanz.*
-    - Vertrauen und Freiwilligkeit funktioniert in anderen Bereichen auch (z.B. [Atmosfair](https://www.atmosfair.de/de/))
-    - FLOSS lebt schon jetzt zum großen Teil von Freiwilligkeit
-    - Jedem Projekt steht es frei, "dezente Erinnerungsmechanismen" an Spendenmöglichkeit einzubauen, die still sind, wenn ein aktuelles Zertifikat gefunden wird
-        - Nutzer\*innen steht es frei diese aus dem Code rauszupatchen.
-- *Einschränkung der Vielfalt auf Grund der positiven Rückkopplung (siehe unten); Verdrängungswettbewerb.*
-    - Gegenthese: Wirtschaftlicher Erfolg einzelner Projekte könnte potentielle Wettbewerber auch um so mehr motivieren.
-- *Unklarheit, wie man mit Projekten umgeht, die andere Ressourcen-Quellen haben (Mozilla, Linux-Kernel, ...)*
-    - Nutzer\*innen können an Hand der Berichte selbst entscheiden.
-- *Zentralisierung und Abhängigkeit der Projekte von der FFI.*
-    - -> Transparenz und Datensparsamkeit im Kern des Konzeptes implementieren
-    - -> Menschen, die der Meinung sind, das Projekt sei zu groß (Machtkonzentration) können es forken (Dank [AGPL](https://en.wikipedia.org/wiki/Affero_General_Public_License) etc.)
-    - Registrierte Projekte können optional eine Möglichkeit zum Direkt-Spenden angeben
+    - Auch jetzt gibt es schon Geld-Ströme (z.B. Google-Summer-of-Code, Bounties, ...).
+    Es geht darum, berufliche Perspektiven im FLOSS-Bereich zu schaffen.
+- *Registrierung und Bezahlprozess sind zu aufwendig.*
+    - Das kommt auf die Umsetzung an und außerdem nehmen FLOSS-Nutzer\*innen ggf. auch etwas Unbequemlichkeit in Kauf
+- *Das Konzept baut zu sehr auf Vertrauen und Freiwilligkeit -> Gefahr geringer Akzeptanz.*
+    - FLOSS lebt schon jetzt zum großen Teil von Freiwilligkeit. Viele Nutzer*innen würden gerne etwas zurückgeben, wissen aber nicht wo und wie. Zudem funktioniert Freiwilligkeit funktioniert in anderen Bereichen auch (z.B. [Atmosfair](https://www.atmosfair.de/de/)). Weiterhin steht es jedem Projekt frei, "dezente Erinnerungsmechanismen" an Spendenmöglichkeit einzubauen, die still sind, wenn ein aktuelles Zertifikat gefunden wird. Wen das stört, kann den Mechanismus rauspatchen oder das Projekt forken. Beides etablierte FLOSS-Abläufe.
+- *Es könnte auf Grund der positiven Rückkopplung (siehe unten) zu einem Verdrängungswettbewerb und zu einer Einschränkung der Angebots-Vielfalt kommen.*
+    - Gegenthese: Da "Feindliche Projektübernahmen" anders als bei Unternehmen bei FLOSS-Projekten nicht möglich sind, ist eher von einer Ausweitung des Angebots auszugehen: Wirtschaftlicher Erfolg einzelner Projekte könnte potentielle Wettbewerber um so mehr motivieren.
+- *Es ist unklar, wie man mit Projekten umgeht, die andere Ressourcen-Quellen haben (Mozilla, Linux-Kernel, ...)*
+    - Das können die Nutzer\*innen z.B. auf Basis der oben erwähnten Berichte Berichte selbst entscheiden.
+- *Durch die Zentrale Rolle der FFI könnte es langfristig eine unerwünschte Abhängigkeit bestimmter Projekte von der FFI geben.*
+    - Registrierte Projekte können natürlich eine Möglichkeit zum Direkt-Spenden vorsehen, oder anderweitig Geld einwerben. Darüber hinaus können Menschen, die der Meinung sind, das Projekt sei zu groß (Machtkonzentration), es forken (Dank [AGPL](https://en.wikipedia.org/wiki/Affero_General_Public_License) etc.). Zu guter Letzt sollte klar sein, dass Datensparsamkeit und Transparenz zentral in der Umsetzung beachtet werden müssen. Es geht nicht darum Daten zu erheben und zum eigenen Vorteil zu nutzen, sondern eine Möglichkeit zu bieten freie Projekte zu fördern.
 
 #### Potentielle positive Effekte
 
@@ -218,6 +221,6 @@ Feedback an [kontakt@fsfw-dresden.de](mailto:kontakt@fsfw-dresden.de)
 - <https://www.unixstickers.com/>
 - <https://creativecommons.org/use-remix/made-with-cc/>
 - <https://sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting>
-- <http://www.fossfactory.org/>
+- <http://www.fossfactory.org/> ("Funding Open colaboration", scheint inaktiv)
 - <https://store.kde.org/browse/ord/top/#plings> Monetarisierung für Icons, Themes etc.
-- Synergie zu [GNU Taler](https://taler.net/en/) ausloten.
+- [GNU Taler](https://taler.net/en/) (Elektronisches Bezahlsystem, ggf für Umsetzung geeignet.)

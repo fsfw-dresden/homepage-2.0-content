@@ -1,5 +1,5 @@
 Title: Funding Freedom Initiative - Idee zur Finanzierung freier Softwareprojekte
-Date: 2018-06-03 18:00
+Date: 2018-08-03 20:00
 Category: Artikel
 Tags: Freie Software, Gesellschaft
 Slug: FFI-wp

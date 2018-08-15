@@ -86,7 +86,7 @@ Mit dem so eingenommen Geld, werden Projekte unterstützt und (zu einem kleinen 
 #### Warum sollten Menschen für sowas Geld ausgeben?
 
 1\. Man unterstützt Freie Software („Voluntary Donation“).
-2\. Man bekommt (optional) Merchandise-Material („Selling of branded merchandise“), z.&#x202F;B. Aufkleber oder ein *schickes* T-Shirt. Zusätzlich sind „virtuelle Accessoires“ denkbar, also z.&#x202F;B. Badges für github oder andere soziale Netzwerke. Das geht in Richtung Statuskonsum bzw. [Distinktionsbedürfnis](https://de.wikipedia.org/wiki/Distinktion_(Soziologie)).
+2\. Man bekommt (optional) Merchandise-Material („Selling of branded merchandise“), z.&#x202F;B. Aufkleber oder ein *schickes* T-Shirt. Zusätzlich sind „virtuelle Accessoires“ denkbar, also z.&#x202F;B. Badges für GitHub oder andere soziale Netzwerke. Das geht in Richtung Statuskonsum bzw. [Distinktionsbedürfnis](https://de.wikipedia.org/wiki/Distinktion_(Soziologie)).
 3\. Man bekommt privilegierten Kommunikationskanal ins Projektteam (z.&#x202F;B. höhere Priorität bei Feature-Wunsch-Abstimmungen (Bounty driven development) oder Support-Anfragen)
 4\. Man bekommt ggf. kleine extra-Features (Für Projekte, die das wollen).
 
@@ -112,12 +112,12 @@ Beim Bezahlen bekommt man einen Token mitgeteilt. Alle verkauften Support-Zertif
 
 #### Was passiert mit dem Geld bzw. durch das Geld?
 
-Die registrierten Projekte können sich das Geld a) auszahlen lassen oder b) transparent an andere Projekte weiterleiten (z.&#x202F;B. zu libs von denen sie abhängen). Formal gesehen sind es Spendengelder. Die Verwendung (und Versteuerung) liegt in der Verantwortung der Empfänger\*innen.
+Die registrierten Projekte können sich das Geld a) auszahlen lassen oder b) transparent an andere Projekte weiterleiten (z.&#x202F;B. zu Libs von denen sie abhängen). Formal gesehen sind es Spendengelder. Die Verwendung (und Versteuerung) liegt in der Verantwortung der Empfänger\*innen.
 
 Die Projekte verpflichten sich bei der Registrierung regelmäßig einen Bericht zur Verwendung der Gelder zu veröffentlichen. Mögliche Beispiele könnten folgendermaßen aussehen:
 
 - „Konnte es mir leisten, meine Wochenarbeitszeit zu reduzieren und mehr Zeit in Projekt XYZ zu investieren.“
-- „Von dem Geld wurden eine Anzeigenkampagne (Print- und Online) bezahlt. Die Downloadzahlen haben sich in dem Zeitraum verdreifracht. Wir wollen das wieder machen.“
+- „Von dem Geld wurden eine Anzeigenkampagne (Print- und Online) bezahlt. Die Downloadzahlen haben sich in dem Zeitraum verdreifacht. Wir wollen das wieder machen.“
 - „Durch das Geld konnten wir zwei Mitarbeiter\*innen aus unserem Usability Team zu je 20&#x202F;% Vollzeit auf das Projekt ansetzen. Und eine studentische Hilfskraft hat die Doku aktualisiert.“
 - „Wir haben Firma XYZ beauftragt, Issue 123 zu fixen. Für die Zukunft planen wir das gleiche mit Issue 456.“
 - „Ich sehe das Geld als Anerkennung für die im letzten Jahr geleistete Arbeit. Danke Leute!“ (Ähnelt dem Bounty-Modell, siehe oben.)
@@ -155,7 +155,7 @@ Das spricht für eine *separate* Organisation. Eine solche muss aber nicht notwe
 2. Mit guter Freier Software könnte man tatsächlich ordentlich Geld verdienen. Es ergäben sich bessere berufliche Perspektiven für Fans Freier Software.
 3. Es gäbe die Möglichkeit eines opt-in-Kommunikationskanals von Entwickler\*innen zu Anwender\*innen: Wenn man für ein Projekt Geld gespendet hat, ist man bestimmt auch bereit, an einer Umfrage teilzunehmen.
     -> Mehr Identifikation zwischen Nutzer*innen und Projekt.
-4. Man könnte Freie Software verschenken (z.&#x202F;B. Zertifikats-Abbo. + T-Shirt). Das wäre auch aus [Nachhaltigkeitssicht](https://bits-und-baeume.org/ziele/de) ein sinnvolles Geschenk (hoher immaterieller Anteil).
+4. Man könnte Freie Software verschenken (z.&#x202F;B. Zertifikats-Abo. + T-Shirt). Das wäre auch aus [Nachhaltigkeitssicht](https://bits-und-baeume.org/ziele/de) ein sinnvolles Geschenk (hoher immaterieller Anteil).
 
 ### Kurze Überschlagsrechnungen zur Wirtschaftlichkeit
 
@@ -221,7 +221,7 @@ Feedback an [kontakt@fsfw-dresden.de](mailto:kontakt@fsfw-dresden.de).
 - <https://www.unixstickers.com/>
 - <https://creativecommons.org/use-remix/made-with-cc/>
 - <https://sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting>
-- <http://www.fossfactory.org/> („Funding Open colaboration“, scheint inaktiv)
+- <http://www.fossfactory.org/> („Funding Open collaboration“, scheint inaktiv)
 - <https://store.kde.org/browse/ord/top/#plings> Monetarisierung für Icons, Themes etc.
 - [GNU Taler](https://taler.net/en/) (Elektronisches Bezahlsystem, evtl. für Umsetzung oder gemeinsame Kampagne im Auge behalten.)
 

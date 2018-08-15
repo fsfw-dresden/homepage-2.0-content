@@ -12,8 +12,7 @@ Kombination existierender Geschäftsmodellle (Spenden, Merchandise, Bounties, Fu
 
 Dieser Text beschreibt eine Idee zur Steigerung von Qualität und Verbreitung von freier quelloffener Software (kurz: [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)).
 Durch die Kombination existierender Geschäftsmodelle (Spenden, Merchandise, Bounties, Funding-Organisationen) sollen
-Finanzmittel akquiriert werden, die FLOSS-Projekten für Entwicklung, Design, Marketing etc. nutzen können.
-Kernidee ist der „Verkauf“ von (freiwilligen) FLOSS-Support-Zertifikaten.
+Finanzmittel akquiriert werden, die FLOSS-Projekten für Entwicklung, Design, Marketing, Dokumentation etc. nutzen können. Kernidee ist der „Verkauf“ von FLOSS-Support-Zertifikaten.
 
 
 ## Vorbemerkung
@@ -27,7 +26,7 @@ Der Beitrag ist stark inspiriert durch [Colin Percivals Plan für Open Source So
 
 Ausgangslage: Mit zunehmend fortschreitender Digitalisierung wird Software privat und beruflich immer wichtiger.
 Freie quelloffene Software ist über 30 Jahre nach Gründung der Free Software Foundation und 20 Jahre nach Etablierung des eher „business-orientierten“
-Konzeptes *Open-Source* für Endbenutzer*innen immer noch (oder mehr denn je) ein Nischenprodukt.
+Konzeptes *Open-Source* für Endbenutzer*innen dabei immer noch (oder mehr denn je) ein Nischenprodukt.
 Gründe sind einerseits mangelnde Bekanntheit der Produkte und ihrer Vorteile, andererseits aber auch Qualitätsfragen wie Usability-Schwächen, fehlende Features, Stabilitätsprobleme und fehlende bzw. veraltete Dokumentation.
 
 Mit freien dezentralen Diensten (z.&#x202F;B. [Jabber-Server](https://wiki.fsfw-dresden.de/doku.php/doku/software/jabber) als Ersatz für WhatsApp) verhält es sich ähnlich.
@@ -72,7 +71,7 @@ Der folgende Ansatz versucht diese Modelle zu kombinieren.
 ## Ideenskizze zur Kombination einiger dieser Methoden
 
 ### Vorbemerkung
-Die obige Formulierung „Voluntary donations“ legt nahe, Zahlungen zu leisten „entgegen der ökonomische Vernunft“ und allein aus irrationalem Altruismus.
+Die obige Formulierung „Voluntary donations“ legt nahe, Zahlungen zu leisten „entgegen der ökonomische Vernunft“ und allein aus „irrationalem Altruismus“.
 In vielen anderen Bereichen sind Menschen aber bereit, erhebliche Mittel „gegen die ökonomische Vernunft“ auszugeben, Stichworte: Markenbewusstsein und Statuskonsum.
 Zudem kann, wie oben schon erwähnt, die finanzielle Unterstützung eines Projektes von dem man individuell profitiert, auch mit zukunftsorientiertem Eigeninteresse begründet werden.
 
@@ -84,16 +83,16 @@ Bei dieser haben sich alle an Finanzierung interessierten FLOSS-Projekte registr
 Als Endbenutzer\*in *kauft* man ein Free-Software-Support-Zertifikat (Bronze, Silber, Gold, Platin (z.&#x202F;B. 10, 30, 100, 200 Cent pro Tag)).
 Mit dem so eingenommen Geld, werden Projekte unterstützt und (zu einem kleinen Teil) der Verwaltungsaufwand finanziert.
 
-#### Warum sollte man für sowas Geld ausgeben?
+#### Warum sollten Menschen für sowas Geld ausgeben?
 
 1\. Man unterstützt Freie Software („Voluntary Donation“).
-2\. Man bekommt (optional) Merchandise-Material („Selling of branded merchandise“), z.&#x202F;B. Aufkleber oder ein *schickes* T-Shirt. Zusätzlich sind „virtuelle Accessoires“ denkbar, also z.&#x202F;B. Badges für github oder andere soziale Netzwerke. Hintergrund: Das geht in Richtung Statuskonsum bzw. [Distinktionsbedürfnis](https://de.wikipedia.org/wiki/Distinktion_(Soziologie)).
-3\. Man bekommt privilegierten Kommunikationskanal ins Projektteam (z.&#x202F;B. höheres Gewicht bei Feature-Wunsch-Abstimmungen (Bounty driven development))
+2\. Man bekommt (optional) Merchandise-Material („Selling of branded merchandise“), z.&#x202F;B. Aufkleber oder ein *schickes* T-Shirt. Zusätzlich sind „virtuelle Accessoires“ denkbar, also z.&#x202F;B. Badges für github oder andere soziale Netzwerke. Das geht in Richtung Statuskonsum bzw. [Distinktionsbedürfnis](https://de.wikipedia.org/wiki/Distinktion_(Soziologie)).
+3\. Man bekommt privilegierten Kommunikationskanal ins Projektteam (z.&#x202F;B. höhere Priorität bei Feature-Wunsch-Abstimmungen (Bounty driven development) oder Support-Anfragen)
 4\. Man bekommt ggf. kleine extra-Features (Für Projekte, die das wollen).
 
 #### Wie erfolgt die Verteilung des Geldes?
 
-Abgerechnet wird in bestimmten Intervallen (z.&#x202F;B. Quartale).
+Abgerechnet wird in bestimmten Intervallen (z.&#x202F;B. pro Quartal).
 Der Zertifikatspreis wird in vier Kategorien (K1-K4) aufgeteilt:
 
 **K1 (z.&#x202F;B. 60&#x202F;%)** wird nach individuellen Käufer-Wünschen auf die Projektkonten verteilt. Als Entscheidungshilfe wird eine Software angeboten (opt-in), die lokal das Nutzungsverhalten analysiert und Vorschläge für die Verteilung macht. Die Prämisse dabei ist: Häufig laufende Programme sind subjektiv wichtiger. Vorbild: [Debian Popularity Contest](https://popcon.debian.org/). Man kann aber unabhängig von diesen Vorschlägen beliebige Projekte unterstützen.
@@ -103,7 +102,7 @@ Der Zertifikatspreis wird in vier Kategorien (K1-K4) aufgeteilt:
 **K3 (z.&#x202F;B. 10&#x202F;%)** sind Betriebskosten (Personal und Infrastruktur der FFI)
 
 
-**K4** sind Materialkosten (für T-Shirts etc.) und werden zusätzlich berechnet. Einen Aufkleber gibt auf Wunsch aber „gratis“. ;-)
+**K4** sind Materialkosten (für T-Shirts etc.) und werden zusätzlich berechnet. Einen Aufkleber gibt es auf Wunsch aber „gratis“. ;-)
 
 #### Wie wird Veruntreuung verhindert?
 
@@ -131,7 +130,7 @@ Das spricht für eine *separate* Organisation. Eine solche muss aber nicht notwe
 
 #### Potentielle Kritikpunkte und mögliche Gegenargumente
 
-- *Es gibt schon ähnliche Versuche (siehe Links unten) ohne durchschlagenden Erfolg.*
+- *Es gibt schon ähnliche Versuche (siehe untenstehende Links) ohne durchschlagenden Erfolg.*
     - Diese Versuche sind ähnlich, aber nach aktueller Kenntnislage doch hinreichend anders.
     Außerdem braucht es für manche gesellschaftliche Innovationen auch mehrere Anläufe.
 - *Eine Kritische Masse wird benötigt.*
@@ -152,8 +151,8 @@ Das spricht für eine *separate* Organisation. Eine solche muss aber nicht notwe
 
 #### Potentielle positive Effekte
 
-1. Mit guter Freier Software könnte man tatsächlich ordentlich Geld verdienen. Es ergäben sich bessere berufliche Perspektiven für Fans Freier Software.
-2. Es gäbe eine positive Rückkopplung: Qualität steigt -> Anzahl der Nutzer*innen steigt -> Anzahl der verkauften Zertifikate steigt -> Verfügbare Ressourcen steigen ->  Qualität steigt -> usw.
+1. Es gäbe eine positive Rückkopplung: Qualität steigt -> Anzahl der Nutzer*innen steigt -> Anzahl der verkauften Zertifikate steigt -> Verfügbare Ressourcen steigen ->  Qualität steigt -> usw.
+2. Mit guter Freier Software könnte man tatsächlich ordentlich Geld verdienen. Es ergäben sich bessere berufliche Perspektiven für Fans Freier Software.
 3. Es gäbe die Möglichkeit eines opt-in-Kommunikationskanals von Entwickler\*innen zu Anwender\*innen: Wenn man für ein Projekt Geld gespendet hat, ist man bestimmt auch bereit, an einer Umfrage teilzunehmen.
     -> Mehr Identifikation zwischen Nutzer*innen und Projekt.
 4. Man könnte Freie Software verschenken (z.&#x202F;B. Zertifikats-Abbo. + T-Shirt). Das wäre auch aus [Nachhaltigkeitssicht](https://bits-und-baeume.org/ziele/de) ein sinnvolles Geschenk (hoher immaterieller Anteil).
@@ -161,7 +160,7 @@ Das spricht für eine *separate* Organisation. Eine solche muss aber nicht notwe
 ### Kurze Überschlagsrechnungen zur Wirtschaftlichkeit
 
 
-**Bottom-Up**: Ab 1000 Leuten (100 Euro täglich), die mitmachen, könnte man jeden Tag einen Bug fixen lassen. Ab da wäre es sinnvoll (ehrenamtlich). Ab 10K Leuten (100 Euro Betriebskosten täglich) könnte Konzept als StartUp überleben.
+**Bottom-Up**: Ab 1000 Leuten (100 Euro täglich), die mitmachen, könnte man jeden Tag einen (kleinen) Bug fixen lassen. Ab da wäre es sinnvoll (ehrenamtlich). Ab 10K Leuten (100 Euro Betriebskosten täglich) könnte Konzept als StartUp überleben.
 
 **Top-Down**: Es gibt geschätzt weltweit 1 Mrd. PCs in Betrieb. Als Proxy-Schätzwert für überzeugte FLOSS-Nutzer\*innen dient der Marktanteil von Linux als Desktop-Betriebssystem. Er beträgt 1.3&#x202F;% (Quelle: [statista.com](https://de.statista.com/statistik/daten/studie/157902/umfrage/marktanteil-der-genutzten-betriebssysteme-weltweit-seit-2009/)).
 Von diesen würden geschätzt 10&#x202F;% ein Zertifikat für Durchschnittspreis von 10 Cent pro Tag kaufen.
@@ -178,9 +177,9 @@ Die Situation ist strukturell ähnlich zu FLOSS-Software und die gesellschaftlic
 Bisherige Geschäftsmodelle basieren oft auf dem Verkauf von Daten. Das ist aus vielen Gründen nicht erstrebenswert.
 Beispiele für Bedarf an Finanzierung (digitale Infrastruktur für eine lebendige Zivilgesellschaft):
 
-    - Betrieb und Wartung freier dezentraler Alternativen zu Dropbox, Trello, Google docs, Skype, WhatsApp, Doodle, Polldaddy etc.
-    - Server für Wikis, Etherpad, Mailinglisten, Jabber
-    - Soziale Netze (Diaspora, Mastodon)
+- Betrieb und Wartung freier dezentraler Alternativen zu Dropbox, Trello, Google docs, Skype, WhatsApp, Doodle, Polldaddy etc.
+- Server für Wikis, Etherpad, Mailinglisten, Jabber
+- Soziale Netze (Diaspora, Mastodon)
 
 Natürlich besteht auch bei der Infrastruktur-Software teils erheblicher Entwicklungsbedarf (laut FSFW-Infrastruktur-Haufen z.&#x202F;B. bei Etherpad). Auch dieser ließe sich ggf. durch die FFI finanzieren.
 
@@ -189,10 +188,10 @@ Natürlich besteht auch bei der Infrastruktur-Software teils erheblicher Entwick
 Text ist geduldig. Damit etwas passiert, braucht es meist menschliche Aktivität.
 Klar ist: So ein Projekt sollte man nur in Abstimmung mit der FLOSS-Community anfangen und deswegen ist der erste Schritt: [Feedback](mailto:kontakt@fsfw-dresden.de) einholen.
 Kritik (Prinzipielle Denkfehler?, Unrealistische Annahmen?, „Konkurrenzprodukt“?) und Zuspruch sind beide gleich wichtig.
-Die Erfahrung zeigt: Kritik kommt meist von alleine :-).
+Die Erfahrung zeigt dabei: Kritik kommt meist von alleine :-).
 
 Sollte es hinreichend viel positives Feedback geben, eventuell sogar Unterstützungszusagen, könnten die nächsten Schritte angegangen werden:
-Namen überlegen und Domains sichern, Konzept präzisieren und ins Englische übersetzen, Feedback im größeren Rahmen einholen (Distributoren, Reddit, Mailinglisten, Jurist\*innen), Infrastruktur aufsetzen, Crowdfunding-Kampagne starten, ...
+Namen überlegen und Domains sichern, Konzept präzisieren und ins Englische übersetzen, Feedback im größeren Rahmen einholen (NGOs, Distributoren, Reddit, Mailinglisten, Jurist\*innen), Infrastruktur aufsetzen, Crowdfunding-Kampagne starten, ...
 
 Nicht desto trotz: [Feedback](mailto:kontakt@fsfw-dresden.de) bleibt der erste Schritt.
 

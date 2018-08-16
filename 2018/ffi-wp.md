@@ -2,7 +2,7 @@ Title: Funding Freedom Initiative - Idee zur Finanzierung freier Softwareprojekt
 Date: 2018-08-15 20:00
 Category: Artikel
 Tags: Freie Software, Gesellschaft
-Slug: FFI-wp
+Slug: funding-floss
 Author: Carsten
 Summary: Der Artikel schlägt unter dem Arbeitstitel „Funding Freedom Initiative“ eine Finanzierungsmöglichkeit zur Steigerung der Verbreitung und Qualität von Freier Software vor. Sie beruht im Wesentlichen auf der Kombination existierender Geschäftsmodellle: Spenden, Merchandise, Bounties, Funding-Organisationen.
 

@@ -200,6 +200,8 @@ Wer gute FLOSS-Software will, sollte bereit sein, dafür auch etwas zu tun bzw. 
 Die „Funding Freedom Initiative“ ist ein Vorschlag zur kooperativen Verteilung von monetärer Anerkennung.
 Feedback an [kontakt@fsfw-dresden.de](mailto:kontakt@fsfw-dresden.de).
 
+Zur Verbreitung dieses Beitrags kann bei Bedarf der Tweet <https://twitter.com/fsfwdresden/status/1029988144949731328> genutzt werden.
+
 
 ## Potenziell relevante Links
 

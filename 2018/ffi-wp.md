@@ -4,8 +4,7 @@ Category: Artikel
 Tags: Freie Software, Gesellschaft
 Slug: FFI-wp
 Author: Carsten
-Summary: Finanzierungsmodell zur Steigerung von Qualität und Verbreitung von FLOSS durch
-Kombination existierender Geschäftsmodellle (Spenden, Merchandise, Bounties, Funding-Organisationen.)
+Summary: Finanzierungsmodell zur Steigerung von Qualität und Verbreitung von FLOSS durch Kombination existierender Geschäftsmodellle (Spenden, Merchandise, Bounties, Funding-Organisationen.)
 
 ---
 ## tl;dr

@@ -4,12 +4,12 @@ Category: Artikel
 Tags: Freie Software, Gesellschaft
 Slug: FFI-wp
 Author: Carsten
-Summary: Finanzierungsmodell zur Steigerung von Qualität und Verbreitung von FLOSS durch Kombination existierender Geschäftsmodellle (Spenden, Merchandise, Bounties, Funding-Organisationen.)
+Summary: Der Artikel schlägt unter dem Arbeitstitel „Funding Freedom Initiative“ eine Finanzierungsmöglichkeit zur Steigerung der Verbreitung und Qualität von Freier Software vor. Sie beruht im Wesentlichen auf der Kombination existierender Geschäftsmodellle: Spenden, Merchandise, Bounties, Funding-Organisationen.
 
 ---
 ## tl;dr
 
-Dieser Text beschreibt eine Idee zur Steigerung von Qualität und Verbreitung von freier quelloffener Software (kurz: [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)).
+Dieser Text beschreibt eine Idee zur Steigerung der Verbreitung und Qualität von freier quelloffener Software (kurz: [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)).
 Durch die Kombination existierender Geschäftsmodelle (Spenden, Merchandise, Bounties, Funding-Organisationen) sollen
 Finanzmittel akquiriert werden, die FLOSS-Projekten für Entwicklung, Design, Marketing, Dokumentation etc. nutzen können. Kernidee ist der „Verkauf“ von FLOSS-Support-Zertifikaten.
 

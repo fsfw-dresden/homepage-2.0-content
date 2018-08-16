@@ -10,6 +10,6 @@ Summary: Temporärer Workaround zur Vermeidung eines ungültigen Links. Die neue
 ## Umleitung
 
 Dieser "Artikel" ist nur ein temporärer Workaround zur Vermeidung eines ungültigen Links.
-Die neue URL des eigentlichen Artikels lautet inzwischen <https://fsfw-dresden.de/2018/08/funding-floss.html>.
+Die URL des eigentlichen Artikels lautet inzwischen <https://fsfw-dresden.de/2018/08/funding-floss.html>.
 Für die Verwirrung bittet der Autor um Entschuldigung.
 

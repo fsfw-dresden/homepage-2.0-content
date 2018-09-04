@@ -47,6 +47,11 @@ Template: page_raw
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
+    <section id="sprechstunde-ausfall" class="news">
+        <span datetime="2018-09-04">04.09.2018</span>
+        <h3>Wegen SLUB-Schließung: Sprechstunde am 04.09. fällt leider aus</h3>
+        <p>Wegen der <a href="https://blog.slub-dresden.de/beitrag/2018/08/31/wir-sind-mal-kurz-weg-und-offline-schliesstage-in-der-slub-am-4-und-592018/">Schließung der SLUB</a> am 04. und 05.09. fällt die September-Sprechstunde zu LaTeX und anderer freier Software leider aus. Wir sind aller Voraussicht ab Oktober wieder für Euch da. Alles weitere in Kürze unter <a href="//fsfw-dresden.de/sprechstunde">fsfw-dresden.de/sprechstunde</a></p>
+    </section>
     <section id="blog-interview-sander" class="news">
         <span datetime="2018-06-14">14.06.2018</span>
         <h3>Interview zum Thema „Finanzierung von freier Software“ mit Prof. Sander</h3>

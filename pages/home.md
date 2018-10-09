@@ -47,6 +47,11 @@ Template: page_raw
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
+    <section id="ringvorlesung" class="news">
+        <span datetime="2018-10-09">09.10.2018</span>
+        <h3>Ringvorlesung im Wintersemester 2018/2019: Freie Software und Freies Wissen als Beruf</h3>
+        <p>Die FSFW organisiert im Wintersemester eine Ringvorlesung. Alle Details sind unter <a href="//fsfw-dresden.de/ringvorlesung">fsfw-dresden.de/ringvorlesung</a> zu finden.</p>
+    </section>
     <section id="blog-interview-sander" class="news">
         <span datetime="2018-06-14">14.06.2018</span>
         <h3>Interview zum Thema „Finanzierung von freier Software“ mit Prof. Sander</h3>

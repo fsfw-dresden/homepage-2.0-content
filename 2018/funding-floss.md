@@ -6,7 +6,6 @@ Slug: funding-floss
 Author: Carsten
 Summary: Der Artikel schlägt unter dem Arbeitstitel „Funding Freedom Initiative“ eine Finanzierungsmöglichkeit zur Steigerung der Verbreitung und Qualität von Freier Software vor. Sie beruht im Wesentlichen auf der Kombination existierender Geschäftsmodellle: Spenden, Merchandise, Bounties, Funding-Organisationen.
 
----
 ## tl;dr
 
 Dieser Text beschreibt eine Idee zur Steigerung der Verbreitung und Qualität von freier quelloffener Software (kurz: [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)).
@@ -125,7 +124,7 @@ Die Projekte verpflichten sich bei der Registrierung regelmäßig einen Bericht 
 #### Wird dafür eine eigene (neue) Organisation gebraucht?
 
 Für einzelne Projekte ist der Fundraising Aufwand meist zu groß.
-Das spricht für eine *separate* Organisation. Eine solche muss aber nicht notwendigerweise neu gegründet werden. Ggf. könnte eine bestehende Organisation (naheliegend: Free Software Foundation, FSFE, GNU) die Idee umsetzen. Durch den einkalkulierten Betriebskosten-Anteil könnte sich das Projekt selbst tragen - innerhalb einer größeren Organisation oder ggf. sogar als klassisches StartUp mit Risiko-Kapital. Eine eigene neue Organisation wäre vermutlich *agiler* als eine etablierte mit gewachsenen Strukturen und interner Meinungspluralität. Dem steht der Nachteil gegenüber, dass sie unbekannt wäre und sich Vertrauen erst mühsam erarbeiten müsste. Denkbar wäre auch, dass mehrere etablierte Organisationen gemeinsam eine neue anschieben bzw. deren Gründung durch ihre Netzwerke unterstützen.
+Das spricht für eine *separate* Organisation. Eine solche muss aber nicht notwendigerweise neu gegründet werden. Ggf. könnte eine bestehende Organisation (naheliegend: Free Software Foundation, FSFE) die Idee umsetzen. Durch den einkalkulierten Betriebskosten-Anteil könnte sich das Projekt selbst tragen - innerhalb einer größeren Organisation oder ggf. sogar als klassisches StartUp mit Risiko-Kapital. Eine eigene neue Organisation wäre vermutlich *agiler* als eine etablierte mit gewachsenen Strukturen und interner Meinungspluralität. Dem steht der Nachteil gegenüber, dass sie unbekannt wäre und sich Vertrauen erst mühsam erarbeiten müsste. Denkbar wäre auch, dass mehrere etablierte Organisationen gemeinsam eine neue anschieben bzw. deren Gründung durch ihre Netzwerke unterstützen.
 
 #### Potentielle Kritikpunkte und mögliche Gegenargumente
 

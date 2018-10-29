@@ -33,9 +33,14 @@ Schon von Beginn an war uns klar, dass auch an anderen Hochschulen Menschen mit 
 Tatsächlich gibt es auch eine Reihe von Gruppen, die ganz ähnlich orientiert sind, siehe unten.
 Zu einer überregionalen Vernetzung oder gar einer durch [uns inspirierten Neugründung](https://fsfw-dresden.de/fork) ist es aber bisher nicht gekommen. Das soll sich nun ändern!
 
+
+<img alt="Prof. Sander demonstriert seine Liste bisher gefixter Bugs" src="{filename}/img/fsfw-34c3-beamer-fork-us.jpg" style="float:right; margin-left:1.5em; margin-bottom:1.5em; margin-top:1.5em; width:25em;" />
+
+
+
 Für die kommenden Monate wollen wir als FSFW die überregionale Vernetzung als explizites Projekt angehen.
 Einerseits, um das oben genannte Aha-Erlebnis von der individuellen auf die Gruppen-Ebene zu übertragen und so für gute Stimmung zu sorgen.
-Andererseits um mittel- und langfristig durch gegenseitige Kooperation noch ein besseres Aufwands-Wirkungsverhältnis zu generieren. Z.&#x202F;B. durch die Weitergabe bzw. den Austausch von Workshop-Material, Projekt-Knowhow usw. Zudem kann man mit überregionaler Vernetzung mehr mediale Aufmerksamkeit erzeugen und Probleme angehen, die für eine lokale Gruppe eine Nummer zu groß sind. Ein Beispiel ist das Thema [Rahmenverträge](https://fsfw-dresden.de/landesvertrag) von Herstellern proprietärer Software mit einzelnen Bundesländern, welche erhebliche Auswirkungen auf die Softwarenutzung an Hochschulen haben.
+Andererseits um mittel- und langfristig durch gegenseitige Kooperation noch ein besseres Aufwands-&shy;Wirkungs&shy;verhältnis zu generieren. Z.&#x202F;B. durch die Weitergabe bzw. den Austausch von Workshop-Material, Projekt-Knowhow usw. Zudem kann man mit überregionaler Vernetzung mehr mediale Aufmerk&shy;samkeit erzeugen und Probleme angehen, die für eine lokale Gruppe eine Nummer zu groß sind. Ein Beispiel ist das Thema [Rahmen&shy;verträge](https://fsfw-dresden.de/landesvertrag) von Herstellern proprietärer Software mit einzelnen Bundesländern, welche erhebliche Auswirkungen auf die Software&shy;nutzung an Hochschulen haben.
 
 ### Konkret geplante Schritte
 

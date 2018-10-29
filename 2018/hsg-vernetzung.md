@@ -27,6 +27,8 @@ Nach der Gründungseuphorie folgten die Mühen der Ebene: Gruppenarbeit im meist
 * Verteilung von [USB-Sticks mit nützlicher Freier Software an Erstis](https://fsfw-dresden.de/uni-stick)
 * Organisation einer [Ringvorlesung "Freie Software und Freies Wissen als Beruf"](https://fsfw-dresden.de/ringvorlesung)
 
+Eine Selbstbeschreibung in Form von Lightningtalk-Videos gibt es u.a. von den [Datenspuren 2016](https://fsfw-dresden.de/#video) und dem [34C3](https://media.ccc.de/v/34c3-9258-lightning_talks_day_4#t=5750).
+
 Schon von Beginn an war uns klar, dass auch an anderen Hochschulen Menschen mit ähnlichen Problemen konfrontiert sind und hoffentlich auch über Lösungen nachdenken.
 Tatsächlich gibt es auch eine Reihe von Gruppen, die ganz ähnlich orientiert sind, siehe unten.
 Zu einer überregionalen Vernetzung oder gar einer durch [uns inspirierten Neugründung](https://fsfw-dresden.de/fork) ist es aber bisher nicht gekommen. Das soll sich nun ändern!

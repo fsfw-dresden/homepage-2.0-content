@@ -1,5 +1,5 @@
 Title: Vernetzung von Hochschulgruppen mit FOSS-Bezug
-Date: 2018-10-30 20:00
+Date: 2018-10-31 22:00
 Category: Artikel
 Tags: Freie Software, Gesellschaft, Hochschule, Vernetzung
 Slug: hsg-vernetzung

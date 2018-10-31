@@ -25,7 +25,7 @@ Nach der Gründungseuphorie folgten die Mühen der Ebene: Gruppenarbeit im meist
 * Einführungsworkshops zu [git](https://fsfw-dresden.de/git-ws) und [Python](https://fsfw-dresden.de/python-workshop)
 * Publikation eines [Programmpapiers](https://fsfw-dresden.de/programm) (und Einholen der offiziellen Unterstützung des StuRa-Plenums)
 * Verteilung von [USB-Sticks mit nützlicher Freier Software an Erstis](https://fsfw-dresden.de/uni-stick)
-* Organisation einer [Ringvorlesung "Freie Software und Freies Wissen als Beruf"](https://fsfw-dresden.de/ringvorlesung)
+* Organisation einer [Ringvorlesung „Freie Software und Freies Wissen als Beruf“](https://fsfw-dresden.de/ringvorlesung)
 
 Eine Selbstbeschreibung in Form von Lightningtalk-Videos gibt es u.a. von den [Datenspuren 2016](https://fsfw-dresden.de/#video) und dem [34C3](https://media.ccc.de/v/34c3-9258-lightning_talks_day_4#t=5750).
 
@@ -34,7 +34,7 @@ Tatsächlich gibt es auch eine Reihe von Gruppen, die ganz ähnlich orientiert s
 Zu einer überregionalen Vernetzung oder gar einer durch [uns inspirierten Neugründung](https://fsfw-dresden.de/fork) ist es aber bisher nicht gekommen. Das soll sich nun ändern!
 
 
-<img alt="Prof. Sander demonstriert seine Liste bisher gefixter Bugs" src="{filename}/img/fsfw-34c3-beamer-fork-us.jpg" style="float:right; margin-left:1.5em; margin-bottom:1.5em; margin-top:1.5em; width:25em;" />
+<img alt="Aufruf Hochschulgruppen zu gründen." src="{filename}/img/fsfw-34c3-beamer-fork-us.jpg" style="float:right; margin-left:1.5em; margin-bottom:1.5em; margin-top:1.5em; width:25em;" />
 
 
 
@@ -59,7 +59,7 @@ Andererseits um mittel- und langfristig durch gegenseitige Kooperation noch ein 
 ### Gruppen, die wir bisher kennen
 
 * FU Berlin
-    * "Die Mitglieder von spline wollen Freie Software verstehen und fördern."
+    * Zitat von der Webseite: „Die Mitglieder von spline wollen Freie Software verstehen und fördern.“
     * <https://spline.de>
 
 * HU Berlin

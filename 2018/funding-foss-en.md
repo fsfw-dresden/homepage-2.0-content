@@ -1,21 +1,22 @@
-Title: Funding Freedom Initiative - Proposal how to generate funding for FOSS projects
-Date: 2018-08-15 20:00
+Title: Funding Freedom Initiative - Proposal how to generate considerable funding for FOSS projects
+Date: 2018-11-18 20:00
 Category: Artikel
 Tags: Free Software, Society, Funding
 Slug: funding-foss-en
 Author: Carsten
-Summary: Under the working title "Funding Freedom Initiative" the article proposes an approach for funding to increase the quality and spread of Free Software. It basically relies on the combination of existing business models: donations, merchandise, bounties, funding-organisations.
+Summary: While looking at Free and Open Source Software (FOSS) products for end users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.
+The article describes an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software. The proposed idea basically relies on the combination of existing business models: donations, merchandise, bounties, funding-organizations. The core idea is to sell *FOSS-support-certificates*. With that money, FOSS projects have more resources for development, design, marketing, documentation, etc. Due to increased publicity and user experience market the market share of FOSS is likely to rise - to the benefit of the whole society.
 
 ## tl;dr
 
-This text describes an idea to increase the distribution and quality of open source software ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) for short). Through the combination of existing business models (donations, merchandise, bounties, funding organizations), funds are to be acquired that FLOSS projects can use for development, design, marketing, documentation, etc. The core idea is the "sale" of FLOSS-support-certificates.
+The article describes an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software. The proposed idea basically relies on the combination of existing business models: donations, merchandise, bounties, funding-organizations. The core idea is to sell *FOSS-support-certificates*. With that money, FOSS projects have more resources for development, design, marketing, documentation, etc.
 
 
 ## Preliminary Note
 
 The author is a strong proponent of Free Software and this text is aimed at a like-minded audience.
-The clearly formulated criticism is to be understood  on this background.
-The text does not discuss why the promotion of Free Software is desirable, see (related to the university context) https://fsfw-dresden.de/programm . The article is heavily inspired by [Colin Percival's plan for open source software maintainers](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) and discussions in the FSFW groop meetings ("[Plena](https://fsfw-dresden.de#plenum)").
+The clearly formulated criticism is to be understood on this background.
+The text does not discuss why the promotion of Free Software is desirable, see (related to the university context) https://fsfw-dresden.de/programm. The article is heavily inspired by [Colin Percival's plan for open source software maintainers](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) and discussions in the FSFW groop meetings ("[Plena](https://fsfw-dresden.de#plenum)"). This text was first published in German language: [Funding Freedom Initiative - Idee zur Finanzierung freier Softwareprojekte](https://fsfw-dresden.de/2018/08/funding-floss.html).
 
 
 ## Basic Observations
@@ -162,43 +163,24 @@ Beginning with 10K participants (100 Euro daily operating costs) the concept cou
 
 Both calculations show that the FFI-idea 1. is not completely utopian and 2. theoretically has great potential.
 
-Note: If it were possible to include the app market on mobile devices, the cake would be significantly larger again (and a smaller piece of it would suffice to get the project running).
+Note: If it were possible to include the app market of mobile devices, the cake would be significantly larger (and a smaller piece of it would suffice to get the project running).
 
 
-## Ausweitung auf dezentrale IT-Dienste
-Genau wie die Entwicklung guter Freier (Desktop-)Software, verursacht auch der Betrieb von freier dezentraler IT-Infrastruktur Aufwand und Kosten.
-Die Situation ist strukturell ähnlich zu FLOSS-Software und die gesellschaftliche Bedeutung ist langfristig ggf. sogar größer.
-Bisherige Geschäftsmodelle basieren oft auf dem Verkauf von Daten. Das ist aus vielen Gründen nicht erstrebenswert.
-Beispiele für Bedarf an Finanzierung (digitale Infrastruktur für eine lebendige Zivilgesellschaft):
+## How to continue?
 
-- Betrieb und Wartung freier dezentraler Alternativen zu Dropbox, Trello, Google docs, Skype, WhatsApp, Doodle, Polldaddy etc.
-- Server für Wikis, Etherpad, Mailinglisten, Jabber
-- Soziale Netze (Diaspora, Mastodon)
+Text is patient. For something to happen, it usually requires human activity. It is clear that starting such a project only makes sense in coordination with the FOSS community. Therfore the first step is to get feedback . Criticism (errors of reason?, unrealistic assumptions?, "overseen exisiting solutions"?) and encouragement are both equally important. Experience shows that criticism usually comes by itself :-).
 
-Natürlich besteht auch bei der Infrastruktur-Software teils erheblicher Entwicklungsbedarf (laut FSFW-Infrastruktur-Haufen z.&#x202F;B. bei Etherpad). Auch dieser ließe sich ggf. durch die FFI finanzieren.
+If there is a sufficient amount of positive feedback, possibly even support, the next steps could be taken: consider names and reserving domains, specify the concept on a more detailed level, get legal advice, call for feedback on a larger scale (NGOs, distributors, Reddit, mailing lists), set up infrastructure, start crowdfunding campaign, ...
 
-## Wie gehts weiter?
-
-Text ist geduldig. Damit etwas passiert, braucht es meist menschliche Aktivität.
-Klar ist: So ein Projekt sollte man nur in Abstimmung mit der FLOSS-Community anfangen und deswegen ist der erste Schritt: [Feedback](mailto:kontakt@fsfw-dresden.de) einholen.
-Kritik (Prinzipielle Denkfehler?, Unrealistische Annahmen?, „Konkurrenzprodukt“?) und Zuspruch sind beide gleich wichtig.
-Die Erfahrung zeigt dabei: Kritik kommt meist von alleine :-).
-
-Sollte es hinreichend viel positives Feedback geben, eventuell sogar Unterstützungszusagen, könnten die nächsten Schritte angegangen werden:
-Namen überlegen und Domains sichern, Konzept präzisieren und ins Englische übersetzen, Feedback im größeren Rahmen einholen (NGOs, Distributoren, Reddit, Mailinglisten, Jurist\*innen), Infrastruktur aufsetzen, Crowdfunding-Kampagne starten, ...
-
-Nicht desto trotz: [Feedback](mailto:kontakt@fsfw-dresden.de) bleibt der erste Schritt.
-
-## Zusammenfassung
-
-Wer gute FLOSS-Software will, sollte bereit sein, dafür auch etwas zu tun bzw. zu bezahlen.
-Die „Funding Freedom Initiative“ ist ein Vorschlag zur kooperativen Verteilung von monetärer Anerkennung.
-Feedback an [kontakt@fsfw-dresden.de](mailto:kontakt@fsfw-dresden.de).
-
-Zur Verbreitung dieses Beitrags kann bei Bedarf der Tweet <https://twitter.com/fsfwdresden/status/1029988144949731328> genutzt werden.
+Nevertheless, [feedback](mailto:kontakt@fsfw-dresden.de) remains the first step.
 
 
-## Potenziell relevante Links
+## Summary
+
+Those who want good FOSS software, should be ready to do something or pay for it. The "Funding Freedom Initiative" is a proposal for the cooperative distribution of money  from end users to Free Software projects. It aims to increase the spread and the quality of Free and Open Source Software. If you have an opinion regarding this topic we would be glad to hear from you. Feedback to [kontakt@fsfw-dresden.de](mailto:kontakt@fsfw-dresden.de).
+
+
+## Potentially relevant links
 
 - <http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html>
 - <https://liberapay.com/>
@@ -208,19 +190,15 @@ Zur Verbreitung dieses Beitrags kann bei Bedarf der Tweet <https://twitter.com/f
 - <https://opencollective.com/>
 - <http://goteo.org/>
 - <https://gitcoin.co/>
-- <https://gratipay.com/> (Betrieb eingestellt)
+- <https://gratipay.com/> (discontinued operation)
 - <https://patreon.com>
-    - Hat [offenbar keine](https://learn.patreon.com/build/selecting-a-creator-category/) Kategorie speziell für (freie) Software )
-    - Ist nicht auf Offenheit und Datensparsamkeit etc. getrimmt (Login mit Facebook, AGPL?)
+    - Does not [seem to have a category](https://learn.patreon.com/build/selecting-a-creator-category/) specifically for (free) software.
+    - Is not taylored to openness and data frugality, etc. (Login with Facebook, AGPL?).
 - <https://opensourcefriday.com/>
-- <https://www.codetriage.com/> (Versendet neues offenes Issue jeden Tag)
+- <https://www.codetriage.com/> (Post a new open issue every day)
 - <https://www.unixstickers.com/>
 - <https://creativecommons.org/use-remix/made-with-cc/>
 - <https://sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting>
-- <http://www.fossfactory.org/> („Funding Open collaboration“, scheint inaktiv)
-- <https://store.kde.org/browse/ord/top/#plings> Monetarisierung für Icons, Themes etc.
-- [GNU Taler](https://taler.net/en/) (Elektronisches Bezahlsystem, evtl. für Umsetzung oder gemeinsame Kampagne im Auge behalten.)
-
-## Beispiele für spendenfinanzierte Infrastruktur
-
-<https://uberspace.de/prices>, <https://riseup.net/de/spenden>, <https://www.zwiebelfreunde.de/>,
+- <http://www.fossfactory.org/> („Funding Open collaboration“, seems inactive)
+- <https://store.kde.org/browse/ord/top/#plings> Monetization for icons, themes, etc.
+- [GNU Taler](https://taler.net/en/) ((electronic payment system; migt be interesting for implementation or joint campaign)

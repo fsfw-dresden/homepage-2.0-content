@@ -214,8 +214,8 @@ Zur Verbreitung dieses Beitrags kann bei Bedarf der Tweet <https://twitter.com/f
 - <https://gitcoin.co/>
 - <https://gratipay.com/> (Betrieb eingestellt)
 - <https://patreon.com>
-    - Hat [offenbar keine](https://learn.patreon.com/build/selecting-a-creator-category/) Kategorie speziell für (freie) Software )
-    - Ist nicht auf Offenheit und Datensparsamkeit etc. getrimmt (Login mit Facebook, AGPL?)
+    - Hat [offenbar keine](https://learn.patreon.com/build/selecting-a-creator-category/) Kategorie speziell für (freie) Software.
+    - Ist nicht auf Offenheit und Datensparsamkeit etc. getrimmt (Login mit Facebook, AGPL?).
 - <https://opensourcefriday.com/>
 - <https://www.codetriage.com/> (Versendet neues offenes Issue jeden Tag)
 - <https://www.unixstickers.com/>

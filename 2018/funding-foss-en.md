@@ -1,4 +1,4 @@
-Title: Funding Freedom Initiative - Proposal how to generate considerable funding for FOSS projects
+Title: Fund-Raising for Free Software - Thinking Big
 Date: 2018-11-18 20:00
 Category: Artikel
 Tags: Free Software, Society, Funding
@@ -7,16 +7,12 @@ Author: Carsten
 Summary: While looking at Free and Open Source Software (FOSS) products for end users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.
 The article describes an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software. The proposed idea basically relies on the combination of existing business models: donations, merchandise, bounties, funding-organizations. The core idea is to sell *FOSS-support-certificates*. With that money, FOSS projects have more resources for development, design, marketing, documentation, etc. Due to increased publicity and user experience market the market share of FOSS is likely to rise - to the benefit of the whole society.
 
-## tl;dr
-
-The article describes an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software. The proposed idea basically relies on the combination of existing business models: donations, merchandise, bounties, funding-organizations. The core idea is to sell *FOSS-support-certificates*. With that money, FOSS projects have more resources for development, design, marketing, documentation, etc.
-
 
 ## Preliminary Note
 
 The author is a strong proponent of Free Software and this text is aimed at a like-minded audience.
 The clearly formulated criticism is to be understood on this background.
-The text does not discuss why the promotion of Free Software is desirable, see (related to the university context) https://fsfw-dresden.de/programm. The article is heavily inspired by [Colin Percival's plan for open source software maintainers](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) and discussions in the FSFW groop meetings ("[Plena](https://fsfw-dresden.de#plenum)"). This text was first published in German language: [Funding Freedom Initiative - Idee zur Finanzierung freier Softwareprojekte](https://fsfw-dresden.de/2018/08/funding-floss.html).
+The text does not discuss why the promotion of Free Software is desirable, [see (related to the university context)](https://fsfw-dresden.de/programm). The article is heavily inspired by [Colin Percival's plan for open source software maintainers](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) and discussions in the FSFW groop meetings ("[Plena](https://fsfw-dresden.de#plenum)"). This text was first published in German language: [Funding Freedom Initiative - Idee zur Finanzierung freier Softwareprojekte](https://fsfw-dresden.de/2018/08/funding-floss.html).
 
 
 ## Basic Observations
@@ -82,22 +78,24 @@ As an end user, you buy a Free Software Support Certificate (Bronze, Silver, Gol
 
 #### Why should people spend money on that?
 
-1.\ One supports Free Software (→Voluntary Donation). 2. You get (optional) merchandise material (→selling of branded merchandise), e.&#x202F;g. Stickers or a snappy T-shirt. In addition, "virtual accessories" are conceivable, for instance Badges for GitHub or other social networks. This basically satisfies the human wish for status consumption or the desire for distinction from others. 3. You get a privileged communication channel into the project team (e.&#x202F;g. higher priority for feature request polls (Bounty Driven Development) or support-requests) 4. You may get small extra-features (for projects that want this).
+1\. You support Free Software (-> Voluntary Donation).
+2\. You get (optional) merchandise material (-> selling of branded merchandise), e.&#x202F;g. Stickers or a snappy T-shirt. In addition, "virtual accessories" are conceivable, for instance Badges for GitHub or other social networks. This basically satisfies the human wish for status consumption or the desire for distinction from others.
+3\. You get a privileged communication channel into the project team (e.&#x202F;g. higher priority for feature request polls (Bounty Driven Development) or support-requests)
+4\. You may get small extra-features (for projects that want this).
 
 
 #### How could the money be distributed?
 
 Billing takes place at certain intervals (e.&#x202F;g. per quarter). The certificate price is divided into four categories (K1-K4):
 
-K1 (e.&#x202F;g. 60%) is distributed to the project accounts according to individual buyer wishes. As a decision support a software is offered (opt-in), which analyzes the local usage behavior and makes suggestions for the distribution. The premise here is: Frequently running programs are subjectively more important. A role model for this is the [Debian Popularity Contest](https://popcon.debian.org/). But of course one can support any projects independently of these suggestions.
+**K1 (e.&#x202F;g. 60%)** is distributed to the project accounts according to individual buyer wishes. As a decision support a software is offered (opt-in), which analyzes the local usage behavior and makes suggestions for the distribution. The premise here is: Frequently running programs are subjectively more important. A role model for this is the [Debian Popularity Contest](https://popcon.debian.org/). But of course one can support any projects independently of these suggestions.
 
-K2 (e.&#x202F;g. 30%) will be allocated to project accounts according to the organization. This is based on the assumption that the FFI has a better overview of the projects and can possibly also strategically promote projects with good potential that are not yet sufficiently well-known.
+**K2 (e.&#x202F;g. 30%)** will be allocated to project accounts according to the organization. This is based on the assumption that the FFI has a better overview of the projects and can possibly also strategically promote projects with good potential that are not yet sufficiently well-known.
 
-K3 (e.&#x202F;g. 10%) are operating costs (staff and infrastructure of the FFI)
+**K3 (e.&#x202F;g. 10%)** are operating costs (staff and infrastructure of the FFI)
 
-K4 are material costs (for T-shirts etc.) and will be charged extra. A sticker is available on request but "free". ;-)
+**K4** are material costs (for T-shirts etc.) and will be charged extra. A sticker is available on request but for free. ;-)
 
-zlich berechnet. Einen Aufkleber gibt es auf Wunsch aber „gratis“. ;-)
 
 #### How can embezzlement be prevented?
 
@@ -112,12 +110,12 @@ The registered projects can either a) have the money paid off or b) pass it on t
 
 When registering The projects pledge themselves to regularly (say two times a year) publish a report on the use of the funds. Possible examples might look like this:
 
-    "Could afford to reduce my weekly working hours and spend more time on Project XYZ."
-    "Money was used to pay for an ad campaign (print and online). The download numbers have tripled in that period. We would like to do that again."
-    "Thanks to the money we were able to integrate two employees from our usability team, each with 20% full time, to the project. Additionally, a student assistant has updated the documentary. "
-    "We have contracted company XYZ to fix Issue 123. For the future we plan the same with issue 456. "
-    "I see the money as recognition for the work done in the last year. Thanks guys! "(Similar to the Bounty model, see above.)
-    "In the last quarter, issues were mainly addressed that were highly valued by donors. Details: see release notes. "(Corresponds to the reverse bounty model.)
+- "Could afford to reduce my weekly working hours and spend more time on Project XYZ."
+- "The money was used to pay for an ad campaign (print and online). The download numbers have tripled in that period. We would like to do that again."
+- "Thanks to the money we were able to integrate two employees from our usability team, each with 20% full time, to the project. Additionally, a student assistant has updated the documentary. "
+- "We have contracted company XYZ to fix Issue 123. For the future we plan the same with issue 456. "
+- "I see the money as recognition for the work done in the last year. Thanks guys! "(Similar to the Bounty model, see above.)
+- "In the last quarter, issues were mainly addressed that were highly valued by donors. Details: see release notes. "(Corresponds to the reverse bounty model.)
 
 
 #### Is a separate (new) organization really needed?
@@ -132,19 +130,16 @@ A hybrid approach would be that several established organizations jointly push a
 - *A critical mass is needed.*
     - That could be generated by sufficient marketing. The budget could come from crowdfunding or public funding.
 - *Commercialization harms the FOSS development.*
-    - Even now there are already cash flows to the FOSS-community (e.&#x202F;g. Google summer of code, bounties, donations, ...). The proposed idea is about creating jobs in FOSS projects.
+    - Already now there are considerable cash flows to the FOSS-community (e.&#x202F;g. Google summer of code, bounties, donations, ...). The proposed idea is about creating jobs in FOSS projects.
 - *Registration and payment process are too time-consuming.*
     - That heavily depends on the implementation. Additionally, enthusiastic FOSS users might also accept some extra effort.
 - *The concept relies too much on trust and voluntariness -> risk of low acceptance.*
     - FOSS already lives for the most part on a voluntary basis. Many users would like to give something back, but they do not know where and how. In addition, voluntariness in other areas also works (e.&#x202F;g. [Atmosfair](https://www.atmosfair.de/de/)). Furthermore, each project is free to incorporate "subtle reminder mechanisms" into donation opportunities that are silent when a current certificate is found. If that bothers a user, they can patch the mechanism or use an alternative product. Both are established FOSS procedures.
 - *Positive feedback loops (see below) could lead to a crowding-out effect of smaller projects and thus reduce the diversity of active projects.*
     - Antithesis: Since in contrast to the stock market "hostile project takeovers" of FOSS projects are not possible, it is more likely that the number of active projects might increase because the economic success of individual projects could motivate potential competitors.
-
-- *It is unclear how to deal with projects that already have other funding resource sources (Mozilla, Linux kernel, ...)
+- *It is unclear how to deal with projects that already have other funding resource sources (Mozilla, Linux kernel, ...)*
     - Users might decide by themselves on the basis of the above-mentioned reports.
-
 - *The central role of the FFI could, in the long term, lead to an unwanted dependence of certain projects on the FFI.*
-- *Durch die Zentrale Rolle der FFI könnte es langfristig eine unerwünschte Abhängigkeit bestimmter Projekte von der FFI geben.*
     - Every FOSS-project, of course, can raise (additional) money on its own. Furthermore, people who think the FFI is too big (concentration of power) can fork it (thanks AGPL etc.). Last but not least, it should be clear that transparency and data frugality and central in the implementation of the FFI. It's not about collecting data and using it for its own benefit, but offering a way to foster and promote FOSS projects.
 
 #### Potential positive effects

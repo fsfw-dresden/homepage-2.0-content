@@ -47,11 +47,6 @@ Template: page_raw
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
-    <section id="unistick" class="news">
-        <span datetime="2018-10-16">16.10.2018</span>
-        <h3>UniStick Ausgabe am Do, 18.10., 18:30 - 8GB voller nützlicher Freier Software fürs Studium</h3>
-        <p>Die FSFW hat vom StuRa Mittel für über 100 USB-Sticks bekommen und freie Software zusammengestellt, die speziell für Studis relevant ist. Beides bringen wir am Donnerstag, den 18.10. ab 18:30 Uhr im Pothoffbau, Hörsaal 81, unter die Leute. Mehr Infos: <a href="//fsfw-dresden.de/uni-stick">fsfw-dresden.de/uni-stick</a>.</p>
-    </section>
     <section id="ringvorlesung" class="news">
         <span datetime="2018-10-09">09.10.2018</span>
         <h3>Ringvorlesung im Wintersemester 2018/2019: Freie Software und Freies Wissen als Beruf</h3>

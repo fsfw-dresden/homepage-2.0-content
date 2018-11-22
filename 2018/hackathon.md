@@ -1,5 +1,5 @@
 Title: Hackathon als Marketing-Instrument
-Date: 2018-08-15 20:00
+Date: 2018-11-24 14:00
 Category: Artikel
 Tags: Proprietäre Software, Gesellschaft
 Slug: hackathon-2018-12
@@ -14,7 +14,7 @@ Unter dem Motto "Enhance Your Student Life" findet vom 07.12-09.12.2018 ein [Hac
 Warum ist das jetzt für uns relevant? Weil wir über persönliche Kontakte davon erfahren haben, dass der Hackathon stattfindet und das Multiplikator*innen zum Weitertragen dieser Informationen gesucht werden. Jetzt könnten wir eine der beiden einfachen Varianten wählen und entweder a) mit dem Verweis auf den über Jahre erworbenen Ruf von Microsoft in der Freien-Software-Szene das Event publizistisch ignorieren oder b) den Veranstaltungshinweis unkritisch weitergeben.
 Stattdessen nehmen wir es als Anlass mal etwas genauer hinzuschauen.
 
-So ein Hackathon inkl. Räumen, Betreuung, Catering, Preisen, Orga etc. kostet eine ganze Menge Geld. Allen drei Hosting-Akteuren kann man als Wirtschaftsunternehmen kommerzielles Eigeninteresse unterstellen. Im Detail könnte die Motivationslage folgende sein:
+So ein Hackathon inkl. Räumen, Betreuung, Catering, Preisen, Orga etc. kostet eine ganze Menge Geld. Bei allen drei Hosting-Akteuren (Wirtschaftsunternehmen) kann man von kommerzielles Eigeninteresse ausgehen. Im Detail könnte die Motivationslage folgende sein:
 
 - Red Bull möchte seinen Energy Drink in einem Kontext promoten, in dem es darum geht in kurzer Zeit sehr produktiv zu sein.
 - Microsoft möchte seine Produkte jenseits von Office und Windows bekannter machen, insbesondere die Cloud-Dienste.
@@ -32,6 +32,4 @@ Es zeigt, dass die üppigen Marketing-Budgets der Big Player kreativ eingesetzt 
 
 Der Freien-Software-Szene fehlen strukturbedingt die Ressourcen um mit ähnlicher Breitenwirkung zu agieren. Maßnahmen und Vorschläge um diese Problem anzugehen, haben wir in früheren Blog-Beiträgen behandelt.
 
-Begrüßenswert wäre aus unserer Sicht ein Hackathon, bei dem die Teilnehmenden nicht auf Tools und Plattformen festgelegt sind und der sich explizit auf Freie Software bezieht. Ob Microsoft dafür noch als Hauptsponsor (fürs Catering) zur Verfügung steht ist fraglich aber angesichts der Mitgliedschaft in 
-
-
+Begrüßenswert wäre aus unserer Sicht ein Hackathon, bei dem die Teilnehmenden nicht auf Tools und Plattformen festgelegt sind und der sich explizit auf Freie Software bezieht. Ob Microsoft dafür noch als Hauptsponsor (z.&#x202F;B. fürs Catering) zur Verfügung steht, ist fraglich aber angesichts der Mitgliedschaft in der [Linux Foundation](https://www.linuxfoundation.org/membership/members/) und im [Open Invention Network](https://www.openinventionnetwork.com/community-of-licensees/) durchaus im Bereich des Möglichen. Ansonsten findet sich sicher auch ein anderer Sponsor.

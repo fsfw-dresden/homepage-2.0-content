@@ -4,8 +4,7 @@ Category: Artikel
 Tags: Free Software, Society, Funding
 Slug: funding-foss-en
 Author: Carsten
-Summary: While looking at Free and Open Source Software (FOSS) products for end users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.
-The article describes an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software. The proposed idea basically relies on the combination of existing business models: donations, merchandise, bounties, funding-organizations. The core idea is to sell *FOSS-support-certificates*. With that money, FOSS projects have more resources for development, design, marketing, documentation, etc. Due to increased publicity and user experience market the market share of FOSS is likely to rise - to the benefit of the whole society.
+Summary: While looking at Free and Open Source Software (FOSS) products for end users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources. The article describes an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software. The proposed idea basically relies on the combination of existing business models: donations, merchandise, bounties, funding-organizations. The core idea is to sell *FOSS-support-certificates*. With that money, FOSS projects have more resources for development, design, marketing, documentation, etc. Due to increased publicity and user experience market the market share of FOSS is likely to rise - to the benefit of the whole society.
 
 
 ## Preliminary Note
@@ -18,12 +17,12 @@ The text does not discuss why the promotion of Free Software is desirable, [see 
 ## Basic Observations
 
 Along with progressing digitalization software is becoming more and more important for private and professional use.
-More than 30 years after the constitution of the Free Software Foundation and 20 years after the establishment of the more "business oriented" concept *Open Source* for end users Fress Software is still (or more than ever) a niche product.
+More than 30 years after the constitution of the Free Software Foundation and 20 years after the establishment of the more "business oriented" concept *Open Source* for end users Free Software is still (or more than ever) a niche product.
 
-Reasons are on the on hand the lack of prominence of the products and their advantages.
+Reasons are on the one hand the lack of prominence of the products and their advantages.
 But on the other hand we must also recognize quality issues such as usability weaknesses, missing features, stability problems and missing or outdated documentation.
 
-For free decentralized services (e.g., [Jabber-Server](https://wiki.fsfw-dresden.de/doku.php/doku/software/jabber) replacing WhatsApp) the situtation is similarly. For the sake of simplicity, however, the following text is mainly concerned with desktop applications.
+For free decentralized services (e.g., [Jabber-Server](https://wiki.fsfw-dresden.de/doku.php/doku/software/jabber) replacing WhatsApp) the situation is similarly. For the sake of simplicity, however, the following text is mainly concerned with desktop applications.
 
 
 ### Why proprietary software products are often more widespread and better in terms of quality?
@@ -41,7 +40,7 @@ In practice, selling (in the sense of "allow and enable the utilizatioin of the 
 Because there are people/organizations, whose actions are not exclusively guided by short-term benefit maximization. Specific sources of resources are: 1. working on free software as a hobby (problem-solving as personal joy and source of meaning, cooperation with others, recognition by positive feedback), 2. demonstration of own skills (e.g. for application procedures) 3. learning effect, 4. payments by companies or public institutions (for example, [in the context of higher education](https://fsfw-dresden.de/2018/06/interview-sander-finanzierung-freie-software.html)), 5. donations (altruism or future-oriented self-interest) and 6. viable commercial business models (for example, selling support and adjustments).
 
 
-However, despite there are amazing Free Software products out there, in most procjects there is a significant lack of of resources for a desirable further development. In other words, above sources are not enough.
+However, despite there are amazing Free Software products out there, in most projects there is a significant lack of of resources for a desirable further development. In other words, above sources are not enough.
 
 
 ## Analysis of existing business models
@@ -163,7 +162,7 @@ Note: If it were possible to include the app market of mobile devices, the cake 
 
 ## How to continue?
 
-Text is patient. For something to happen, it usually requires human activity. It is clear that starting such a project only makes sense in coordination with the FOSS community. Therfore the first step is to get feedback . Criticism (errors of reason?, unrealistic assumptions?, "overseen exisiting solutions"?) and encouragement are both equally important. Experience shows that criticism usually comes by itself :-).
+Text is patient. For something to happen, it usually requires human activity. It is clear that starting such a project only makes sense in coordination with the FOSS community. Therefore the first step is to get feedback . Criticism (errors of reason?, unrealistic assumptions?, "overseen existing solutions"?) and encouragement are both equally important. Experience shows that criticism usually comes by itself :-).
 
 If there is a sufficient amount of positive feedback, possibly even support, the next steps could be taken: consider names and reserving domains, specify the concept on a more detailed level, get legal advice, call for feedback on a larger scale (NGOs, distributors, Reddit, mailing lists), set up infrastructure, start crowdfunding campaign, ...
 

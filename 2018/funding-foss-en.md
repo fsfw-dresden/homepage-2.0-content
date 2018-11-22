@@ -185,6 +185,8 @@ Those who want good FOSS software, should be ready to do something or pay for it
 - <http://goteo.org/>
 - <https://gitcoin.co/>
 - <https://gratipay.com/> (discontinued operation)
+- <https://raphaelhertzog.com/flattr-foss/>
+    - Flattr seems so aim mainly on content producers like blogs and videos. The services relies on collecting data about surfing behavior via a browser plugin.
 - <https://patreon.com>
     - Does not [seem to have a category](https://learn.patreon.com/build/selecting-a-creator-category/) specifically for (free) software.
     - Is not taylored to openness and data frugality, etc. (Login with Facebook, AGPL?).

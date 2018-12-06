@@ -9,6 +9,7 @@ Summary: Die Dresdner IT-Firma [Robotron](https://www.robotron.de/) veranstaltet
 
 ## Faktenlage
 Unter dem Motto "Enhance Your Student Life" findet vom 07.12-09.12.2018 ein [Hackathon](https://de.wikipedia.org/wiki/Hackathon) in den Räumen des Schulungszentrums der [Robotron](https://www.robotron.de/) Datenbank-Software GmbH statt. Das ganze wird von Microsoft und Red Bull gesponsort. Es gibt Catering, "eine Programmierumgebung, Azure Credits in der Cloud und eine Kollaborations-Plattform" (Zitat von der [Anmeldeseite](http://aka.ms/msfthackathon-dresden)).
+(**Update:** Verschoben auf den 05. bis 07. April 2019)
 
 ## Bewertung aus Sicht der FSFW
 Warum ist das jetzt für uns relevant? Weil wir über persönliche Kontakte davon erfahren haben, dass der Hackathon stattfindet und das Multiplikator*innen zum Weitertragen dieser Informationen gesucht werden. Jetzt könnten wir eine der beiden einfachen Varianten wählen und entweder a) mit dem Verweis auf den über Jahre erworbenen Ruf von Microsoft in der Freien-Software-Szene das Event publizistisch ignorieren oder b) den Veranstaltungshinweis unkritisch weitergeben.

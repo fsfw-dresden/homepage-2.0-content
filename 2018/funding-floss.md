@@ -6,6 +6,9 @@ Slug: funding-floss
 Author: Carsten
 Summary: Der Artikel schlägt unter dem Arbeitstitel „Funding Freedom Initiative“ eine Finanzierungsmöglichkeit zur Steigerung der Verbreitung und Qualität von Freier Software vor. Sie beruht im Wesentlichen auf der Kombination existierender Geschäftsmodellle: Spenden, Merchandise, Bounties, Funding-Organisationen.
 
+## Note:
+An english version of this blog post and presentation slides prepared for 35C3 are availible in the [wiki](https://wiki.fsfw-dresden.de/doku.php/doku/funding-foss).
+
 ## tl;dr
 
 Dieser Text beschreibt eine Idee zur Steigerung der Verbreitung und Qualität von freier quelloffener Software (kurz: [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)).

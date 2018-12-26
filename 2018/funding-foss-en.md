@@ -13,6 +13,8 @@ The author is a strong proponent of Free Software and this text is aimed at a li
 The clearly formulated criticism is to be understood on this background.
 The text does not discuss why the promotion of Free Software is desirable, [see (related to the university context)](https://fsfw-dresden.de/programm). The article is heavily inspired by [Colin Percival's plan for open source software maintainers](http://www.daemonology.net/blog/2017-05-11-plan-for-foss-maintainers.html) and discussions in the FSFW groop meetings ("[Plena](https://fsfw-dresden.de#plenum)"). This text was first published in German language: [Funding Freedom Initiative - Idee zur Finanzierung freier Softwareprojekte](https://fsfw-dresden.de/2018/08/funding-floss.html).
 
+The main thoughts of this post are also available as presentation slides prepared for 35C3 in the [fsfw-wiki](https://wiki.fsfw-dresden.de/doku.php/doku/funding-foss).
+
 
 ## Basic Observations
 
@@ -56,8 +58,7 @@ Then of the listed business models  about the half remains:
 4. Voluntary donations
 5. Bounty driven development
 6. Pre-order/crowdfunding/reverse-bounty model
-7. Crowdsourcing
-8. Advertising-supported software
+7. Advertising-supported software
 
 The following approach attempts to combine these models.
 
@@ -70,9 +71,9 @@ The above formulation "voluntary donations" suggests making payments "contrary t
 
 ### Description of the combination model
 
-Suppose, there is an organization (working title: "Funding Freedom Initiative" (FFI)). All FOSS projects interested funding in receiving have registered and have an "account" at the FFI.
+Suppose, there is an organization (working title: "Funding Freedom Initiative" (FFI)). All FOSS projects interested in receiving money have registered and have an "account" at the FFI.
 
-As an end user, you buy a Free Software Support Certificate (Bronze, Silver, Gold, Platinum (e.&#x202F;g. 10, 30, 100, 200 cents a day)). With the money thus received, projects are supported and (to a small extent) the administrative burden is financed.
+As an end user, you buy a Free Software Support Certificate (Bronze, Silver, Gold, Platinum (e.&#x202F;g. 10, 30, 100, 200 cents per day)). With the money thus received, projects are supported and (to a small extent) the administrative burden is financed.
 
 
 #### Why should people spend money on that?
@@ -85,22 +86,22 @@ As an end user, you buy a Free Software Support Certificate (Bronze, Silver, Gol
 
 #### How could the money be distributed?
 
-Billing takes place at certain intervals (e.&#x202F;g. per quarter). The certificate price is divided into four categories (K1-K4):
+Billing takes place at certain intervals (e.&#x202F;g. per quarter). The certificate price is divided into four categories (C1-C4):
 
-**K1 (e.&#x202F;g. 60%)** is distributed to the project accounts according to individual buyer wishes. As a decision support a software is offered (opt-in), which analyzes the local usage behavior and makes suggestions for the distribution. The premise here is: Frequently running programs are subjectively more important. A role model for this is the [Debian Popularity Contest](https://popcon.debian.org/). But of course one can support any projects independently of these suggestions.
+**C1 (e.&#x202F;g. 70%)** is distributed to the project accounts according to individual buyer wishes. As a decision support a software is offered (opt-in), which analyzes the local usage behavior and makes suggestions for the distribution. The premise here is: Frequently running programs are subjectively more important. A role model for this is the [Debian Popularity Contest](https://popcon.debian.org/). But of course one can support any projects independently of these suggestions.
 
-**K2 (e.&#x202F;g. 30%)** will be allocated to project accounts according to the organization. This is based on the assumption that the FFI has a better overview of the projects and can possibly also strategically promote projects with good potential that are not yet sufficiently well-known.
+**C2 (e.&#x202F;g. 20%)** will be allocated to project accounts according to the organization. This is based on the assumption that the FFI has a better overview of the projects and can possibly also strategically promote projects with good potential that are not yet sufficiently well-known.
 
-**K3 (e.&#x202F;g. 10%)** are operating costs (staff and infrastructure of the FFI)
+**C3 (e.&#x202F;g. 10%)** are operating costs (staff and infrastructure of the FFI)
 
-**K4** are material costs (for T-shirts etc.) and will be charged extra. A sticker is available on request but for free. ;-)
+**C4** are material costs (for T-shirts etc.) and will be charged extra. A sticker is available on request but for free. ;-)
 
 
 #### How can embezzlement be prevented?
 
 The allocation of funds is published "crypto-transparent":
 
-When paying you get a token communicated. All sold Support Certificates will be released, including the following data: Token, Grand Total (K1 + K2 + K3) and K1 allocation scheme. As a result, every buyer can convince themselves whether the own certificate is correctly included in the total balance sheet (partial cash flows) and also each project can convince itself that it receives all entitled payments. In addition, everyone can convince themselves that the overall balance works out. The FFI can protect itself against allegations of embezzlement, since all sold certificates are cryptographically signed.
+When paying you get a token communicated. All sold Support Certificates will be published, including the following data: Token, Grand Total (C1 + C2 + C3) and C1 allocation scheme. As a result, every buyer can convince themselves whether the own certificate is correctly included in the total balance sheet (partial cash flows) and also each project can convince itself that it receives all entitled payments. In addition, everyone can convince themselves that the overall balance works out. The FFI can protect itself against allegations of embezzlement, since all sold certificates are cryptographically signed.
 
 
 #### What happens with the money or because of the money?
@@ -111,17 +112,18 @@ When registering The projects pledge themselves to regularly (say two times a ye
 
 - "Could afford to reduce my weekly working hours and spend more time on Project XYZ."
 - "The money was used to pay for an ad campaign (print and online). The download numbers have tripled in that period. We would like to do that again."
-- "Thanks to the money we were able to integrate two employees from our usability team, each with 20% full time, to the project. Additionally, a student assistant has updated the documentary. "
+- "Thanks to the money we were able to integrate two employees from our usability team to the project, each with 20% full time. Additionally, a student assistant has updated the documentary."
 - "We have contracted company XYZ to fix Issue 123. For the future we plan the same with issue 456. "
 - "I see the money as recognition for the work done in the last year. Thanks guys! "(Similar to the Bounty model, see above.)
-- "In the last quarter, issues were mainly addressed that were highly valued by donors. Details: see release notes. "(Corresponds to the reverse bounty model.)
+- "In the last quarter, issues were mainly addressed that were highly valued by donors. Details: see release notes." (Corresponds to the reverse bounty model.)
 
 
 #### Is a separate (new) organization really needed?
 
-For individual projects the fundraising effort is usually too big. That indicates a separate and specialized organization - which not necessarily needs to be new. Possibly an existing organization (obvious example: [Free Software Foundation (FSFE)](https://fsfe.org/)) could implement the idea. Due to the fact that the operating costs (see K3 above) already have been factored in, the project could be self-supporting - within a larger organization or possibly even as a classic start-up with venture capital. A new organization of its own would probably be more agile than an established one with grown structures and internal plurality of opinion. This is offset by the disadvantage that initially it would start with zero outreach and zero credit of trust.
+For individual projects the fundraising effort is usually too big. That indicates a separate and specialized organization - which not necessarily needs to be new. Possibly an existing organization (obvious example: [Free Software Foundation (FSFE)](https://fsfe.org/)) could implement the idea. Due to the fact that the operating costs (see C3 above) already have been factored in, the project could be self-supporting - within a larger organization or possibly even as a classic start-up with venture capital. A new organization of its own would probably be more agile than an established one with grown structures and internal plurality of opinion. This is offset by the disadvantage that initially it would start with zero outreach and zero credit of trust.
 A hybrid approach would be that several established organizations jointly push a new one or support its foundation through their networks.
 
+<a id="criticism"></a>
 #### Potential points of criticisms and possible counterarguments
 
 - *There are already similar attempts (see links below) without any significant success.*
@@ -139,7 +141,7 @@ A hybrid approach would be that several established organizations jointly push a
 - *It is unclear how to deal with projects that already have other funding resource sources (Mozilla, Linux kernel, ...)*
     - Users might decide by themselves on the basis of the above-mentioned reports.
 - *The central role of the FFI could, in the long term, lead to an unwanted dependence of certain projects on the FFI.*
-    - Every FOSS-project, of course, can raise (additional) money on its own. Furthermore, people who think the FFI is too big (concentration of power) can fork it (thanks AGPL etc.). Last but not least, it should be clear that transparency and data frugality and central in the implementation of the FFI. It's not about collecting data and using it for its own benefit, but offering a way to foster and promote FOSS projects.
+    - Every FOSS-project, of course, can raise (additional) money on its own. Furthermore, people who think the FFI is too big (concentration of power) can fork it (thanks AGPL etc.). Last but not least, it should be clear that transparency and data frugality are central in the implementation of the FFI. It's not about collecting data and using it for its own benefit, but offering a way to foster and promote FOSS projects.
 
 #### Potential positive effects
 
@@ -153,7 +155,7 @@ A hybrid approach would be that several established organizations jointly push a
 **Bottom-Up**: 1000 participants (100 Euro daily) would allow to fix a (small) bug every day. This might be the lower bound of long term sustainability and usefulness. At this level operating costs (10 Euro daily) would not suffice and volunteer organizational work would be necessary.
 Beginning with 10K participants (100 Euro daily operating costs) the concept could economically sustain it-self.
 
-**Top Down**: There are estimated to be 1 billion PCs in operation worldwide. As a proxy estimate for confident FLOSS users we refer to Linux's market share as a desktop operating system. It is 1.3% (Source: [statista.com](https://de.statista.com/statistik/daten/studie/157902/umfrage/marktanteil-der-genutzten-betriebssysteme-weltweit-seit-2009/)). Of these, an estimated 10% would buy a certificate for an average price of 10 cents a day. This results in 10^9 (number of PCs) * 0.013 (Linux market share) * 0.1 (willingness to buy) * 0.1 (Euro / day) = 130K Euro per day for investing in the FOSS ecosystem. Depending on the region of the world, these are between 100 and 1000 full-time positions.
+**Top Down**: There are estimated to be 1 billion PCs in operation worldwide. As a proxy estimate for confident FOSS users we refer to Linux's market share as a desktop operating system. It is 1.3% (Source: [statista.com](https://de.statista.com/statistik/daten/studie/157902/umfrage/marktanteil-der-genutzten-betriebssysteme-weltweit-seit-2009/)). Of these, an estimated 10% would buy a certificate for an average price of 10 cents a day. This results in 10^9 (number of PCs) * 0.013 (Linux market share) * 0.1 (willingness to buy) * 0.1 (Euro / day) = 130K Euro per day for investing in the FOSS ecosystem. Depending on the region of the world, these are between 100 and 1000 full-time positions.
 
 Both calculations show that the FFI-idea 1. is not completely utopian and 2. theoretically has great potential.
 
@@ -162,7 +164,7 @@ Note: If it were possible to include the app market of mobile devices, the cake 
 
 ## How to continue?
 
-Text is patient. For something to happen, it usually requires human activity. It is clear that starting such a project only makes sense in coordination with the FOSS community. Therefore the first step is to get feedback . Criticism (errors of reason?, unrealistic assumptions?, "overseen existing solutions"?) and encouragement are both equally important. Experience shows that criticism usually comes by itself :-).
+Text is patient. For something to happen, it usually requires human activity. It is clear that starting such a project only makes sense in coordination with the FOSS community. Therefore the first step is to get feedback. Criticism (errors of reason?, unrealistic assumptions?, "overseen existing solutions"?) and encouragement are both equally important. Experience shows that criticism usually comes by itself :-).
 
 If there is a sufficient amount of positive feedback, possibly even support, the next steps could be taken: consider names and reserving domains, specify the concept on a more detailed level, get legal advice, call for feedback on a larger scale (NGOs, distributors, Reddit, mailing lists), set up infrastructure, start crowdfunding campaign, ...
 
@@ -171,7 +173,7 @@ Nevertheless, [feedback](mailto:kontakt@fsfw-dresden.de) remains the first step.
 
 ## Summary
 
-Those who want good FOSS software, should be ready to do something or pay for it. The "Funding Freedom Initiative" is a proposal for the cooperative distribution of money  from end users to Free Software projects. It aims to increase the spread and the quality of Free and Open Source Software. If you have an opinion regarding this topic we would be glad to hear from you. Feedback to [kontakt@fsfw-dresden.de](mailto:kontakt@fsfw-dresden.de).
+Those who want good FOSS software, should be ready to do something or pay for it. The "Funding Freedom Initiative" is a proposal for the cooperative distribution of money from end users to Free Software projects. It aims to increase the spread and the quality of Free and Open Source Software. If you have an opinion regarding this topic we would be glad to hear from you. Feedback to [kontakt@fsfw-dresden.de](mailto:kontakt@fsfw-dresden.de).
 
 
 ## Potentially relevant links

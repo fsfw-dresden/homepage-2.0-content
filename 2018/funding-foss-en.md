@@ -31,7 +31,7 @@ For free decentralized services (e.g., [Jabber-Server](https://wiki.fsfw-dresden
 The business model (selling software and / or data) generates revenue.
 For this, labor force and public attention can be bought.
 
-### Why does not this work with Free Software?
+### Why does this not work with Free Software?
 An essential feature of Free Software is that no one is excluded from use.
 Although a manufacturer could sell free software,
 they must assume that customers pass on the product - which the free license explicitly allows.

@@ -86,9 +86,13 @@ Andererseits um mittel- und langfristig durch gegenseitige Kooperation noch ein 
     * Free & Open Source Software AG
     * <https://fsinfo.cs.tu-dortmund.de/ags/foss-ag/start>
 
-* HTW Dresden / TU Dresden
+* HTW Dresden / TU Dresden (1)
     * Hochschulgruppe für Freie Software und Freies Wissen
     * <https://fsfw-dresden.de>
+
+* HTW Dresden / TU Dresden (2)
+    * Hochschulpiraten Dresden
+    * <http://hopidd.de/>
 
 *  TU Freiberg
     * Linux User Group

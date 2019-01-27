@@ -58,6 +58,11 @@ Andererseits um mittel- und langfristig durch gegenseitige Kooperation noch ein 
 
 ### Gruppen, die wir bisher kennen
 
+
+* RWTH Aachen
+    * Open Source Arbeitskreis
+    * <https://osak.fsmpi.rwth-aachen.de/index.html>
+
 * FU Berlin
     * Zitat von der Webseite: „Die Mitglieder von spline wollen Freie Software verstehen und fördern.“
     * <https://spline.de>
@@ -72,6 +77,10 @@ Andererseits um mittel- und langfristig durch gegenseitige Kooperation noch ein 
 * Uni Bielefeld / FH Bielefeld
     * digitalcourage Hochschulgruppe
     * <https://digitalcourage.de/hochschulgruppe>
+
+* TU Darmstadt
+    * Hochschulgruppe Computerwerk
+    * <https://www.computerwerk.org/>
 
 * TU Dortmund
     * Free & Open Source Software AG
@@ -88,6 +97,10 @@ Andererseits um mittel- und langfristig durch gegenseitige Kooperation noch ein 
 * Hochschule Furtwangen
     * Unix Friends and User Group
     * <http://www.unfug.org>
+
+* FernUni Hagen
+    * CampusSource ("... vermittelt ... von Hochschulen entwickelte Open Source Software.")
+    * <https://www.campussource.de>
 
 * Uni Kaiserslautern
     * Unix-AG

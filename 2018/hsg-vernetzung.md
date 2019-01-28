@@ -122,6 +122,10 @@ Andererseits um mittel- und langfristig durch gegenseitige Kooperation noch ein 
     * upLUG Hochschulgruppe
     * <http://www.uplug.de/>
 
+* Bauhaus-Uni Weimar
+    * Maschinenraum (Initative des StuKo)
+    * <https://blog.maschinenraum.tk/>
+
 Sicher fehlen in dieser Liste noch Gruppen. Für Aktualisierungsbedarf bitte per [Mail](mailto:kontakt@fsfw-dresden.de) Bescheid sagen.
 
 

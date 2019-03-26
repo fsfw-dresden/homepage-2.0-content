@@ -4,7 +4,7 @@ Category: Artikel
 Tags: Soziale Medien, Gesellschaft, Freie Software
 Slug: fediverse-decday
 Author: Carsten
-Summary: Twitter hat in der Tech-Szene eine weite Verbreitung, ist und bleibt aber eine hochproblematische Plattform. Damit wir nicht länger Teil des Problems sondern Teil der Lösung sind, kann (und sollte) man uns auf Mastodon bzw. über andere Fediverse-Dienste folgen. Um dem Problem Netzwerk-Effekts zu begegnen, schlagen wir eine Doppelpräsenz und eine Regelmäßige Wechselaufforderung unter dem Hashtag #decday vor.
+Summary: Twitter hat in der Tech-Szene eine weite Verbreitung, ist und bleibt aber eine hochproblematische Plattform. Um nicht länger Teil des Problems sondern Teil der Lösung zu sein, kann (und sollte) man uns auf Mastodon bzw. über andere Fediverse-Dienste folgen. Um dem Problem Netzwerk-Effekts zu begegnen, schlagen wir eine Doppelpräsenz und eine Regelmäßige Wechselaufforderung unter dem Hashtag `#decday` vor.
 
 
 Auf Twitter haben wir vor kurzem die 200 Follower-Grenze erreicht und das obwohl wir diese Plattform eigentlich für problematisch halten und deshalb auch eher lieblos bespielen. Das Geschäftsmodell von Twitter basiert auf dem Sammeln und dem Verkauf von Daten über die Nutzer:innen (also uns!) und der Zielpersonen-spezifischen Einblendung von Werbung.
@@ -25,8 +25,12 @@ Man muss sich nicht zwangsläufig gegen Twitter entscheiden, wenn man sich für 
 ### Lösungsansatz 2: regelmäßige Aufrufe dezentrale Alternativen zu nutzen
 Damit das funktioniert, müssen aber erst mal die eigenen Kontakte von der Reduktion der Wechselhürde erfahren bzw. sich vorher überhaupt das "Twitter-Problem" erkennen. Von Vorteil ist dabei, dass soziale Medien sich ganz gut eignen, um Aufmerksamkeit für ein bestimmtes Thema herzustellen. Nach dem Prinzip des steten steinhöhlenden Tropfens kann man also regelmäßig - z.B. immer zu Beginn des Quartals - über Twitter dazu aufrufen, sich Alternativen zu suchen. Wenn Menschen oder Gruppen solche Aufrufe zusammen mit plausiblen Hintergrund-Informationen von verschiedenen Seiten und in sinnvollen Intervallen wiederholt bekommen, dann ist durchaus zu erwarten, dass daraus ernsthafte Beschäftigung mit der Thematik und schließlich konkrete Handlungen erfolgen. Sicher nicht von heute auf morgen, aber Rom wurde ja auch nicht an einem Tag erbaut.
 
-### Kampagnen-Idee
-Auf beiden Plattformen präsent zu sein, ist zugegebenermaßen nicht besonders innovativ. Erwähnenswert ist es trotzdem weil es deutlich *niedrigschwelliger* ist, als Twitter komplett zu verlassen, wie [von manchen](https://medium.com/@hanawalt/heres-why-you-should-delete-your-twitter-account-friday-august-17th-e6ac5c60ea) vorgeschlagen wird. Die Strategie, das Problem regelmäßig, nachvollziehbar und im Idealfall abgestimmt mit anderen auf den Tisch zu legen, scheint dagegen noch nicht besonders verbreitet zu sein. Um einer solchen Wechsel-Kampagne Schwung zu verleihen, kann ein passender Hashtag helfen. Unser Vorschlag: `#decday` (für decentralization day). Mit genügend Aufmerksamkeit könnte man dan ggf. auch größere Mainstream-Medien-Akteure dazu bringen, nicht mehr (einseitig) auf Twitter zu setzen. Es wäre verwunderlich, wenn der Widerspruch des eigenen Verhaltens ("Folgen Sie uns auf Twitter!") zur durchaus bisweilen kritischen Berichterstattung dort noch niemandem aufgefallen wäre.
+### Kampagnen-Idee: Hashtag #decday
+Auf beiden Plattformen präsent zu sein, ist zugegebenermaßen nicht besonders innovativ. Erwähnenswert ist es trotzdem weil es deutlich *niedrigschwelliger* ist, als Twitter komplett zu verlassen, wie [von manchen](https://medium.com/@hanawalt/heres-why-you-should-delete-your-twitter-account-friday-august-17th-e6ac5c60ea) vorgeschlagen wird. Die Strategie, das Problem regelmäßig, nachvollziehbar und im Idealfall abgestimmt mit anderen auf den Tisch zu legen, scheint dagegen noch nicht besonders verbreitet zu sein. Um einer solchen Wechsel-Kampagne Schwung zu verleihen, kann ein passender Hashtag helfen. Unser Vorschlag:
+
+    Hashtag: #decday
+
+(für decentralization day). Mit genügend Aufmerksamkeit könnte man dan ggf. auch größere Mainstream-Medien-Akteure dazu bringen, nicht mehr (einseitig) auf Twitter zu setzen. Es wäre verwunderlich, wenn der Widerspruch des eigenen Verhaltens ("Folgen Sie uns auf Twitter!") zur durchaus bisweilen kritischen Berichterstattung dort noch niemandem aufgefallen wäre.
 
 
 ### Mastodon ist nicht perfekt - aber besser

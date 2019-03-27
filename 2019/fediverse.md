@@ -30,7 +30,7 @@ Auf beiden Plattformen präsent zu sein, ist zugegebenermaßen nicht besonders i
 
     Hashtag: #decday
 
-(für decentralization day). Mit genügend Aufmerksamkeit könnte man dan ggf. auch größere Mainstream-Medien-Akteure dazu bringen, nicht mehr (einseitig) auf Twitter zu setzen. Es wäre verwunderlich, wenn der Widerspruch des eigenen Verhaltens ("Folgen Sie uns auf Twitter!") zur durchaus bisweilen kritischen Berichterstattung dort noch niemandem aufgefallen wäre.
+(für decentralization day). Mit genügend Aufmerksamkeit könnte man dann ggf. auch größere Mainstream-Medien-Akteure dazu bringen, nicht mehr (einseitig) auf Twitter zu setzen. Es wäre verwunderlich, wenn der Widerspruch des eigenen Verhaltens ("Folgen Sie uns auf Twitter!") zur durchaus bisweilen kritischen Berichterstattung dort noch niemandem aufgefallen wäre.
 
 
 ### Mastodon ist nicht perfekt - aber besser

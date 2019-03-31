@@ -1,10 +1,10 @@
 Title: Fediverse first, twitter second! #decday
-Date: 2019-03-30 18:00
+Date: 2019-03-31 22:00
 Category: Artikel
 Tags: Soziale Medien, Gesellschaft, Freie Software
 Slug: fediverse-decday
 Author: Carsten
-Summary: Twitter hat in der Tech-Szene eine weite Verbreitung, ist und bleibt aber eine hochproblematische Plattform. Um nicht länger Teil des Problems sondern Teil der Lösung zu sein, kann (und sollte) man uns auf Mastodon bzw. über andere Fediverse-Dienste folgen. Um dem Problem Netzwerk-Effekts zu begegnen, schlagen wir eine Doppelpräsenz und eine Regelmäßige Wechselaufforderung unter dem Hashtag `#decday` vor.
+Summary: Twitter hat in der Tech-Szene eine weite Verbreitung, ist und bleibt aber eine hochproblematische Plattform. Um nicht länger Teil des Problems sondern Teil der Lösung zu sein, kann (und sollte) man uns auf [Mastodon](https://social.tchncs.de/@fsfwdresden) bzw. über andere Fediverse-Dienste folgen. Um dem Problem Netzwerk-Effekts zu begegnen, schlagen wir eine Doppelpräsenz und eine Regelmäßige Wechselaufforderung unter dem Hashtag `#decday` vor.
 
 
 Auf Twitter haben wir vor kurzem die 200 Follower-Grenze erreicht und das obwohl wir diese Plattform eigentlich für problematisch halten und deshalb auch eher lieblos bespielen. Das Geschäftsmodell von Twitter basiert auf dem Sammeln und dem Verkauf von Daten über die Nutzer:innen (also uns!) und der Zielpersonen-spezifischen Einblendung von Werbung.
@@ -56,6 +56,7 @@ Selbst die [eigenen Regeln werden dabei missachtet](https://medium.com/@hanawalt
 - Twitter hat eine de facto-Monopolstellung inne und kann nach eigenem Gutdünken die Verbreitung von Information befördern oder behindern. Das steht im eklatanten Widerspruch zum Prinzip der Gewaltenteilung, welches von zentraler Bedeutung für demokratische Gesellschaften ist.
 - Selbst wenn man der Aktiengesellschaft Twitter aktuell und in Zukunft die besten Absichten unterstellte, ist eine zentralisierte Infrastruktur anfällig für Einflussnahme und Störungen. Böswillige Akteure (z.B. antidemokratische Regime) haben einen zentralen Zugriffspunkt auf die Kommunikation
 - Twitter hat sein Nutzungserlebnis so gestaltet, dass es ein erhebliches [Suchtpotential](https://www.newstatesman.com/science-tech/social-media/2017/04/mastodonsocial-why-does-every-new-twitter-fail) aufweist. Wenn man das einmal erkannt hat, sollte man sich schleunigst eine Exitstrategie überlegen.
+- Die Maston-API ermöglicht gute Clients (z.B. [Halcyon](http://twitter.rixx.de), der sich "anfühlt" wie Twitter) inklusive Echtzeit-Benachrichtigung und auch Favs - während Twitter sich immer weiter einhegt.
 
 
-Für Ergänzungen zu dieser Liste und Kommentare zum ganzen Artikel sind wir sehr gerne über unsere [Kontakt-Adresse](https://fsfw-dresden.de/#kontakt) erreichbar.
+Für Ergänzungen zu dieser Liste, Kommentare zum ganzen Artikel und Meinungen zum `#decday`-Konzept sind wir sehr gerne über unsere [Kontakt-Adresse](https://fsfw-dresden.de/#kontakt) oder über [Mastodon](https://social.tchncs.de/@fsfwdresden) erreichbar.

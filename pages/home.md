@@ -50,7 +50,7 @@ Template: page_raw
     <section id="bits-und-baeume" class="news">
     <span datetime="2019-05-09">09.05.2019</span>
     <h3>Bits&Bäume Dresden</h3>
-    Die FSFW beteiligt sich an der Organisation der <strong>Bits&Bäume Dresden</strong>. Bei dieser Vortrags- und Diskussionsveranstaltung (Do. 23.05.2019, 18:30) geht es um die Wechselwirkungen der beiden existenziellen Herausforderungen des 21. Jahrhunderts: <em>Digitalisierung und Nachhaltigkeit</em> - und der jeweiligen zivilgesellschaftlichen Gruppen. Mehr Infos: <a href="//dresden.bits-und-baeume.org">dresden.bits-und-baeume.org</a>
+    Die FSFW beteiligt sich an der Organisation der <strong>Bits&Bäume Dresden</strong>. Bei dieser Vortrags- und Diskussionsveranstaltung (Do. 23.05.2019, 18:30) geht es um die Wechselwirkungen der beiden existenziellen Herausforderungen des 21. Jahrhunderts: <em>Digitalisierung und Nachhaltigkeit</em> - und der jeweiligen zivilgesellschaftlichen Gruppen. Mehr Infos: <a href="//dresden.bits-und-baeume.org">dresden.bits-und-baeume.org</a>.
     </section>
     <section id="latex-sprechstunde" class="news">
         <h3>FSFW Sprechstunde</h3>

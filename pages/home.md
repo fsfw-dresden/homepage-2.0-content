@@ -47,23 +47,22 @@ Template: page_raw
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
+    <section id="bits-und-baeume" class="news">
+    <span datetime="2019-05-09">09.05.2019</span>
+    <h3>Bits&Bäume Dresden</h3>
+    Die FSFW beteiligt sich an der Organisation der <strong>Bits&Bäume Dresden</strong>. Bei dieser Vortrags- und Diskussionsveranstaltung (Do. 23.05.2019, 18:30, APB 023) geht es um die Wechselwirkungen der beiden existenziellen Herausforderungen des 21. Jahrhunderts: <em>Digitalisierung und Nachhaltigkeit</em> - und der jeweiligen zivilgesellschaftlichen Gruppen. Mehr Infos: <a href="//dresden.bits-und-baeume.org">dresden.bits-und-baeume.org</a>.
+    </section>
+    <section id="latex-sprechstunde" class="news">
+        <h3>FSFW Sprechstunde</h3>
+        <p>Wir bieten seit über vier Jahren regelmäßig eine öffentliche “Sprechstunde” an zur Unterstützung bei
+           Fragen zum freien Text-Satzsystem LaTeX, zu Libre- bzw. OpenOffice, zu <a href="//fsfw-dresden.de/gpg">Mailverschlüsselung</a>
+           und allgemein zu Fragen rund um freie Software im Studium.</p>
+        <p>Einfach mal vorbeikommen… Nähere Infos, Termine, Ort unter <a href="//fsfw-dresden.de/sprechstunde">fsfw-dresden.de/sprechstunde</a>.
+    </section>
     <section id="ringvorlesung" class="news">
         <span datetime="2018-10-09">09.10.2018</span>
         <h3>Ringvorlesung im Wintersemester 2018/2019: Freie Software und Freies Wissen als Beruf</h3>
         <p>Die FSFW organisiert im Wintersemester eine Ringvorlesung. Alle Details sind unter <a href="//fsfw-dresden.de/ringvorlesung">fsfw-dresden.de/ringvorlesung</a> zu finden.</p>
-    </section>
-    <section id="blog-interview-sander" class="news">
-        <span datetime="2018-06-14">14.06.2018</span>
-        <h3>Interview zum Thema „Finanzierung von freier Software“ mit Prof. Sander</h3>
-        <p>Wir sprachen mit Prof. Oliver Sander aus der Fakultät Mathematik über Möglichkeiten der Finanzierung von Entwicklung freier Software. Das Interview ist nun <a href="/2018/06/interview-sander-finanzierung-freie-software.html">in unserem Blog online</a>!</p>
-    </section>
-    <section id="latex-sprechstunde" class="news">
-        <span datetime="2018-05-23">23.05.2018</span>
-        <h3>FSFW Sprechstunde</h3>
-        <p>Wir bieten seit über drei Jahren regelmäßig eine öffentliche “Sprechstunde” an zur Unterstützung bei
-           Fragen zum freien Text-Satzsystem LaTeX, zu Libre- bzw. OpenOffice, zu <a href="//fsfw-dresden.de/gpg">Mailverschlüsselung</a>
-           und allgemein zu Fragen rund um freie Software im Studium.</p>
-        <p>Einfach mal vorbeikommen… Nähere Infos, Termine, Ort unter <a href="//fsfw-dresden.de/sprechstunde">fsfw-dresden.de/sprechstunde</a>.
     </section>
 </section>
 <hr>

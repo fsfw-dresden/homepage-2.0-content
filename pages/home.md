@@ -50,7 +50,12 @@ Template: page_raw
     <section id="bits-und-baeume" class="news">
     <span datetime="2019-05-09">09.05.2019</span>
     <h3>Bits&Bäume Dresden</h3>
-    Die FSFW beteiligt sich an der Organisation der <strong>Bits&Bäume Dresden</strong>. Bei dieser Vortrags- und Diskussionsveranstaltung (Do. 23.05.2019, 18:30, APB 023) geht es um die Wechselwirkungen der beiden existenziellen Herausforderungen des 21. Jahrhunderts: <em>Digitalisierung und Nachhaltigkeit</em> - und der jeweiligen zivilgesellschaftlichen Gruppen. Mehr Infos: <a href="//dresden.bits-und-baeume.org">dresden.bits-und-baeume.org</a>.
+    Die FSFW beteiligt sich an der Organisation der <strong>Bits&Bäume Dresden</strong>. Bei dieser Vortrags- und Diskussionsveranstaltung (Do. 23.05.2019, 18:30, APB 023) geht es um die Wechselwirkungen der beiden existenziellen Herausforderungen des 21. Jahrhunderts: <em>Digitalisierung und Nachhaltigkeit</em> - und der jeweiligen zivilgesellschaftlichen Gruppen. Mehr Infos: <a href="https://dresden.bits-und-baeume.org">dresden.bits-und-baeume.org</a>.
+    </section>
+    <section id="lpd2019-1" class="news">
+    <span datetime="2019-05-01">01.05.2019</span>
+    <h3>Linux Presentation Day 2019.1</h3>
+    Der C3D2 organisiert den <a href="https://c3d2.de/news/event-20190518-lpd19-1.html">Linux Presentation Day 2019.1</a> (Samstag 18.05.2019, ab 10:00 Uhr, <a href="http://m.osmtools.de/0qe7A32je5H0qe1832jd84">Technische Sammlungen Dresden</a>). Die FSFW ist auch mit dabei.
     </section>
     <section id="latex-sprechstunde" class="news">
         <h3>FSFW Sprechstunde</h3>

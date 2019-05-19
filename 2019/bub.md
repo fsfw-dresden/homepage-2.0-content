@@ -4,7 +4,7 @@ Category: Artikel
 Tags: Gesellschaft, Freie Software, Nachhaltigkeit
 Slug: bub-vernetzung
 Author: Carsten
-Summary: Zusammenfassung
+Summary: Beide Bewegungen haben eine Reihe von Gemeinsamkeiten und sollten - zum beiderseitigen Vorteil - stärker in Austausch treten. Das ist zwar anstrengend, weil es das Verlassen der Kompfortzone der eigenen Blase impliziert, birgt aber für beide das Potenzial, die Reichweite in den gesellschaftlichen Mainstream deutlich zu vergrößern. Unter der Überschrift "Bits&Bäume" fand Ende 2018 eine erste große Konferenz statt, um diesen Austausch zu ermöglichen. Derzeit wird das Konzept *dezentralisiert* und die FSFW ist in die Organisation des ersten lokalen Bits&Bäume-Seitentriebs involviert: [Bits&Bäume Dresden](http://dresden.bits-und-baeume.org/).
 
 
 
@@ -14,7 +14,7 @@ Beide befassen sich mit den beiden existenziellen Herausforderungen unserer Zeit
 
 Beide Communities haben jeweils spezielle Probleme erkannt und schlagen spezielle Lösungsansätze vor. **Beide Gruppen leiden darunter, dass sie aus ihrer jeweils eigenen Blase nur sehr schwer rauskommen**, was das Erzielen von Aufmerksamkeit für Probleme und vor allem für Lösungsansätze angeht. Beide haben in der Vergangenheit spezifische Erfahrungen gesammelt, Kompetenzen aufgebaut, Netzwerke geknüpft. Darum liegt es nahe, die beiden bisher weitgehend **isolierten Blasen in Austausch zu bringen**. **Dieser Aufmerksamkeitsschub könnte auf beiden Seiten Frustration abbauen und Motivation erzeugen**. Dabei können und müssen beide Communities viel über ihre Kommunikation lernen. Z.B.: *Wie kann man den FridaysForFuture-Schüler:innen erklären, dass WhatsApp und Instagram keine solide Basis für eine Nachhaltigkeitsbewegung darstellen?*, und *Wie schafft man unter den Teilnehmenden der GulaschProgrammierNacht ein Bewusstsein für die mit Fleischkonsum einhergehenden Probleme?*
 
-Diese **kommunikativen Lernprozesse** sind anstrengend, aber sie bieten das Potential, die Reichweite in den Rest der Gesellschaft (briefmarkensammelnde Dynamo-Fans und kleingärtnernde Roland-Kaiser-Groopies) zu vergrößern. Der erste absehbare Schritt dafür ist es, **die wahrgenommenen Probleme so zu erklären, dass sie auch außerhalb der eigenen Blase** nicht nur oberflächlich zur Kenntnis genommen ("Jährlich ein neues Smartphone zu kaufen, ist ökologisch nicht so cool"[1]) sondern **in ihrer vollen Tragweite erkannt werden** ("Die aktuelle Produktions- und Nutzungsweise von Elektronikgeräten wandelt unter teils ünwürdigen und gesundheitsschädlichen Arbeitsbedingungen mit mit enormem Energieaufwand wertvolle Rohstoffe in giftigen Abfall um - bei gleichgültiger Inkaufnahme blutiger Konflikten und  massiver Umweltschäden.")
+Diese **kommunikativen Lernprozesse** sind anstrengend, aber sie bieten das Potential, die Reichweite in den Rest der Gesellschaft zu vergrößern. Der erste absehbare Schritt dafür ist es, **die wahrgenommenen Probleme so zu erklären, dass sie auch außerhalb der eigenen Blase** nicht nur oberflächlich zur Kenntnis genommen ("Jährlich ein neues Smartphone zu kaufen, ist ökologisch nicht so cool"[1]) sondern **in ihrer vollen Tragweite erkannt werden** ("Die aktuelle Produktions- und Nutzungsweise von Elektronikgeräten wandelt unter teils ünwürdigen und gesundheitsschädlichen Arbeitsbedingungen mit mit enormem Energieaufwand wertvolle Rohstoffe in giftigen Abfall um - bei gleichgültiger Inkaufnahme blutiger Konflikten und  massiver Umweltschäden.")
 
 Die **[Konferenz Bits&Bäume 2018](http://bits-und-baeume.org/)** hat einen sehr wichtigen Beitrag zu dieser notwendigen Vernetzung geleistet. Jetzt kommt es auf die Communities an, diesen Faden aufzunehmen und weiterzuspinnen statt ihn im Alltagsrauschen abreißen zu lassen. Die Organisator:innen der Konferenz rufen dazu auf, eigene lokale Veranstaltungen zum Themenkomplex Digitalisierung und Nachhaltigkeit zu organisieren, die Sensibilisierung und den Vernetzungsgedanke in die Fläche zu tragen. [Dafür stehen das Label "Bits&Bäume", die Domain und PR-Reichweite zur Verfügung](https://bits-und-baeume.org/waechst/de).
 
@@ -22,3 +22,5 @@ Die erste solche Veranstaltung - die [Bits&Bäume Dresden](http://dresden.bits-u
 
 
 Carsten ([B&B-DD-Orgateam](http://dresden.bits-und-baeume.org/))
+
+Hinweis: Dieser Beitrag erschien zuerst im [Blog der TU-Umweltinitiative](https://tuuwi.de/2019/05/18/bitsbaeume-warum-sich-die-hacking-und-die-oekobewegung-staerker-vernetzen-sollten/).

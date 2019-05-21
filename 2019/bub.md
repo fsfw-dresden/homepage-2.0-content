@@ -1,5 +1,5 @@
 Title: Bits&Bäume - Warum sich die Hacking- und die Ökobewegung stärker vernetzen sollten
-Date: 2019-05-19 18:00
+Date: 2019-05-21 17:00
 Category: Artikel
 Tags: Gesellschaft, Freie Software, Nachhaltigkeit
 Slug: bub-vernetzung

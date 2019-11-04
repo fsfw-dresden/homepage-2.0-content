@@ -25,21 +25,11 @@ Template: page_raw
         <dl>
             <dt>Datum &amp; Uhrzeit</dt>
             <dd>
-                <span class="rrule" title="freq=weekly;interval=2;byday=th;byhour=18;byminute=30;">Jeden <b>Donnerstag</b> in ungeraden Wochen ab 18:30 Uhr</span>
-                <span class="hidden dtstart" title="2015-01-14"> seit dem 14.01.2015</span>
+                <span class="rrule">Jeden <b>Montag</b> in geraden Wochen ab 18:15 Uhr</span>
             </dd>
             <dt>Ort</dt>
             <dd>
-                <div id="contact" class="vcard">
-                <div id="postal-address" class="adr">
-                    <span class="extended-address"><strong>SLUB Dresden, Hauptgebäude</strong> <a href="http://3d.slub-dresden.de/viewer?project_id=3&amp;language=de&amp;activate_location=3022" target="_blank">Raum -2.115</a></span><br>
-                    <span class="street-address">Zellescher Weg 18</span><br>
-                    <span class="postal-code">01069</span>
-                    <span class="locality">Dresden</span><br>
-                    <span class="region">SN</span>
-                    <span class="country-name">Germany</span>
-                </div>
-                </div>
+                APB, E069.
             </dd>
         </dl>
     </section>
@@ -47,6 +37,12 @@ Template: page_raw
 <hr>
 <section id="news">
     <h2>Aktuelles</h2>
+    <section id="uni-stick" class="news">
+    <span datetime="2019-04-11">04.11.2019</span>
+    <h3>Ausgabe des FSFW-Uni-Sticks</h3>
+    Die 4. Version des FSFW-UniSticks, eines USB-Sticks randvoll mit nützlicher freier Software fürs Studium, ist fertig! Die Ausgabe-Veranstaltung findet am 04.11.2019 ab 18:30 Uhr im Hörsaal APB 023 statt. Weitere Infos:
+    <a href="https://fsfw-dresden.de/uni-stick">https://fsfw-dresden.de/uni-stick</a>.
+    </section>
     <section id="bits-und-baeume" class="news">
     <span datetime="2019-05-09">09.05.2019</span>
     <h3>Bits&Bäume Dresden</h3>
@@ -63,11 +59,6 @@ Template: page_raw
            Fragen zum freien Text-Satzsystem LaTeX, zu Libre- bzw. OpenOffice, zu <a href="//fsfw-dresden.de/gpg">Mailverschlüsselung</a>
            und allgemein zu Fragen rund um freie Software im Studium.</p>
         <p>Einfach mal vorbeikommen… Nähere Infos, Termine, Ort unter <a href="//fsfw-dresden.de/sprechstunde">fsfw-dresden.de/sprechstunde</a>.
-    </section>
-    <section id="ringvorlesung" class="news">
-        <span datetime="2018-10-09">09.10.2018</span>
-        <h3>Ringvorlesung im Wintersemester 2018/2019: Freie Software und Freies Wissen als Beruf</h3>
-        <p>Die FSFW organisiert im Wintersemester eine Ringvorlesung. Alle Details sind unter <a href="//fsfw-dresden.de/ringvorlesung">fsfw-dresden.de/ringvorlesung</a> zu finden.</p>
     </section>
 </section>
 <hr>

@@ -4,11 +4,14 @@ Category: Artikel
 Tags: Bildung, Freie Software,
 Slug: freie-Software-in-der-Bildung--Plaedoyer
 Author: Carsten
+img_url: /img/student-notebook-pixabay.jpg
 Summary: Ohne Software keine Digitalisierung. Software steuert alle digitalisierten Prozesse. Der aktuelle Digitalisierungsschub der Gesellschaft und insbesondere des Bildungssystems wirft daher die Frage auf, welche Art von Software wir einsetzen und welche Konsequenzen damit verbunden sind. Dieser Beitrag beleuchtet die Unterschiede zwischen proprietärer und freier Software und begründet, warum letztere besonders im Bildungsbereich die normativ bessere Wahl ist.
 
 
 
 ---
+
+<!-- image source: https://pixabay.com/de/photos/sch%C3%BCler-schwierig-lesen-denken-3038994/ -->
 
 Dieser Beitrag entsteht aus der Beschäftigung mit der Plattform <https://wirlernenonline.de/>, einem Projekt des [Bündnis Freie Bildung](https://buendnis-freie-bildung.de/).
 

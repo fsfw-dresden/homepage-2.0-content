@@ -13,7 +13,12 @@ Summary: Ohne Software keine Digitalisierung. Software steuert alle digitalisier
 
 <!-- image source: https://pixabay.com/de/photos/sch%C3%BCler-schwierig-lesen-denken-3038994/ -->
 
+<!--  leicht abgewandelt: https://wirlernenonline.de/open-source-von-der-wichtigkeit-freier-software-im-bildungsbereich/ -->
+
 Dieser Beitrag entsteht aus der Beschäftigung mit der Plattform <https://wirlernenonline.de/>, einem Projekt des [Bündnis Freie Bildung](https://buendnis-freie-bildung.de/).
+
+
+
 
 ---
 

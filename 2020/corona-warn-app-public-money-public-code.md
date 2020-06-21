@@ -4,18 +4,20 @@ Category: Artikel
 Tags: Freie Software, Corona, Digitalisierung, Gesellschaft, Finanzierung
 Slug: CoronaWarnApp-public-money-public-code
 Author: Carsten
-Summary: Die CoronaWarnApp ist zur Zeit das prominenteste Beispiel für Software die im öffentlichen Auftrag erstellt wird. Richtigerweise wurde sie von Anfang an als Freie Software veröffentlicht. Der Beitrag analysiert, wie aus dieser aktuellen Situation (+ Digitalisierungsschub + öffentliche Sensibilität für Vertrauenswürdigkeit von Software) mehr Unterstützung für die Kampagne [Public Money? Public Code!](https://publiccode.eu/de/openletter/) bzw. generell für die öffentliche Unterstützung freier Software generiert werden kann.
+Summary: Die CoronaWarnApp, obgleich inhaltlich kontrovers diskutiert, ist zur Zeit das prominenteste Beispiel für Software, die im öffentlichen Auftrag erstellt wird. Richtigerweise wurde sie von Anfang an als Freie Software veröffentlicht. Der Beitrag analysiert, wie aus dieser aktuellen Situation (+ Digitalisierungsschub + öffentliche Sensibilität für Vertrauenswürdigkeit von Software) mehr Unterstützung für die Kampagne [Public Money? Public Code!](https://publiccode.eu/de/openletter/) bzw. generell für die öffentliche Unterstützung Freier Software generiert werden kann.
 
 
 
-vor ein paar Tagen ist die [CoronaWarnApp](https://www.coronawarn.app/de/faq/) als Freie Software (Apache-2.0-Lizenz) veröffentlicht worden und hat medial ein signifikantes Echo ausgelöst.
+Vor ein paar Tagen ist die [CoronaWarnApp](https://www.coronawarn.app/de/faq/) als Freie Software (Apache-2.0-Lizenz) veröffentlicht worden. Die Reaktionen auf die App als solche sind – wenig überraschend in einer pluralen Gesellschaft – kontrovers. Beispielhaft sei auf Stellungnahmen von [digitalcourage e.V.](https://digitalcourage.de/blog/2020/corona-warn-app) und [Linus Neumann (Sprecher des CCC))](https://www.tagesschau.de/multimedia/video/video-716397.html) verwiesen.
 
-Inzwischen ist auch klar, dass dafür signifikant öffentliches Geld geflossen ist ([Tagesschau](https://www.tagesschau.de/inland/corona-app-downloads-101.html), [Spiegel](https://www.spiegel.de/netzwelt/apps/corona-warn-app-wie-erklaeren-sich-die-gesamtkosten-von-68-millionen-euro-a-56b5abe1-e0a6-4b1c-9177-9066df3d9b14)). Und genau da sollte die FOSS-Comunity ansetzen.
+
+
+Unabhängig von der individuellen Risiko-Nutzen-Einschätzung bezüglich der App, lässt festhalten, dass die demokratisch legitimierte Exekutive ein öffentliches Interesse an der der App erkannt und dafür öffentliches Geld in erheblichem Umfang bereitgestellt hat (siehe z.&#x202F;B. [Tagesschau](https://www.tagesschau.de/inland/corona-app-downloads-101.html), [Spiegel](https://www.spiegel.de/netzwelt/apps/corona-warn-app-wie-erklaeren-sich-die-gesamtkosten-von-68-millionen-euro-a-56b5abe1-e0a6-4b1c-9177-9066df3d9b14)). Und genau da sollte die FOSS-Comunity ansetzen.
 
 Für mich stellt sich die Geschichte (vereinfacht) so dar:
 
 - Regierung plant zentralistische App
-- Zivilgesellschaft übt gut begründete sachliche Kritik
+- Zivilgesellschaft übt gut begründete sachliche Kritik (siehe z.&#x202F;B. [offener Brief des CCC](https://www.ccc.de/de/updates/2020/corona-tracing-app-offener-brief-an-bundeskanzleramt-und-gesundheitsminister))
 - schlechte Akzeptanz wird befürchtet
 - Regierung ändert Konzept: datensparsam, dezentral und quelloffen
 - Zivilgesellschaft ist [vergleichsweise zufrieden](https://netzpolitik.org/2020/vieles-doch-noch-richtig-gemacht/)

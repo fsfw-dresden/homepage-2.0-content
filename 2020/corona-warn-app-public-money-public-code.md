@@ -43,7 +43,9 @@ Gemeinschaftsexpertise sind. Siehe auch [Positition der FSFE](https://fsfe.org/n
 
 4. Aufkeimendes gesammtgesellschaftliches Bewusstsein für problematische Abhängigkeiten von globalen Liefer- und Serviceketten. Freie Software ermöglicht den Aufbau lokaler Expertise.
 
-5. Fortdauernde Gültigkeit bestehender Problemwahrnehmung. Exemplarisch: ["Das Microsoft-Dilemma – Europa als Software Kolonie"](https://www.youtube.com/watch?v=_ZaDuinGf2o) (ARD Reportage, 19.02.2018)
+5. Die aktuelle Bereitschaft des Staates Geld auszugeben um die Konjunktur zu unterstützen. Siehe auch das wieder gültige Editorial auf [pro-linux.de](https://www.pro-linux.de/artikel/2/801/freie-software-%C3%B6ffentlich-f%C3%B6rdern.html).
+
+6. Fortdauernde Gültigkeit bestehender Problemwahrnehmung. Exemplarisch: ["Das Microsoft-Dilemma – Europa als Software Kolonie"](https://www.youtube.com/watch?v=_ZaDuinGf2o) (ARD Reportage, 19.02.2018)
 
 
 ## Handlungsmöglichkeiten

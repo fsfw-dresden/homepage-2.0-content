@@ -1,5 +1,5 @@
 Title: CoronaWarnApp – Rückenwind für Public Money? Public Code!
-Date: 2020-06-21 22:00
+Date: 2020-06-23 18:30
 Category: Artikel
 Tags: Freie Software, Corona, Digitalisierung, Gesellschaft, Finanzierung
 Slug: CoronaWarnApp-public-money-public-code
@@ -33,18 +33,15 @@ Wenn die Gestaltung der Digitalisierung immer so stattfinden würde, wären wir 
 
 1. Die CoronaWarnApp als prominentes Beispiel für _Freie Software im öffentlichen Interesse_ zeigt, wie wichtig Transparenz, Vertrauenswürdigkeit und der Einbezug der Gemeinschaftsexpertise sind. Siehe oben bzw. auch die [Positition der FSFE](https://fsfe.org/news/2020/news-20200402-02.html).
 
-2. Einige bedeutende Beschlüsse in der jüngeren Vergangenheit pro freier Software:
-    - [CDU](https://netzpolitik.org/2020/was-bedeutet-der-cdu-beschluss-zum-einsatz-freier-software/)
-    - [München](https://www.linux-magazin.de/news/muenchen-plant-digitalisierung-und-will-moeglichst-freie-software/)
-    - [Hamburg](https://fsfe.org/news/2020/news-20200610-01.de.html)
+2. In der jüngeren Vergangenheit gab es mehrere bedeutende Beschlüsse zu Gunsten Freier Software ([CDU](https://netzpolitik.org/2020/was-bedeutet-der-cdu-beschluss-zum-einsatz-freier-software/), [München](https://www.linux-magazin.de/news/muenchen-plant-digitalisierung-und-will-moeglichst-freie-software/),      [Hamburg](https://fsfe.org/news/2020/news-20200610-01.de.html)).
 
-3. Enormer Digitalisierungsschub der Gesellschaft durch die Pandemie
+3. Der Pandemie-bedingte Digitalisierungsschub der Gesellschaft erzeugt zusätzliche öffentliche Aufmerksamkeit.
 
-4. Aufkeimendes gesammtgesellschaftliches Bewusstsein für problematische Abhängigkeiten von globalen Liefer- und Serviceketten. Freie Software ermöglicht den Aufbau lokaler Expertise.
+4. Ebenfalls herrscht aktuell ein gesammtgesellschaftliches Bewusstsein für problematische Abhängigkeiten von globalen Liefer- und Serviceketten. Öffentliche Investitionen in Freie Software ermöglichen den Aufbau lokaler Expertise und lokale Wertschöpfung.
 
-5. Die aktuelle Bereitschaft des Staates Geld auszugeben um die Konjunktur zu unterstützen. Siehe auch das wieder gültige Editorial auf [pro-linux.de](https://www.pro-linux.de/artikel/2/801/freie-software-%C3%B6ffentlich-f%C3%B6rdern.html).
+5. Es gibt derzeit die Bereitschaft des Staates massiv Geld auszugeben, um die Konjunktur zu unterstützen. Investitionen in Freie Software wären eine sinnvolle und nachhaltige Konjunkturmaßnahme, weil das Geld in innovative Arbeitskraft statt in Energie- und Rohstoffverbrauch fließen würde. Siehe auch [#Bits&amp;Bäume](bits-und-baeume.org/forderungen/) und ["Freie Software öffentlich fördern – Wie ein sinnvolles Konjunkturpaket aussehen könnte"](https://www.pro-linux.de/artikel/2/801/freie-software-%C3%B6ffentlich-f%C3%B6rdern.html) (pro-linux.de, Januar 2009).
 
-6. Fortdauernde Gültigkeit bestehender Problemwahrnehmung. Exemplarisch: ["Das Microsoft-Dilemma – Europa als Software Kolonie"](https://www.youtube.com/watch?v=_ZaDuinGf2o) (ARD Reportage, 19.02.2018)
+6. Zu diesen aktuellen Gründen kommt das Fortdauern schon lange bestehender Problemlagen. Exemplarisch: ["Das Microsoft-Dilemma – Europa als Software Kolonie"](https://www.youtube.com/watch?v=_ZaDuinGf2o) (ARD Reportage, 19.02.2018).
 
 
 ## Handlungsmöglichkeiten
@@ -55,9 +52,6 @@ Basierend auf dieser Analyse bieten sich folgende individuelle Handlungsmöglich
     - Entsprechendem [Github-Issue](https://github.com/corona-warn-app/cwa-documentation/issues/265)  zustimmen oder es kommentieren.
     - Der [fragdenstaat.de-Anfrage](https://fragdenstaat.de/anfrage/finanzierung-der-coronawarnapp/) folgen.
 2. Medien-Vertreter:innen oder Entscheidungsträger:innen auf die Zusammenhänge zwischen Pandemie, Digitalisierung, CoronaWarnApp und Freier Software ansprechen.
-3. Interessenvertretungen (FSFE, DigitalCourage, Gesellschaft für Informatik) dazu ermuntern, ein gemeinsames Positionspapier (mit aktuellem Bezug) zu verfassen.
-4. Abgeordnete in Parlamenten bzw. Delegierte in Parteigremien dazu ermuntern, entsprechende Anfragen oder Anträge einzureichen und inhaltliche Unterstützung anzubieten.
-
-
-
+3. Interessenvertretungen (CCC, FSFE, DigitalCourage, Gesellschaft für Informatik) dazu ermuntern, ein gemeinsames Positionspapier (mit aktuellem Bezug) zu verfassen und zu verbreiten.
+4. Abgeordnete in Parlamenten bzw. Delegierte in Parteigremien dazu ermuntern, entsprechende Anfragen oder Anträge einzureichen. Da meist die digitalisierungsspezifische Sachkenntnis fehlt, sollte inhaltliche Unterstützung bzw. die Möglickeit zur Diskussion angeboten
 

@@ -1,5 +1,5 @@
 Title: CoronaWarnApp – Rückenwind für Public Money? Public Code!
-Date: 2020-06-23 18:30
+Date: 2020-06-23 20:00
 Category: Artikel
 Tags: Freie Software, Corona, Digitalisierung, Gesellschaft, Finanzierung
 Slug: CoronaWarnApp-public-money-public-code
@@ -22,7 +22,7 @@ Aus Perspektive des Autors lässt die Geschichte der App vereinfacht in folgende
 - Regierung ändert Konzept: datensparsam, dezentral und quelloffen
 - Zivilgesellschaft ist [vergleichsweise zufrieden](https://netzpolitik.org/2020/vieles-doch-noch-richtig-gemacht/)
 
-Fazit:
+Zwischenfazit:
 Wenn die Gestaltung der Digitalisierung immer so stattfinden würde, wären wir ein ganzes Stück weiter.
 
 ## These
@@ -41,17 +41,23 @@ Wenn die Gestaltung der Digitalisierung immer so stattfinden würde, wären wir 
 
 5. Es gibt derzeit die Bereitschaft des Staates massiv Geld auszugeben, um die Konjunktur zu unterstützen. Investitionen in Freie Software wären eine sinnvolle und nachhaltige Konjunkturmaßnahme, weil das Geld in innovative Arbeitskraft statt in Energie- und Rohstoffverbrauch fließen würde. Siehe auch [#Bits&amp;Bäume](bits-und-baeume.org/forderungen/) und ["Freie Software öffentlich fördern – Wie ein sinnvolles Konjunkturpaket aussehen könnte"](https://www.pro-linux.de/artikel/2/801/freie-software-%C3%B6ffentlich-f%C3%B6rdern.html) (pro-linux.de, Januar 2009).
 
-6. Zu diesen aktuellen Gründen kommt das Fortdauern schon lange bestehender Problemlagen. Exemplarisch: ["Das Microsoft-Dilemma – Europa als Software Kolonie"](https://www.youtube.com/watch?v=_ZaDuinGf2o) (ARD Reportage, 19.02.2018).
+6. Nächstes Jahr ist Bundestagswahlkampf. Die Gestaltung der Digitalisierung wird da voraussichtlich eine wichtige Rolle spielen.
+
+7. Zu diesen aktuellen Gründen kommt das Fortdauern schon lange bestehender Problemlagen. Exemplarisch: ["Das Microsoft-Dilemma – Europa als Software Kolonie"](https://www.youtube.com/watch?v=_ZaDuinGf2o) (ARD Reportage, 19.02.2018).
 
 
 ## Handlungsmöglichkeiten
 
 Basierend auf dieser Analyse bieten sich folgende individuelle Handlungsmöglichkeiten:
 
-1. Mehr Aufmerksamkeit dafür herstellen, dass hier öffentliches Geld für Freie Software im öffentlichen Interesse ausgegeben wurde.
+1. Mehr Aufmerksamkeit dafür herstellen, dass für die CoronaWarnApp viel öffentliches Geld für Freie Software im öffentlichen Interesse ausgegeben wurde ("Präzedensfall").
     - Entsprechendem [Github-Issue](https://github.com/corona-warn-app/cwa-documentation/issues/265)  zustimmen oder es kommentieren.
     - Der [fragdenstaat.de-Anfrage](https://fragdenstaat.de/anfrage/finanzierung-der-coronawarnapp/) folgen.
-2. Medien-Vertreter:innen oder Entscheidungsträger:innen auf die Zusammenhänge zwischen Pandemie, Digitalisierung, CoronaWarnApp und Freier Software ansprechen.
+2. Medien-Vertreter:innen oder Entscheidungsträger:innen geziehlt auf die Zusammenhänge zwischen Pandemie, Digitalisierung, CoronaWarnApp und Freier Software ansprechen.
 3. Interessenvertretungen (CCC, FSFE, DigitalCourage, Gesellschaft für Informatik) dazu ermuntern, ein gemeinsames Positionspapier (mit aktuellem Bezug) zu verfassen und zu verbreiten.
 4. Abgeordnete in Parlamenten bzw. Delegierte in Parteigremien dazu ermuntern, entsprechende Anfragen oder Anträge einzureichen. Da meist die digitalisierungsspezifische Sachkenntnis fehlt, sollte inhaltliche Unterstützung bzw. die Möglickeit zur Diskussion angeboten
 
+
+## Fazit
+
+Der Autor ist überzeugt: Die Befürworter:innen von Freier Software haben sehr gute Argumente. Es kommt darauf an, diese so deutlich vorzutragen, dass sie nicht länger ignoriert werden können. Die Diskurslage insgesamt ist vergleichsweise günstig und CoronaWarnApp bietet einen guten konkreten Aufhänger. Wenn genügend Individuen das Thema an genügend Stellen auf die Agenda setzen, dann  wird es positive Veränderungen geben.

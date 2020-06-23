@@ -8,13 +8,13 @@ Summary: Die CoronaWarnApp, obgleich inhaltlich kontrovers diskutiert, ist zur Z
 
 
 
-Vor ein paar Tagen ist die [CoronaWarnApp](https://www.coronawarn.app/de/faq/) als Freie Software (Apache-2.0-Lizenz) veröffentlicht worden. Die Reaktionen auf die App als solche sind – wenig überraschend in einer pluralen Gesellschaft – kontrovers. Beispielhaft sei auf Stellungnahmen von [digitalcourage e.V.](https://digitalcourage.de/blog/2020/corona-warn-app) und [Linus Neumann (Sprecher des CCC))](https://www.tagesschau.de/multimedia/video/video-716397.html) verwiesen.
+Vor ein paar Tagen ist die [CoronaWarnApp](https://www.coronawarn.app/de/faq/) als Freie Software (Apache-2.0-Lizenz) veröffentlicht worden. Die Reaktionen auf die App als solche sind – wenig überraschend in einer pluralen Gesellschaft – kontrovers. Beispielhaft sei auf Stellungnahmen von [digitalcourage e.V.](https://digitalcourage.de/blog/2020/corona-warn-app) und [Linus Neumann (Sprecher des CCC)](https://www.tagesschau.de/multimedia/video/video-716397.html) verwiesen.
 
 
 
-Unabhängig von der individuellen Risiko-Nutzen-Einschätzung bezüglich der App, lässt festhalten, dass die demokratisch legitimierte Exekutive ein öffentliches Interesse an der der App erkannt und dafür öffentliches Geld in erheblichem Umfang bereitgestellt hat (siehe z.&#x202F;B. [Tagesschau](https://www.tagesschau.de/inland/corona-app-downloads-101.html), [Spiegel](https://www.spiegel.de/netzwelt/apps/corona-warn-app-wie-erklaeren-sich-die-gesamtkosten-von-68-millionen-euro-a-56b5abe1-e0a6-4b1c-9177-9066df3d9b14)). Und genau da sollte die FOSS-Comunity ansetzen.
+Unabhängig von der individuellen Risiko-Nutzen-Einschätzung bezüglich der App, lässt sich festhalten, dass die demokratisch legitimierte Exekutive ein öffentliches Interesse an der App erkannt und dafür öffentliches Geld im Umfang von mehreren Millionen Euro bereitgestellt hat (siehe z.&#x202F;B. [Tagesschau](https://www.tagesschau.de/inland/corona-app-downloads-101.html), [Spiegel](https://www.spiegel.de/netzwelt/apps/corona-warn-app-wie-erklaeren-sich-die-gesamtkosten-von-68-millionen-euro-a-56b5abe1-e0a6-4b1c-9177-9066df3d9b14)). Und genau da sollte die FOSS-Comunity ansetzen.
 
-Für mich stellt sich die Geschichte (vereinfacht) so dar:
+Aus Perspektive des Autors lässt die Geschichte der App vereinfacht in folgendem Narrativ zusammenfassen:
 
 - Regierung plant zentralistische App
 - Zivilgesellschaft übt gut begründete sachliche Kritik (siehe z.&#x202F;B. [offener Brief des CCC](https://www.ccc.de/de/updates/2020/corona-tracing-app-offener-brief-an-bundeskanzleramt-und-gesundheitsminister))
@@ -27,19 +27,18 @@ Wenn die Gestaltung der Digitalisierung immer so stattfinden würde, wären wir 
 
 ## These
 
-*Die aktuelle Diskurslage ist günstig um für die vermehrte öffentliche Anerkennung und Förderung von Freier Software (vor allem in der Verwaltung und im Bildungssystem) zu argumentieren und zu lobbyieren.*
+*Die aktuelle Diskurslage ist günstig, um für die vermehrte öffentliche Anerkennung und Förderung von Freier Software (vor allem in der Verwaltung und im Bildungssystem) zu argumentieren und zu lobbyieren.*
 
-## Gründe
+## Begründung
 
-1. Obige narrativer Rahmung. Die CoronaWarnApp als prominentes Beispiel für _Freie Software im öffentlichen Interesse_ zeigt wie wichtig Transparenz, Vertrauenswürdigkeit und der Einbezug der
-Gemeinschaftsexpertise sind. Siehe auch [Positition der FSFE](https://fsfe.org/news/2020/news-20200402-02.html).
+1. Die CoronaWarnApp als prominentes Beispiel für _Freie Software im öffentlichen Interesse_ zeigt, wie wichtig Transparenz, Vertrauenswürdigkeit und der Einbezug der Gemeinschaftsexpertise sind. Siehe oben bzw. auch die [Positition der FSFE](https://fsfe.org/news/2020/news-20200402-02.html).
 
 2. Einige bedeutende Beschlüsse in der jüngeren Vergangenheit pro freier Software:
- - [CDU](https://netzpolitik.org/2020/was-bedeutet-der-cdu-beschluss-zum-einsatz-freier-software/)
- - [München](https://www.linux-magazin.de/news/muenchen-plant-digitalisierung-und-will-moeglichst-freie-software/)
- - [Hamburg](https://fsfe.org/news/2020/news-20200610-01.de.html)
+    - [CDU](https://netzpolitik.org/2020/was-bedeutet-der-cdu-beschluss-zum-einsatz-freier-software/)
+    - [München](https://www.linux-magazin.de/news/muenchen-plant-digitalisierung-und-will-moeglichst-freie-software/)
+    - [Hamburg](https://fsfe.org/news/2020/news-20200610-01.de.html)
 
-3. Enormer Digitalisierungsschub der Gesellschaft durch die Pandmie
+3. Enormer Digitalisierungsschub der Gesellschaft durch die Pandemie
 
 4. Aufkeimendes gesammtgesellschaftliches Bewusstsein für problematische Abhängigkeiten von globalen Liefer- und Serviceketten. Freie Software ermöglicht den Aufbau lokaler Expertise.
 
@@ -52,7 +51,7 @@ Gemeinschaftsexpertise sind. Siehe auch [Positition der FSFE](https://fsfe.org/n
 
 Basierend auf dieser Analyse bieten sich folgende individuelle Handlungsmöglichkeiten:
 
-1. Mehr Aufmerksamkeit dafür herstellen, dass hier öffentliches Geld für freue Software im öffentlichen Interesse ausgegeben wurde.
+1. Mehr Aufmerksamkeit dafür herstellen, dass hier öffentliches Geld für Freie Software im öffentlichen Interesse ausgegeben wurde.
     - Entsprechendem [Github-Issue](https://github.com/corona-warn-app/cwa-documentation/issues/265)  zustimmen oder es kommentieren.
     - Der [fragdenstaat.de-Anfrage](https://fragdenstaat.de/anfrage/finanzierung-der-coronawarnapp/) folgen.
 2. Medien-Vertreter:innen oder Entscheidungsträger:innen auf die Zusammenhänge zwischen Pandemie, Digitalisierung, CoronaWarnApp und Freier Software ansprechen.

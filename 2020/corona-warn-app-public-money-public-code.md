@@ -8,7 +8,7 @@ Summary: Die CoronaWarnApp, obgleich inhaltlich kontrovers diskutiert, ist zur Z
 
 
 
-Vor ein paar Tagen ist die [CoronaWarnApp](https://www.coronawarn.app/de/faq/) als Freie Software (Apache-2.0-Lizenz) veröffentlicht worden. Die Reaktionen auf die App als solche sind – wenig überraschend in einer pluralen Gesellschaft – kontrovers. Beispielhaft sei auf Stellungnahmen von [digitalcourage e.V.](https://digitalcourage.de/blog/2020/corona-warn-app) und [Linus Neumann (Sprecher des CCC)](https://www.tagesschau.de/multimedia/video/video-716397.html) verwiesen.
+Vor ein paar Tagen ist die [CoronaWarnApp](https://www.coronawarn.app/de/faq/) als Freie Software (Apache-2.0-Lizenz) veröffentlicht worden. Die Reaktionen auf die App als solche sind – wenig überraschend in einer pluralen Gesellschaft – kontrovers. Beispielhaft sei auf Stellungnahmen von [Digitalcourage e.V.](https://digitalcourage.de/blog/2020/corona-warn-app) und [Linus Neumann (Sprecher des CCC)](https://www.tagesschau.de/multimedia/video/video-716397.html) verwiesen.
 
 
 
@@ -27,17 +27,17 @@ Wenn die Gestaltung der Digitalisierung immer so stattfinden würde, wären wir 
 
 ## These
 
-*Die aktuelle Diskurslage ist günstig, um für die vermehrte öffentliche Anerkennung und Förderung von Freier Software (vor allem in der Verwaltung und im Bildungssystem) zu argumentieren und zu lobbyieren.*
+*Die aktuelle Diskurslage ist günstig, um für die vermehrte öffentliche Anerkennung und Förderung von Freier Software (vor allem in der Verwaltung und im Bildungssystem) zu argumentieren und entsprechende Entscheidungen erfolgreich einzufordern.*
 
 ## Begründung
 
-1. Die CoronaWarnApp als prominentes Beispiel für _Freie Software im öffentlichen Interesse_ zeigt, wie wichtig Transparenz, Vertrauenswürdigkeit und der Einbezug der Gemeinschaftsexpertise sind. Siehe oben bzw. auch die [Positition der FSFE](https://fsfe.org/news/2020/news-20200402-02.html).
+1. Die CoronaWarnApp als prominentes Beispiel für _Freie Software im öffentlichen Interesse_ zeigt, wie wichtig Transparenz, Vertrauenswürdigkeit und der Einbezug der Gemeinschaftsexpertise sind. Siehe oben bzw. auch die [Position der FSFE](https://fsfe.org/news/2020/news-20200402-02.html).
 
 2. In der jüngeren Vergangenheit gab es mehrere bedeutende Beschlüsse zu Gunsten Freier Software ([CDU](https://netzpolitik.org/2020/was-bedeutet-der-cdu-beschluss-zum-einsatz-freier-software/), [München](https://www.linux-magazin.de/news/muenchen-plant-digitalisierung-und-will-moeglichst-freie-software/),      [Hamburg](https://fsfe.org/news/2020/news-20200610-01.de.html)).
 
 3. Der Pandemie-bedingte Digitalisierungsschub der Gesellschaft erzeugt zusätzliche öffentliche Aufmerksamkeit.
 
-4. Ebenfalls herrscht aktuell ein gesammtgesellschaftliches Bewusstsein für problematische Abhängigkeiten von globalen Liefer- und Serviceketten. Öffentliche Investitionen in Freie Software ermöglichen den Aufbau lokaler Expertise und lokale Wertschöpfung.
+4. Ebenfalls herrscht aktuell ein gesamtgesellschaftliches Bewusstsein für problematische Abhängigkeiten von globalen Liefer- und Serviceketten. Öffentliche Investitionen in Freie Software ermöglichen den Aufbau lokaler Expertise und lokale Wertschöpfung.
 
 5. Es gibt derzeit die Bereitschaft des Staates massiv Geld auszugeben, um die Konjunktur zu unterstützen. Investitionen in Freie Software wären eine sinnvolle und nachhaltige Konjunkturmaßnahme, weil das Geld in innovative Arbeitskraft statt in Energie- und Rohstoffverbrauch fließen würde. Siehe auch [#Bits&amp;Bäume](bits-und-baeume.org/forderungen/) und ["Freie Software öffentlich fördern – Wie ein sinnvolles Konjunkturpaket aussehen könnte"](https://www.pro-linux.de/artikel/2/801/freie-software-%C3%B6ffentlich-f%C3%B6rdern.html) (pro-linux.de, Januar 2009).
 
@@ -50,12 +50,12 @@ Wenn die Gestaltung der Digitalisierung immer so stattfinden würde, wären wir 
 
 Basierend auf dieser Analyse bieten sich folgende individuelle Handlungsmöglichkeiten:
 
-1. Mehr Aufmerksamkeit dafür herstellen, dass für die CoronaWarnApp viel öffentliches Geld für Freie Software im öffentlichen Interesse ausgegeben wurde ("Präzedensfall").
+1. Mehr Aufmerksamkeit dafür herstellen, dass für die CoronaWarnApp viel öffentliches Geld für Freie Software im öffentlichen Interesse ausgegeben wurde ("Präzedenzfall").
     - Entsprechendem [Github-Issue](https://github.com/corona-warn-app/cwa-documentation/issues/265)  zustimmen oder es kommentieren.
     - Der [fragdenstaat.de-Anfrage](https://fragdenstaat.de/anfrage/finanzierung-der-coronawarnapp/) folgen.
-2. Medien-Vertreter:innen oder Entscheidungsträger:innen geziehlt auf die Zusammenhänge zwischen Pandemie, Digitalisierung, CoronaWarnApp und Freier Software ansprechen.
-3. Interessenvertretungen (CCC, FSFE, DigitalCourage, Gesellschaft für Informatik) dazu ermuntern, ein gemeinsames Positionspapier (mit aktuellem Bezug) zu verfassen und zu verbreiten.
-4. Abgeordnete in Parlamenten bzw. Delegierte in Parteigremien dazu ermuntern, entsprechende Anfragen oder Anträge einzureichen. Da meist die digitalisierungsspezifische Sachkenntnis fehlt, sollte inhaltliche Unterstützung bzw. die Möglickeit zur Diskussion angeboten
+2. Medien-Vertreter:innen oder Entscheidungsträger:innen gezielt auf die Zusammenhänge zwischen Pandemie, Digitalisierung, CoronaWarnApp und Freier Software ansprechen.
+3. Interessenvertretungen (CCC, FSFE, Digitalcourage, Gesellschaft für Informatik) dazu ermuntern, ein gemeinsames Positionspapier (mit aktuellem Bezug) zu verfassen und zu verbreiten.
+4. Abgeordnete in Parlamenten bzw. Delegierte in Parteigremien dazu ermuntern, entsprechende Anfragen oder Anträge einzureichen. Da manchmal die digitalisierungsspezifische Sachkenntnis fehlt, sollte inhaltliche Unterstützung bzw. die Möglichkeit zur Diskussion angeboten werden.
 
 
 ## Fazit

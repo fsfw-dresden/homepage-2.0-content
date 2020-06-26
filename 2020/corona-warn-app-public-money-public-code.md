@@ -4,15 +4,17 @@ Category: Artikel
 Tags: Freie Software, Corona, Digitalisierung, Gesellschaft, Finanzierung
 Slug: CoronaWarnApp-public-money-public-code
 Author: Carsten
-Summary: Die CoronaWarnApp, obgleich inhaltlich kontrovers diskutiert, ist zur Zeit das prominenteste Beispiel für Software, die im öffentlichen Auftrag erstellt wird. Richtigerweise wurde sie von Anfang an als Freie Software veröffentlicht. Der Beitrag analysiert, wie aus dieser aktuellen Situation (+ Digitalisierungsschub + öffentliche Sensibilität für Vertrauenswürdigkeit von Software) mehr Unterstützung für die Kampagne [Public Money? Public Code!](https://publiccode.eu/de/openletter/) bzw. generell für die öffentliche Unterstützung Freier Software generiert werden kann.
+Summary: Die CoronaWarnApp, obgleich inhaltlich kontrovers diskutiert, ist zur Zeit das prominenteste Beispiel für Software, die im öffentlichen Auftrag erstellt wird. Richtigerweise wurde sie von Anfang an als Freie Software veröffentlicht. Der Beitrag analysiert, wie aus dieser aktuellen Situation (+ Digitalisierungsschub + öffentliche Sensibilität für Vertrauenswürdigkeit von Software) mehr Unterstützung für die Kampagne [Public Money? Public Code!](https://publiccode.eu/de) bzw. generell für die öffentliche Unterstützung Freier Software generiert werden kann.
+
+
+<img alt="Prof. Sander demonstriert seine Liste bisher gefixter Bugs" src="{filename}/img/cwa_pmpc_full.png" style="width:100%; max-widht:800px; margin:auto; margin-bottom:1.5em;" />
+
+
+Vor kurzem ist die [CoronaWarnApp](https://www.coronawarn.app/de/faq/) als Freie Software (Apache-2.0-Lizenz) veröffentlicht worden. Die Reaktionen auf die App als solche sind – wenig überraschend in einer pluralen Gesellschaft – kontrovers. Beispielhaft sei auf Stellungnahmen von [Digitalcourage e.V.](https://digitalcourage.de/blog/2020/corona-warn-app) und [Linus Neumann (Sprecher des CCC)](https://www.tagesschau.de/multimedia/video/video-716397.html) verwiesen.
 
 
 
-Vor ein paar Tagen ist die [CoronaWarnApp](https://www.coronawarn.app/de/faq/) als Freie Software (Apache-2.0-Lizenz) veröffentlicht worden. Die Reaktionen auf die App als solche sind – wenig überraschend in einer pluralen Gesellschaft – kontrovers. Beispielhaft sei auf Stellungnahmen von [Digitalcourage e.V.](https://digitalcourage.de/blog/2020/corona-warn-app) und [Linus Neumann (Sprecher des CCC)](https://www.tagesschau.de/multimedia/video/video-716397.html) verwiesen.
-
-
-
-Unabhängig von der individuellen Risiko-Nutzen-Einschätzung bezüglich der App, lässt sich festhalten, dass die demokratisch legitimierte Exekutive ein öffentliches Interesse an der App erkannt und dafür öffentliches Geld im Umfang von mehreren Millionen Euro bereitgestellt hat (siehe z.&#x202F;B. [Tagesschau](https://www.tagesschau.de/inland/corona-app-downloads-101.html), [Spiegel](https://www.spiegel.de/netzwelt/apps/corona-warn-app-wie-erklaeren-sich-die-gesamtkosten-von-68-millionen-euro-a-56b5abe1-e0a6-4b1c-9177-9066df3d9b14)). Und genau da sollte die FOSS-Comunity ansetzen.
+Unabhängig von der individuellen Risiko-Nutzen-Einschätzung bezüglich der App, lässt sich festhalten, dass die demokratisch legitimierte Exekutive ein öffentliches Interesse an der App erkannt und dafür öffentliches Geld im Umfang von mehreren Millionen Euro bereitgestellt hat (siehe z.&#x202F;B. [Tagesschau](https://www.tagesschau.de/inland/corona-app-downloads-101.html), [Spiegel](https://www.spiegel.de/netzwelt/apps/corona-warn-app-wie-erklaeren-sich-die-gesamtkosten-von-68-millionen-euro-a-56b5abe1-e0a6-4b1c-9177-9066df3d9b14)). Und genau da sollte die FOSS-Comunity ansetzen, um der seit Jahren laufenden und für eine nachhaltige Digitalisierung sehr wichtigen Forderung "[Public Money? Public Code!](https://publiccode.eu/de)", mehr Aufmerksamkeit und Impuls zu verleihen.
 
 Aus Perspektive des Autors lässt die Geschichte der App vereinfacht in folgendem Narrativ zusammenfassen:
 
@@ -60,4 +62,4 @@ Basierend auf dieser Analyse bieten sich folgende individuelle Handlungsmöglich
 
 ## Fazit
 
-Der Autor ist überzeugt: Die Befürworter:innen von Freier Software haben sehr gute Argumente. Es kommt darauf an, diese so deutlich vorzutragen, dass sie nicht länger ignoriert werden können. Die Diskurslage insgesamt ist vergleichsweise günstig und CoronaWarnApp bietet einen guten konkreten Aufhänger. Wenn genügend Individuen das Thema an genügend Stellen auf die Agenda setzen, dann  wird es positive Veränderungen geben.
+Der Autor ist überzeugt: Die Befürworter:innen von Freier Software haben sehr gute Argumente. Es kommt darauf an, diese so deutlich vorzutragen, dass sie nicht länger ignoriert werden können. Die Diskurslage insgesamt ist vergleichsweise günstig und die CoronaWarnApp bietet einen guten konkreten Aufhänger. Wenn genügend Individuen das Thema an genügend Stellen auf die Agenda setzen, dann  wird es positive Veränderungen geben.

@@ -1,10 +1,10 @@
 Title: CoronaWarnApp – Rückenwind für Public Money? Public Code!
-Date: 2020-06-23 20:00
+Date: 2020-06-27 15:00
 Category: Artikel
 Tags: Freie Software, Corona, Digitalisierung, Gesellschaft, Finanzierung
 Slug: CoronaWarnApp-public-money-public-code
 Author: Carsten
-Summary: Die CoronaWarnApp, obgleich inhaltlich kontrovers diskutiert, ist zur Zeit das prominenteste Beispiel für Software, die im öffentlichen Auftrag erstellt wird. Richtigerweise wurde sie von Anfang an als Freie Software veröffentlicht. Der Beitrag analysiert, wie aus dieser aktuellen Situation (+ Digitalisierungsschub + öffentliche Sensibilität für Vertrauenswürdigkeit von Software) mehr Unterstützung für die Kampagne [Public Money? Public Code!](https://publiccode.eu/de) bzw. generell für die öffentliche Unterstützung Freier Software generiert werden kann.
+Summary: Die CoronaWarnApp, obgleich inhaltlich kontrovers diskutiert, ist zur Zeit das prominenteste Beispiel für Softwareentwicklung im öffentlichen Auftrag. Richtigerweise wurde sie von Anfang an als Freie Software veröffentlicht. Der Beitrag analysiert, wie aus dieser aktuellen Situation (CoronaWarnApp + Digitalisierungsschub + öffentliche Sensibilität für Vertrauenswürdigkeit von Software) mehr Unterstützung für die Kampagne [Public Money? Public Code!](https://publiccode.eu/de) bzw. generell für die öffentliche Unterstützung Freier Software generiert werden kann.
 
 
 <img alt="Prof. Sander demonstriert seine Liste bisher gefixter Bugs" src="{filename}/img/cwa_pmpc_full.png" style="width:100%; max-widht:800px; margin:auto; margin-bottom:1.5em;" />
@@ -35,7 +35,7 @@ Wenn die Gestaltung der Digitalisierung immer so stattfinden würde, wären wir 
 
 1. Die CoronaWarnApp als prominentes Beispiel für _Freie Software im öffentlichen Interesse_ zeigt, wie wichtig Transparenz, Vertrauenswürdigkeit und der Einbezug der Gemeinschaftsexpertise sind. Siehe oben bzw. auch die [Position der FSFE](https://fsfe.org/news/2020/news-20200402-02.html).
 
-2. In der jüngeren Vergangenheit gab es mehrere bedeutende Beschlüsse zu Gunsten Freier Software ([CDU](https://netzpolitik.org/2020/was-bedeutet-der-cdu-beschluss-zum-einsatz-freier-software/), [München](https://www.linux-magazin.de/news/muenchen-plant-digitalisierung-und-will-moeglichst-freie-software/),      [Hamburg](https://fsfe.org/news/2020/news-20200610-01.de.html)).
+2. In der jüngeren Vergangenheit gab es mehrere bedeutende Beschlüsse zu Gunsten Freier Software (z.&#x202F;B. [CDU](https://netzpolitik.org/2020/was-bedeutet-der-cdu-beschluss-zum-einsatz-freier-software/), [München](https://www.linux-magazin.de/news/muenchen-plant-digitalisierung-und-will-moeglichst-freie-software/), [Hamburg](https://fsfe.org/news/2020/news-20200610-01.de.html)).
 
 3. Der Pandemie-bedingte Digitalisierungsschub der Gesellschaft erzeugt zusätzliche öffentliche Aufmerksamkeit.
 
@@ -52,12 +52,11 @@ Wenn die Gestaltung der Digitalisierung immer so stattfinden würde, wären wir 
 
 Basierend auf dieser Analyse bieten sich folgende individuelle Handlungsmöglichkeiten:
 
-1. Mehr Aufmerksamkeit dafür herstellen, dass für die CoronaWarnApp viel öffentliches Geld für Freie Software im öffentlichen Interesse ausgegeben wurde ("Präzedenzfall").
-    - Entsprechendem [Github-Issue](https://github.com/corona-warn-app/cwa-documentation/issues/265)  zustimmen oder es kommentieren.
+1. Mehr Aufmerksamkeit dafür herstellen, dass die erhebliche Menge öffentlichen Geldes, die für die CoronaWarnApp ausgegeben wurde, aus guten Gründen und in öffentlichem Interesse in ein Freies Software-Projekt geflossen ist.
+    - Entsprechendem [Github-Issue](https://github.com/corona-warn-app/cwa-documentation/issues/265)  zustimmen (👍) oder es kommentieren.
     - Der [fragdenstaat.de-Anfrage](https://fragdenstaat.de/anfrage/finanzierung-der-coronawarnapp/) folgen.
-2. Medien-Vertreter:innen oder Entscheidungsträger:innen gezielt auf die Zusammenhänge zwischen Pandemie, Digitalisierung, CoronaWarnApp und Freier Software ansprechen.
-3. Interessenvertretungen (CCC, FSFE, Digitalcourage, Gesellschaft für Informatik) dazu ermuntern, ein gemeinsames Positionspapier (mit aktuellem Bezug) zu verfassen und zu verbreiten.
-4. Abgeordnete in Parlamenten bzw. Delegierte in Parteigremien dazu ermuntern, entsprechende Anfragen oder Anträge einzureichen. Da manchmal die digitalisierungsspezifische Sachkenntnis fehlt, sollte inhaltliche Unterstützung bzw. die Möglichkeit zur Diskussion angeboten werden.
+2. Medien-Vertreter:innen oder Entscheidungsträger:innen gezielt auf die Zusammenhänge zwischen Pandemie, Digitalisierung, CoronaWarnApp und Freier Software ansprechen und die Frage platzieren, warum es eigentlich nicht immer so läuft?
+3. Abgeordnete in Parlamenten bzw. Delegierte in Parteigremien dazu ermuntern, entsprechende Anfragen oder Anträge einzureichen. Da manchmal die digitalisierungsspezifische Sachkenntnis fehlt, sollte inhaltliche Unterstützung bzw. die Möglichkeit zur Diskussion angeboten werden.
 
 
 ## Fazit

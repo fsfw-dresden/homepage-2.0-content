@@ -62,3 +62,12 @@ Basierend auf dieser Analyse bieten sich folgende individuelle Handlungsmöglich
 ## Fazit
 
 Der Autor ist überzeugt: Die Befürworter:innen von Freier Software haben sehr gute Argumente. Es kommt darauf an, diese so deutlich vorzutragen, dass sie nicht länger ignoriert werden können. Die Diskurslage insgesamt ist vergleichsweise günstig und die CoronaWarnApp bietet einen guten konkreten Aufhänger. Wenn genügend Individuen das Thema an genügend Stellen auf die Agenda setzen, dann  wird es positive Veränderungen geben.
+
+## Links zur Weiterverbreitung
+
+Eine Weiterverbreitung oder Reaktion auf diesen Blog-Beitrag über entsprechende Netzwerke entspricht seiner Intention, darum hier die passenden Links:
+
+- Mastodon: <https://social.tchncs.de/@fsfwdresden/104416122260414445>
+- Twitter: <https://twitter.com/fsfwdresden/status/1276865905931292672>
+- Facebook: <https://www.facebook.com/fsfwdresden/photos/a.1536351869988585/2492883317668764/?type=3&__tn__=-R>
+

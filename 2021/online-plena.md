@@ -25,5 +25,5 @@ Mailingliste [FSFW-Discuss](https://lists.fsfw-dresden.de/mailman/listinfo/discu
 - Optional: Kurze Vorstellungsrunde der Anwesenden (<1min pro Person)
 - Optional: Kurze Vorstellung der bisherigen FSFW-Aktivitäten (Verschlüsselungsgewinnspiel, Workshops, Crypto/Install-Parties, Edu-Stick, ...)
 - Aktueller Stand des Stick-Projektes (Release, Pressemitteilung, Zukunftspläne) (10min)
-- Brainstorming und ggf. AG-Gründung für zukünftige Projekte
+- Brainstorming über Projektideen und ggf. AG-Gründungen
 - Terminfindung für regelmäßigen zukünftigen Termin (5min, z.B. mit <https://moodpoll.uber.space/>)

@@ -25,11 +25,11 @@ Template: page_raw
         <dl>
             <dt>Datum &amp; Uhrzeit</dt>
             <dd>
-                <span class="rrule">Jeden <b>Montag</b> in geraden Wochen ab 18:15 Uhr</span>
+                <span class="rrule">Nächsten <b>Montag</b> (08.02.2021) 17:30 Uhr</span>
             </dd>
             <dt>Ort</dt>
             <dd>
-                APB, E069.
+                Online per Videokonferenz. (Link folgt in Kürze)
             </dd>
         </dl>
     </section>

@@ -25,41 +25,31 @@ Template: page_raw
         <dl>
             <dt>Datum &amp; Uhrzeit</dt>
             <dd>
-                <span class="rrule">Nächsten <b>Montag</b> (08.02.2021) 17:30 Uhr</span>
+                <span class="rrule"> <b>Montag</b> (08.02.2021) 17:30 Uhr</span>
             </dd>
             <dt>Ort</dt>
             <dd>
-                Online per Videokonferenz. (Link folgt in Kürze)
+                Onlinekonferenz-Teilnahmelinks (BBB):
+                <a href="https://selfservice.zih.tu-dresden.de/l/link.php?m=82017&p=5222e1ef">mit ZIH-Login</a>,
+                <a href="https://selfservice.zih.tu-dresden.de/link.php?m=82017&p=b2c99b45">ohne ZIH-Login</a>.
             </dd>
         </dl>
     </section>
 </section>
 <hr>
 <section id="news">
-    <h2>Aktuelles</h2>
-    <section id="uni-stick" class="news">
-    <span datetime="2019-04-11">04.11.2019</span>
-    <h3>Ausgabe des FSFW-Uni-Sticks</h3>
-    Die 4. Version des FSFW-UniSticks, eines USB-Sticks randvoll mit nützlicher freier Software fürs Studium, ist fertig! Die Ausgabe-Veranstaltung findet am 04.11.2019 ab 18:30 Uhr im Hörsaal APB 023 statt. Weitere Infos:
-    <a href="https://fsfw-dresden.de/uni-stick">https://fsfw-dresden.de/uni-stick</a>.
-    </section>
-    <section id="bits-und-baeume" class="news">
-    <span datetime="2019-05-09">09.05.2019</span>
-    <h3>Bits&Bäume Dresden</h3>
-    Die FSFW beteiligt sich an der Organisation der <strong>Bits&Bäume Dresden</strong>. Bei dieser Vortrags- und Diskussionsveranstaltung (Do. 23.05.2019, 18:30, APB 023) geht es um die Wechselwirkungen der beiden existenziellen Herausforderungen des 21. Jahrhunderts: <em>Digitalisierung und Nachhaltigkeit</em> - und der jeweiligen zivilgesellschaftlichen Gruppen. Mehr Infos: <a href="https://dresden.bits-und-baeume.org">dresden.bits-und-baeume.org</a>.
-    </section>
-    <section id="lpd2019-1" class="news">
-    <span datetime="2019-05-01">01.05.2019</span>
-    <h3>Linux Presentation Day 2019.1</h3>
-    Der C3D2 organisiert den <a href="https://c3d2.de/news/event-20190518-lpd19-1.html">Linux Presentation Day 2019.1</a> (Samstag 18.05.2019, ab 10:00 Uhr, <a href="http://m.osmtools.de/0qe7A32je5H0qe1832jd84">Technische Sammlungen Dresden</a>). Die FSFW ist auch mit dabei.
-    </section>
-    <section id="latex-sprechstunde" class="news">
-        <h3>FSFW Sprechstunde</h3>
-        <p>Wir bieten seit über vier Jahren regelmäßig eine öffentliche “Sprechstunde” an zur Unterstützung bei
-           Fragen zum freien Text-Satzsystem LaTeX, zu Libre- bzw. OpenOffice, zu <a href="//fsfw-dresden.de/gpg">Mailverschlüsselung</a>
-           und allgemein zu Fragen rund um freie Software im Studium.</p>
-        <p>Einfach mal vorbeikommen… Nähere Infos, Termine, Ort unter <a href="//fsfw-dresden.de/sprechstunde">fsfw-dresden.de/sprechstunde</a>.
-    </section>
+<h2>Aktuelles</h2>
+<section id="uni-stick" class="news">
+<span datetime="2021-02-08">08.02.20201</span>
+<h3>Digitales FSFW-Plenum</h3>
+Nach längerer Zeit findet wieder ein FSFW-Plenum statt: Montag, 08.02.2021. 17:30 Uhr, per Onlinekonferenz über BigBluButton. Alle Interessierten – unabhängig vom Hintergrundwissen – sind herzlich zur unverbindlichen Teilnahme eingeladen.
+
+Onlinekonferenz-Teilnahmelinks BBB:
+<a href="https://selfservice.zih.tu-dresden.de/l/link.php?m=82017&p=5222e1ef">mit ZIH-Login</a>,
+<a href="https://selfservice.zih.tu-dresden.de/link.php?m=82017&p=b2c99b45">ohne ZIH-Login</a>.
+
+
+</section>
 </section>
 <hr>
 <section id="video">

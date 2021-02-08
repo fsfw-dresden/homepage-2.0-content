@@ -20,18 +20,16 @@ Template: page_raw
     </section>
 
     <section id="plenum">
-        <h3>Plenum</h3>
+        <h3><a href="https://fsfw-dresden.de/2021/02/Digitale-Plena-2021.html">Plenum</a></h3>
         <p>Zu unserem regelmäßigen Treffen, dem sog. Plenum, sind Interessierte herzlich willkommen!</p>
         <dl>
             <dt>Datum &amp; Uhrzeit</dt>
             <dd>
-                <span class="rrule"> <b>Montag</b> (08.02.2021) 17:30 Uhr</span>
+                <span class="rrule"> Letzten <b>Donnerstag</b> im Monat 18:30 Uhr</span>
             </dd>
             <dt>Ort</dt>
             <dd>
-                Onlinekonferenz-Teilnahmelinks (BBB):
-                <a href="https://selfservice.zih.tu-dresden.de/l/link.php?m=82017&p=5222e1ef">mit ZIH-Login</a>,
-                <a href="https://selfservice.zih.tu-dresden.de/link.php?m=82017&p=b2c99b45">ohne ZIH-Login</a>.
+                Onlinekonferenz-Teilnahmelinks (BBB): (Link folgt)
             </dd>
         </dl>
     </section>

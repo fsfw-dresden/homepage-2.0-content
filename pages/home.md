@@ -25,13 +25,13 @@ Template: page_raw
         <dl>
             <dt>Datum &amp; Uhrzeit</dt>
             <dd>
-                <span class="rrule"> <b>Montag</b> (08.02.2021) 17:30 Uhr</span>
+                Am <span class="rrule"> <b>4. Donnerstag im Monat</b> (nächste Termin: 25.2.2021) 18:30 Uhr</span>
             </dd>
             <dt>Ort</dt>
             <dd>
                 Onlinekonferenz-Teilnahmelinks (BBB):
-                <a href="https://selfservice.zih.tu-dresden.de/l/link.php?m=82017&p=5222e1ef">mit ZIH-Login</a>,
-                <a href="https://selfservice.zih.tu-dresden.de/link.php?m=82017&p=b2c99b45">ohne ZIH-Login</a>.
+                <a href="https://selfservice.zih.tu-dresden.de/l/link.php?m=83115&p=9df11deb">mit ZIH-Login</a>,
+                <a href="https://selfservice.zih.tu-dresden.de/link.php?m=83115&p=b10717a4">ohne ZIH-Login</a>.
             </dd>
         </dl>
     </section>

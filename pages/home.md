@@ -29,7 +29,7 @@ Template: page_raw
             </dd>
             <dt>Ort</dt>
             <dd>
-                Onlinekonferenz (BBB): <a href="https://selfservice.zih.tu-dresden.de/link.php?m=99268&p=3b1a2124"> Teilnahmelink</a>
+                Onlinekonferenz (BBB): <a href="https://wiki.fsfw-dresden.de/doku.php/doku/plenum-bbb"> Teilnahmelink</a>
 
             </dd>
         </dl>

@@ -29,7 +29,8 @@ Template: page_raw
             </dd>
             <dt>Ort</dt>
             <dd>
-                Onlinekonferenz-Teilnahmelinks (BBB): (Link folgt)
+                Onlinekonferenz (BBB): <a href="https://selfservice.zih.tu-dresden.de/link.php?m=99268&p=3b1a2124"> Teilnahmelink</a>
+
             </dd>
         </dl>
     </section>
@@ -40,12 +41,7 @@ Template: page_raw
 <section id="uni-stick" class="news">
 <span datetime="2021-02-08">08.02.20201</span>
 <h3>Digitales FSFW-Plenum</h3>
-Nach längerer Zeit findet wieder ein FSFW-Plenum statt: Montag, 08.02.2021. 17:30 Uhr, per Onlinekonferenz über BigBluButton. Alle Interessierten – unabhängig vom Hintergrundwissen – sind herzlich zur unverbindlichen Teilnahme eingeladen.
-
-Onlinekonferenz-Teilnahmelinks BBB:
-<a href="https://selfservice.zih.tu-dresden.de/l/link.php?m=82017&p=5222e1ef">mit ZIH-Login</a>,
-<a href="https://selfservice.zih.tu-dresden.de/link.php?m=82017&p=b2c99b45">ohne ZIH-Login</a>.
-
+Nach längerer Zeit finden wieder regelmäßig FSFW-Plena statt: Letzter Donnerstag im Monat, 18:30 Uhr, Onlinekonferenz über BigBluButton. Alle Interessierten – unabhängig vom Hintergrundwissen – sind herzlich zur unverbindlichen Teilnahme eingeladen.
 
 </section>
 </section>

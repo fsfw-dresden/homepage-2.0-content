@@ -20,7 +20,7 @@ Template: page_raw
     </section>
 
     <section id="plenum">
-        <h3><a href="https://fsfw-dresden.de/2021/02/Digitale-Plena-2021.html">Plenum</a></h3>
+        <h3><a href="https://wiki.fsfw-dresden.de/doku.php/doku/plenum-bbb">Plenum</a></h3>
         <p>Zu unserem regelmäßigen Treffen, dem sog. Plenum, sind Interessierte herzlich willkommen!</p>
         <dl>
             <dt>Datum &amp; Uhrzeit</dt>

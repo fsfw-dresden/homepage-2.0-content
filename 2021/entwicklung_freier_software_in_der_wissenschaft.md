@@ -12,3 +12,8 @@ Stichpunkte:
 - Umgang mit Git-Repos und deren Referenzierung und "Autoren"-Nennung (aka Contributor-Attribution)
 - Anerkennung als akademische Leistung
 - OpenStandards?
+
+Interessante Links:
+- https://www.softwareheritage.org/
+- https://about.zenodo.org/
+- https://ctan.org/pkg/biblatex-software

@@ -26,7 +26,7 @@ Lilith Wittmann hat durch Ihre beeindruckenden Veröffentlichungen \[z.B. [1](ht
 
 ## Was ist die Gegenposition
 
-Unserer Meinung nach sollte das Prinzip *Public Money Public Code* auf Infrastruktur umgesetzt werden, deren Betrieb möglichst dezentral und am Gemeinwohl orientiert organsiert ist. Ein Beispiel hierfür ist der gemeinnützige Verein <https://codeberg.org/>. Eine weitere begrüßenswerte Möglichkeit wären von öffentlichen Stellen betriebene Instanzen von gittea oder gitlab. Relevante Kriterien sind, dass barrierefreies Klonen der Repositorien möglich ist und jede:r sich auf der Plattform registrieren kann, um sich an Diskussionen (Issues) zu beteiligen und Verbesserungsvorschläge (Pull/Merge-Requests) einzureichen.
+Unserer Meinung nach sollte das Prinzip *Public Money Public Code* auf Infrastruktur umgesetzt werden, deren Betrieb möglichst dezentral und am Gemeinwohl orientiert organsiert ist. Ein Beispiel hierfür ist der gemeinnützige Verein <https://codeberg.org/>. Eine weitere begrüßenswerte Möglichkeit wären von öffentlichen Stellen betriebene Instanzen von gitea oder gitlab. Relevante Kriterien sind, dass barrierefreies Klonen der Repositorien möglich ist und jede:r sich auf der Plattform registrieren kann, um sich an Diskussionen (Issues) zu beteiligen und Verbesserungsvorschläge (Pull/Merge-Requests) einzureichen.
 
 Um den unbestreitbaren Netzwereffekt der Plattform Github zu nutzen und die damit von Lilith Wittmann als essentiell erachtete Sichtbarkeit zu erreichen, spricht nichts dagegen, dort jeweils eine automatisch aktualisierte Kopie der Public-Code-Repositorien zu hosten.
 
@@ -38,7 +38,7 @@ Um den unbestreitbaren Netzwereffekt der Plattform Github zu nutzen und die dami
 
 Meinungsverschiedenheiten bestehen hier vermutlich bezüglich den Bedeutung von *"ernsthaft"* und der Wichtigkeit von *Plattformeffekten*.
 
-1. *"ernsthaft"* kann man in Bezug auf a) die technischen Features der Plattform beziehen (Repo-Hosting, Issuetracker, Pull/Merge-Requests, CI-Dienste) oder b) auch die nichttechnischen Merkmale (Community-Größe etc) einbeziehen. Bezüglich a) gibt es unserer Meinung nach mit **gitlab und gittea gute Lösungen**. Aspekt b) ziehlt auf Punkt 2.
+1. *"ernsthaft"* kann man in Bezug auf a) die technischen Features der Plattform beziehen (Repo-Hosting, Issuetracker, Pull/Merge-Requests, CI-Dienste) oder b) auch die nichttechnischen Merkmale (Community-Größe etc) einbeziehen. Bezüglich a) gibt es unserer Meinung nach mit **gitlab und gitea gute Lösungen**. Aspekt b) ziehlt auf Punkt 2.
 
 2. *Plattformeffekte* von Github sind nützlich, damit möglichst viele Menschen ein Projekt sehen und möglichst niedrigschwellig beitragen können. Gleichzeitig zementiert dieser Effekt die **Monopolstellung**. Für *Public Code*-Projekte sollte daher eine **Doppelstrategie** gefahren werden: Präsenz der Projekte auf Github, Issue-tracking etc. möglichst auf dezentralen Plattformen. Transparenz bezüglich dieser Strategie kann auf der Landeseite (`README.md`) des Projekts hergestellt werden.
 

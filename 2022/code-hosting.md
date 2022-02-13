@@ -1,8 +1,8 @@
 Title: Code-Hosting-Plattformen – Reaktion auf Litlith Wittmann
-Date: 2022-02-05 16:00
+Date: 2022-02-13 20:00
 Category: Artikel
 Tags: Freie Software, Infrastruktur, Git
-Slug: Code-Hosting-Plattformen-Litlith Wittmann
+Slug: Code-Hosting-Plattformen-Litlith-Wittmann
 Author: CarK
 Summary: Die Aktivistin Litlith Wittmann ist der Meinung, Public Code müsse auf der Microsoft-Plattform Github liegen. Andere Plattformen seien bestenfalls nett gemeint, aber eigentlich sinnlos. Wir sind anderer Meinung: Eine Gegenrede.
 
@@ -26,7 +26,7 @@ Lilith Wittmann hat durch Ihre beeindruckenden Veröffentlichungen \[z.B. [1](ht
 
 ## Was ist die Gegenposition
 
-Unserer Meinung nach sollte das Prinzip *Public Money Public Code* auf Infrastruktur umgesetzt werden, deren Betrieb möglichst dezentral und am Gemeinwohl orientiert organsiert ist. Ein Beispiel hierfür ist der gemeinnützige Verein https://codeberg.org/. Eine weitere begrüßenswerte Möglichkeit wären von öffentlichen Stellen betriebene Instanzen von gittea oder gitlab. Relevante Kriterien sind, dass barrierefreies Klonen der Repositorien möglich ist und jede:r sich auf der Plattform registrieren kann, um sich an Diskussionen (Issues) zu beteiligen und Verbesserungsvorschläge (Pull/Merge-Requests) einzureichen.
+Unserer Meinung nach sollte das Prinzip *Public Money Public Code* auf Infrastruktur umgesetzt werden, deren Betrieb möglichst dezentral und am Gemeinwohl orientiert organsiert ist. Ein Beispiel hierfür ist der gemeinnützige Verein <https://codeberg.org/>. Eine weitere begrüßenswerte Möglichkeit wären von öffentlichen Stellen betriebene Instanzen von gittea oder gitlab. Relevante Kriterien sind, dass barrierefreies Klonen der Repositorien möglich ist und jede:r sich auf der Plattform registrieren kann, um sich an Diskussionen (Issues) zu beteiligen und Verbesserungsvorschläge (Pull/Merge-Requests) einzureichen.
 
 Um den unbestreitbaren Netzwereffekt der Plattform Github zu nutzen und die damit von Lilith Wittmann als essentiell erachtete Sichtbarkeit zu erreichen, spricht nichts dagegen, dort jeweils eine automatisch aktualisierte Kopie der Public-Code-Repositorien zu hosten.
 

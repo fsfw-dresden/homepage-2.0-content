@@ -1,10 +1,10 @@
-Title: Code-Hosting-Plattformen – Reaktion auf Litlith Wittmann
+Title: Code-Hosting-Plattformen – Reaktion auf Lilith Wittmann
 Date: 2022-02-13 20:00
 Category: Artikel
 Tags: Freie Software, Infrastruktur, Git
-Slug: Code-Hosting-Plattformen-Litlith-Wittmann
+Slug: Code-Hosting-Plattformen-Lilith-Wittmann
 Author: CarK
-Summary: Die Aktivistin Litlith Wittmann ist der Meinung, Public Code müsse auf der Microsoft-Plattform Github liegen. Andere Plattformen seien bestenfalls nett gemeint, aber eigentlich sinnlos. Wir sind anderer Meinung: Eine Gegenrede.
+Summary: Die Aktivistin Lilith Wittmann ist der Meinung, Public Code müsse auf der Microsoft-Plattform Github liegen. Andere Plattformen seien bestenfalls nett gemeint, aber eigentlich sinnlos. Wir sind anderer Meinung: Eine Gegenrede.
 
 
 ## Hintergrund

@@ -47,12 +47,12 @@ Meinungsverschiedenheiten bestehen hier vermutlich bezüglich den Bedeutung von 
 
 Das ist eine nachvollziehbare **persönliche Präferenz**. Mindestens genau so nachvollziehbar sollte aber die Haltung sein, dass viele Menschen keine von einem der mächstigsten Konzerne der Welt geownte Infrastruktur benutzen mögen, die außerdem einem** problematischen politischen System** (Bsp.: Trump) und einem erwiesenermaßen fatalen Zugriff verschiedener Geheimdienste (Stichwort: Snowden) unterliegt.
 
-Aus unserer Sicht sollte die relevante IT-Infrastruktur für deutsche und europäische Belange möglichst im Einflussbereich der mit ihr arbeitenden und von ihr abhängigen Bürger:innen liegen und – natürlich – möglichst demokratisch und gemeinwohlorientiert betrieben werden. Das heißt keineswegs lokalen Institutionen blindes Vertrauen entgegenzubringen. Die Präferenz für möglichst lokale bzw. "nationale" Lösungen entspringt der Einsicht, dass diese sich **besser kontrollieren lassen, als ein multinationales Unternehmen** das hauptsächlich den **Gewinninteressen** seiner Anteilseigner:innen verpflichtet ist.
+Aus unserer Sicht sollte die relevante IT-Infrastruktur für deutsche und europäische Belange möglichst im Einflussbereich der mit ihr arbeitenden und von ihr abhängigen Bürger:innen liegen und – natürlich – möglichst demokratisch und gemeinwohlorientiert betrieben werden. Das heißt keineswegs, lokalen Institutionen blindes Vertrauen entgegenzubringen. Die Präferenz für möglichst lokale bzw. "nationale" Lösungen entspringt der Einsicht, dass diese sich **besser kontrollieren lassen, als ein multinationales Unternehmen**, das hauptsächlich den **Gewinninteressen** seiner Anteilseigner:innen verpflichtet ist.
 
 
 > Die Plattformökonomie ist für mich etwas, das existiert. Und das bekommen wir nicht weg, indem wir ein paar kleinere Plattformen aufbauen.
 
-Es geht (aktuell) nicht darum, die Plattformökonomie grundsätzlich wegzubekommen. Es geht darum, möglichst **nicht von ihren negativen Auswirkungen** betroffen zu sein. Auf ein anderes Problemfeld übertragen, würde Liliths Argument lauten: "Hunger ist etwas, das existiert. Das bekommen wir nicht weg, indem wir ein paar Menschen etwas zu essen geben." Das ist zwar formal richtig, aber aus unserer Sicht keine besonders hilfreiches Framing auf des Problems.
+Es geht (aktuell) nicht darum, die Plattformökonomie grundsätzlich wegzubekommen. Es geht darum, möglichst **nicht von ihren negativen Auswirkungen** betroffen zu sein. Auf ein anderes Problemfeld übertragen, würde Liliths Argument lauten: "Hunger ist etwas, das existiert. Das bekommen wir nicht weg, indem wir ein paar Menschen etwas zu essen geben." Das ist zwar formal richtig, aber aus unserer Sicht keine besonders hilfreiches Framing des Problems.
 
 > Sondern entweder durch echte dezentrale Ansätze (wobei das sehr schwierig wird) oder Vergesellschaftung bestehender großer Plattformen.
 
@@ -70,8 +70,61 @@ Wir vermuten, dass hiermit ein politischer Prozess gemeint ist. Dieser wird nich
 
 ---
 
-## Fazit
+## Fazit (2022-02-13)
 
 
 Lilith Wittmann ist eine reichweitenstarke Aktivistin, die schon viele coole Dinge durchgezogen hat und damit für viele Menschen ein Vorbild darstellt. Ihrer Position zur Alternativlosigkeit von Github sollte unserer Meinung nach aber nicht unkritisch übernommen werden.
 
+
+---
+<a name="update-2022-02-14"></a>
+
+<br>
+
+## Update 2022-02-14:
+
+Lilith Wittmann hat sich nicht lumpen lassen und ihrerseits diesen Beitrag eingeordnet [siehe Toot](https://chaos.social/@Lilith/107792969256005080):
+
+
+> Man könnte so viele gute Punkte gegen meine Position, Code der Verwaltung bei Github zu hosten, anführen.
+> <br>
+> <br>
+> Das ist hier imho leider nicht gelungen.
+> <br>
+> <br>
+> Möchte euch aber dieses Meisterstück von Digitalnationalismus verbunden mit der privilegiert Position "wir können das ja selber hosten, da müssen wir nicht gegen die Plattformökonomie arbeiten, das ist ja unrealistisch" nicht vorenthalten.
+> <br>
+> <br>
+> <https://social.tchncs.de/@fsfwdresden/107792869103588092>
+
+
+Genaugenommen sprechen wir uns nicht dagegen, aus Code der Verwaltung bei Github zu hosten (siehe oben: "Für *Public Code*-Projekte sollte daher eine **Doppelstrategie** gefahren werden ..."). Unsere Position ist, es sollte nicht Github *alleine* und auch nicht *primär* sein (fürs Issue Tracking etc.).
+
+
+Der erste (von zwei) spannenden Punkten ist aber der **Vorwurf des "Digitalnationalismus"**. Ein Vorwurf ist es deshalb, weil "Nationalismus" im überwiegenden Teil der deutschsprachigen Gesellschaft auf Grund unvermeidlicher historische Bezüge ziemlich negativ besetzt ist. Oft wird unter "Nationalismus" u.a. eine Überhöhung der eigenen und eine Abwertung anderer ethnischer Gruppen verstanden.
+
+Mutmaßlich ist das Plädoyer für "*nationale Lösungen*" ein wesentlicher Aufhänger für den Nationalismus-Vorwurf. Im Originalkontext betrachtet, offenbart er sich allerdings als schwer haltbar. Zitat: "Das heißt keineswegs, lokalen Institutionen blindes Vertrauen entgegenzubringen. Die Präferenz für möglichst lokale bzw. 'nationale' Lösungen entspringt der Einsicht, dass diese sich **besser kontrollieren lassen, als ein multinationales Unternehmen**, das hauptsächlich den **Gewinninteressen** seiner Anteilseigner:innen verpflichtet ist." (siehe oben).
+
+Um Missverständnisse und mögliche Fehlinterpretationen zu vermeiden: "national" bezieht sich hier auf die existierende Verwaltungsentität "Staat" als [originäres Völkerrechtssubjekt](https://de.wikipedia.org/wiki/V%C3%B6lkerrechtssubjekt). Weil der Text sich (im Geiste der mindestens EU-weit angelegten [*Public Code*-Initiative](https://publiccode.eu/)) um eine möglichst international gültige Perspektive bemüht, steht dort nicht "bundes-deutsch" oder ähnliches. Die Aussage erfolgt außerdem unter der **Prämisse** hinreichend funktionierender rechtsstaatllicher und **demokratischer Prinzipien**.
+
+
+<br>
+
+Der zweite spannende Punkt ist der **Privilegien-Vorwurf**: "'wir können das ja selber hosten, da müssen wir nicht gegen die Plattformökonomie arbeiten, das ist ja unrealistisch'". Auch dieser Vorwurf unserer Meinung nach **ungerechtfertigt**. Gründe:
+
+1. Wir schlagen explizit <https://codeberg.org/> als eine mögliche Alternative zu Github vor. Damit ist **kein Hostingaufwand** verbunden.
+2. Die Hürde des selber Hostens (auf öffentlichen gittea oder gitlab-Instanzen) ist verglichen mit anderen staatlichen Infrastrukturaufgaben absolut zumutbar.
+3. Vom Staat die Bereitstellung einer entsprechenden Infrastruktur (als Alternative zu einer weiteren Konzernabhängigkeit) zu fordern, ist unserer Meinung nach nicht "privilegiert", sondern das schlicht das Recht digital mündiger Bürger:innen.
+
+
+Der zweite Teil des Vorwurfs ("'da müssen wir nicht gegen die Plattformökonomie arbeiten, das ist ja unrealistisch'") ist etwas **verwunderlich**. Aus unserer Stellungnahme geht klar hervor, dass wir die Plattformökonomie für problematisch halten. Möglicherweise ist aber unsere Formulierung "Es geht (aktuell) nicht darum, die Plattformökonomie grundsätzlich wegzubekommen." der Aufhänger dafür. Gemeint ist: Unter den gegebenen globalen, europäischen und nationalstaatlichen Machtverhältnissen ist das **Brechen der Plattformmonopole zwar wünschenswert aber unrealistisch**. Die Nutzung und die damit verbundene Stärkung dezentraler Alternativen ist ein **Schritt in die richtige Richtung, der aktuell** gegangen werden kann und eine Überwindung der Monopol-Situationen in Zukunft realistischer macht.
+
+Lilith Wittmanns Position scheint dagegen zu sein, Monopol-Infrastruktur eifrig zu nutzen und ihre Nutzung durch die Verwaltung explizit einzufordern, während sie gleichzeitig die "Vergesellschaftung bestehender großer Plattformen" fordert, denn "dieses Problem müssen wir an der Wurzel angehen" ([Quelle](https://chaos.social/@Lilith/107744693098758404)).
+
+
+Aus unserer Sicht ist **dieser Ansatz widersprüchlich** (siehe auch BILD-Beispiel oben), aber vielleicht hat Lilith Wittmann ja einen **cleveren Plan** zur Überwindung des Plattformkapitalismus von innen heraus, den wir noch nicht verstanden haben.
+
+
+## Fazit (2022-02-14)
+
+Vermutlich (und hoffentlich) hat Lilith Wittmann wichtigere Dinge zu tun, als sich auf ein nerviges Kritik-Ping-Pong einzulassen. Wir sehen unsere Rolle darin, herauszuarbeiten wo ihre bisherige Argumentation Schwächen hat, a) um ggf. sie selbst zum Überdenken anzuregen und b) um andere bei der kritischen Reflektion ihrer Positionen zu unterstützen.

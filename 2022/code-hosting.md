@@ -83,7 +83,7 @@ Lilith Wittmann ist eine reichweitenstarke Aktivistin, die schon viele coole Din
 
 ## Update 2022-02-14:
 
-Lilith Wittmann hat sich nicht lumpen lassen und ihrerseits diesen Beitrag eingeordnet [siehe Toot](https://chaos.social/@Lilith/107792969256005080):
+Lilith Wittmann hat sich nicht lumpen lassen und ihrerseits diesen Beitrag eingeordnet ([siehe Toot](https://chaos.social/@Lilith/107792969256005080)):
 
 
 > Man könnte so viele gute Punkte gegen meine Position, Code der Verwaltung bei Github zu hosten, anführen.

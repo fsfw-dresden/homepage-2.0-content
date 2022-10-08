@@ -54,7 +54,7 @@ Karte: https://osm.org/go/0MLhDLQRF--?layers=N&m=
 <hr>
 <section id="kontakt">
     <h2>Kontaktinformation</h2>
-    <p>Man kann uns per E-Mail erreichen unter <a href="mailto:kontakt-mail@fsfw-dresden.de">kontakt-mail{ät}fsfw-dresden.de</a></p>
+    <p>Man kann uns per E-Mail erreichen unter <a href="mailto:kontakt-mail{ät}fsfw-dresden.de">kontakt-mail{ät}fsfw-dresden.de</a></p>
     <p>Außerdem betreiben wir Mailinglisten:</p>
     <ul>
         <li>

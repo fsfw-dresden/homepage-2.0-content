@@ -1,4 +1,4 @@
-Title: Homepage
+Title: FSFW Homepage
 Date: 2017-02-02 18:49:00
 Author: FSFW Dresden
 save_as: index.html
@@ -16,7 +16,7 @@ Template: page_raw
 
 
     <h3>Newsletter</h3>
-    <p>Wir informieren über unsere Veranstaltungen auf unserem Newsletter: <a href="//lists.fsfw-dresden.de/mailman/listinfo/news">abonnieren</a> (maximal ein bis zwei E-Mails pro Monat).</p>
+    <p>Wir informieren über unsere Veranstaltungen auf unserem Newsletter: <a href="//lists.fsfw-dresden.de/postorius/lists/news.lists.fsfw-dresden.de/">abonnieren</a> (maximal ein bis zwei E-Mails pro Monat).</p>
 
 
 </section>
@@ -54,22 +54,22 @@ Karte: https://osm.org/go/0MLhDLQRF--?layers=N&m=
 <hr>
 <section id="kontakt">
     <h2>Kontaktinformation</h2>
-    <p>Man kann uns per E-Mail erreichen unter <a href="mailto:kontakt@fsfw-dresden.de">kontakt@fsfw-dresden.de</a></p>
+    <p>Man kann uns per E-Mail erreichen unter <a href="mailto:kontakt-mail@fsfw-dresden.de">kontakt-mail{ät}fsfw-dresden.de</a></p>
     <p>Außerdem betreiben wir Mailinglisten:</p>
     <ul>
         <li>
-            <p><a href="//lists.fsfw-dresden.de/mailman/listinfo/discuss">discuss@lists.fsfw-dresden.de</a></p>
+            <p><a href="//lists.fsfw-dresden.de/postorius/lists/discuss.lists.fsfw-dresden.de/">discuss{ät}lists.fsfw-dresden.de</a></p>
             <ul>
                 <li>Unsere offene Diskussionsliste: Für alle die aktiv mitarbeiten wollen oder Anregungen haben.</li>
-                <li><a href="//lists.fsfw-dresden.de/mailman/listinfo/discuss">abonnieren</a></li>
+                <li><a href="//lists.fsfw-dresden.de/postorius/lists/discuss.lists.fsfw-dresden.de/">abonnieren</a></li>
             </ul>
         </li>
         <li>
-            <p><a href="//lists.fsfw-dresden.de/mailman/listinfo/news">news@lists.fsfw-dresden.de</a></p>
+            <p><a href="//lists.fsfw-dresden.de/postorius/lists/news.lists.fsfw-dresden.de/">news@lists.fsfw-dresden.de</a></p>
             <ul>
                 <li>Für Interessierte: Hinweise auf Veranstaltungen</li>
                 <li>Nur ein bis zwei E-Mails pro Monat</li>
-                <li><a href="//lists.fsfw-dresden.de/mailman/listinfo/news">abonnieren</a></li>
+                <li><a href="//lists.fsfw-dresden.de/postorius/lists/news.lists.fsfw-dresden.de/">abonnieren</a></li>
             </ul>
         </li>
     </ul>

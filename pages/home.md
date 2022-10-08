@@ -14,40 +14,24 @@ Template: page_raw
     </ul>
 
 
-    <section  id="newsletter">
-        <h3>Newsletter</h3>
-        <p>Wir informieren über unsere Veranstaltungen auf unserem Newsletter: <a href="//lists.fsfw-dresden.de/mailman/listinfo/news">abonnieren</a> (maximal ein bis zwei E-Mails pro Monat).</p>
-    </section>
 
-    <section id="plenum">
-        <h3>Plenum</h3>
-        <p>Zu unserem regelmäßigen Treffen, dem sog. Plenum, sind Interessierte herzlich willkommen!</p>
-        <dl>
-            <dt>Datum &amp; Uhrzeit</dt>
-            <dd>
-                <span class="rrule"> <b>Montag</b> (08.02.2021) 17:30 Uhr</span>
-            </dd>
-            <dt>Ort</dt>
-            <dd>
-                Onlinekonferenz-Teilnahmelinks (BBB):
-                <a href="https://selfservice.zih.tu-dresden.de/l/link.php?m=82017&p=5222e1ef">mit ZIH-Login</a>,
-                <a href="https://selfservice.zih.tu-dresden.de/link.php?m=82017&p=b2c99b45">ohne ZIH-Login</a>.
-            </dd>
-        </dl>
-    </section>
+    <h3>Newsletter</h3>
+    <p>Wir informieren über unsere Veranstaltungen auf unserem Newsletter: <a href="//lists.fsfw-dresden.de/mailman/listinfo/news">abonnieren</a> (maximal ein bis zwei E-Mails pro Monat).</p>
+
+
 </section>
 <hr>
 <section id="news">
 <h2>Aktuelles</h2>
 <section id="uni-stick" class="news">
-<span datetime="2021-02-08">08.02.20201</span>
-<h3>Digitales FSFW-Plenum</h3>
-Nach längerer Zeit findet wieder ein FSFW-Plenum statt: Montag, 08.02.2021. 17:30 Uhr, per Onlinekonferenz über BigBluButton. Alle Interessierten – unabhängig vom Hintergrundwissen – sind herzlich zur unverbindlichen Teilnahme eingeladen.
+<span datetime="2022-10-11 11:30:00">2022-10-11 11:30</span>
+<h3>FSFW Infostand vor der Alten Mensa</h3>
 
-Onlinekonferenz-Teilnahmelinks BBB:
-<a href="https://selfservice.zih.tu-dresden.de/l/link.php?m=82017&p=5222e1ef">mit ZIH-Login</a>,
-<a href="https://selfservice.zih.tu-dresden.de/link.php?m=82017&p=b2c99b45">ohne ZIH-Login</a>.
+Das neue Semester hat begonnen und es gibt potenziell viele neue Studierende und Mitarbeiter:innen mit Interesse an Engagement für Freie Software und Freies Wissen.
 
+Um hierfür eine Anlaufstelle zu bieten, treffen wir uns am Dienstag, 11.10., von 11:30 bis 13:30 UHr auf der „Get TU-gether Zone“ vor der Alten Mensa und präsentieren die FSFW und kommen mit Menschen ins Gespräch.
+
+Karte: https://osm.org/go/0MLhDLQRF--?layers=N&m=
 
 </section>
 </section>

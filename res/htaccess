@@ -7,6 +7,7 @@ Redirect 302 /twitter https://twitter.com/fsfwdresden
 Redirect 302 /diaspora https://jenaspora.de/u/fsfw_dresden
 Redirect 302 /facebook https://wiki.fsfw-dresden.de/doku.php/positionen/position_zu_facebook
 Redirect 302 /gpg https://wiki.fsfw-dresden.de/doku.php/doku/software/gpg/anleitungen_zu_pgp
+Redirect 302 /stick https://wiki.fsfw-dresden.de/doku.php/doku/usb-stick
 Redirect 302 /usb-stick https://wiki.fsfw-dresden.de/doku.php/doku/usb-stick
 Redirect 302 /uni-stick https://wiki.fsfw-dresden.de/doku.php/doku/uni-stick
 Redirect 302 /fork https://wiki.fsfw-dresden.de/doku.php/doku/fsfw-forken

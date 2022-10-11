@@ -20,10 +20,22 @@ Template: page_raw
 
 
 </section>
+
 <hr>
+
 <section id="news">
 <h2>Aktuelles</h2>
+
 <section id="uni-stick" class="news">
+<h3>FSFW USB-Stick Projekte</h3>
+
+Beim Info-Stand wurden wir sehr oft nach dem Uni-Stick bzw. dem daraus hervorgegangenen Schulstick und Makerstick gefragt. Die Stickprojekte werden aktiv bearbeitet und ein offizielles Release ist für Ende 2022 geplant.
+
+<br>Mehr Informationen: <a href="https://fsfw-dresden.de/stick">fsfw-dresden.de/stick</a>
+
+</section>
+
+<section id="info-stand" class="news">
 <span datetime="2022-10-11 11:30:00">2022-10-11 11:30</span>
 <h3>FSFW Infostand vor der Alten Mensa</h3>
 

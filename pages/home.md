@@ -42,8 +42,9 @@ Beim Info-Stand wurden wir sehr oft nach dem Uni-Stick bzw. dem daraus hervorgeg
 Das neue Semester hat begonnen und es gibt potenziell viele neue Studierende und Mitarbeiter:innen mit Interesse an Engagement für Freie Software und Freies Wissen.
 
 Um hierfür eine Anlaufstelle zu bieten, treffen wir uns am Dienstag, 11.10., von 11:30 bis 13:30 UHr auf der „Get TU-gether Zone“ vor der Alten Mensa und präsentieren die FSFW und kommen mit Menschen ins Gespräch.
+<br>
 
-Karte: <https://osm.org/go/0MLhDLQRF--?layers=N&m=>
+Karte: <a href="https://osm.org/go/0MLhDLQRF--?layers=N&m=">https://osm.org/go/0MLhDLQRF--?layers=N&m=</a>
 
 </section>
 </section>

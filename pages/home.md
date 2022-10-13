@@ -43,6 +43,7 @@ Das neue Semester hat begonnen und es gibt potenziell viele neue Studierende und
 
 Um hierfür eine Anlaufstelle zu bieten, treffen wir uns am Dienstag, 11.10., von 11:30 bis 13:30 UHr auf der „Get TU-gether Zone“ vor der Alten Mensa und präsentieren die FSFW und kommen mit Menschen ins Gespräch.
 <br>
+<br>
 
 Karte: <a href="https://osm.org/go/0MLhDLQRF--?layers=N&m=">https://osm.org/go/0MLhDLQRF--?layers=N&m=</a>
 

@@ -29,7 +29,7 @@ Template: page_raw
 <section id="ese2023" class="news">
 <h3>ESE Oktober 2023</h3>
 
-Die FSFW wünscht allen Erstis einen guten Start ins Studium. Wer sich in einer Hochschulgruppe engagieren möchte ist bei uns sehr gut aufgehoben.
+Die FSFW wünscht allen Erstis einen guten Start ins Studium. Wer sich in einer Hochschulgruppe engagieren möchte, ist bei uns sehr gut aufgehoben.
 
 <p>
 Einfach Kontakt aufnehmen!
@@ -39,7 +39,7 @@ Einfach Kontakt aufnehmen!
 per Mail unter <a href="mailto:kontakt-mail{ät}fsfw-dresden.de">kontakt-mail{ät}fsfw-dresden.de</a>
 </li>
 <li>
- oder via Matrix-Chat: <a href="https://matrix.to/#/#fsfw-chat:tu-dresden.de">#fsfw-chat:tu-dresden.de</a>
+ oder via Matrix-Chat: <a href="https://matrix.to/#/#fsfw-chat:tu-dresden.de" target="_blank">#fsfw-chat:tu-dresden.de</a>
 </li>
 
 </ul>
@@ -50,30 +50,10 @@ per Mail unter <a href="mailto:kontakt-mail{ät}fsfw-dresden.de">kontakt-mail{ä
 
 </section>
 
-
-<section id="uni-stick" class="news">
-<h3>FSFW USB-Stick Projekte</h3>
-
-Beim Info-Stand wurden wir sehr oft nach dem Uni-Stick bzw. dem daraus hervorgegangenen Schulstick und Makerstick gefragt. Die Stickprojekte werden weiterhin aktiv bearbeitet.
-
-<br>Mehr Informationen: <a href="https://fsfw-dresden.de/stick">fsfw-dresden.de/stick</a>
-
 </section>
+<!-- end of news section -->
 
-<section id="info-stand" class="news">
-<span datetime="2022-10-11 11:30:00">2022-10-11 11:30</span>
-<h3>FSFW Infostand vor der Alten Mensa</h3>
 
-Das neue Semester hat begonnen und es gibt potenziell viele neue Studierende und Mitarbeiter:innen mit Interesse an Engagement für Freie Software und Freies Wissen.
-
-Um hierfür eine Anlaufstelle zu bieten, treffen wir uns am Dienstag, 11.10., von 11:30 bis 13:30 UHr auf der „Get TU-gether Zone“ vor der Alten Mensa und präsentieren die FSFW und kommen mit Menschen ins Gespräch.
-<br>
-<br>
-
-Karte: <a href="https://osm.org/go/0MLhDLQRF--?layers=N&m=">https://osm.org/go/0MLhDLQRF--?layers=N&m=</a>
-
-</section>
-</section>
 <hr>
 <section id="video">
     <div about="https://fsfw-dresden.de/videos/Die-FSFW-at-Lightningtalks-Datenspuren2016.webm">

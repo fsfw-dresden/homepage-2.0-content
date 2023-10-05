@@ -26,3 +26,4 @@ Redirect 302 /funding-foss https://wiki.fsfw-dresden.de/doku.php?id=doku:funding
 Redirect 302 /python-workshop https://wiki.fsfw-dresden.de/doku.php?id=doku:python-workshop
 Redirect 302 /decday /2019/03/fediverse-decday.html
 Redirect 302 /ese23 https://wiki.fsfw-dresden.de/lib/exe/fetch.php?media=events:2023-inf-ese-fsfw-bub-digna.pdf
+Redirect 302 /ese2023 https://wiki.fsfw-dresden.de/lib/exe/fetch.php?media=events:2023-inf-ese-fsfw-bub-digna.pdf

@@ -26,10 +26,35 @@ Template: page_raw
 <section id="news">
 <h2>Aktuelles</h2>
 
+<section id="ese2023" class="news">
+<h3>ESE Oktober 2023</h3>
+
+Die FSFW wünscht allen Erstis einen guten Start ins Studium. Wer sich in einer Hochschulgruppe engagieren möchte ist bei uns sehr gut aufgehoben.
+
+<p>
+Einfach Kontakt aufnehmen!
+
+<ul>
+<li>
+per Mail unter <a href="mailto:kontakt-mail{ät}fsfw-dresden.de">kontakt-mail{ät}fsfw-dresden.de</a>
+</li>
+<li>
+ oder via Matrix-Chat: <a href="https://matrix.to/#/#fsfw-chat:tu-dresden.de">#fsfw-chat:tu-dresden.de</a>
+</li>
+
+</ul>
+
+</p>
+
+
+
+</section>
+
+
 <section id="uni-stick" class="news">
 <h3>FSFW USB-Stick Projekte</h3>
 
-Beim Info-Stand wurden wir sehr oft nach dem Uni-Stick bzw. dem daraus hervorgegangenen Schulstick und Makerstick gefragt. Die Stickprojekte werden aktiv bearbeitet und ein offizielles Release ist für Ende 2022 geplant.
+Beim Info-Stand wurden wir sehr oft nach dem Uni-Stick bzw. dem daraus hervorgegangenen Schulstick und Makerstick gefragt. Die Stickprojekte werden weiterhin aktiv bearbeitet.
 
 <br>Mehr Informationen: <a href="https://fsfw-dresden.de/stick">fsfw-dresden.de/stick</a>
 
